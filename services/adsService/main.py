@@ -15,10 +15,10 @@ def get_rentals():
         rental["_id"] = str(rental["_id"])
     return rentals
 
-if __name__ == '__main__':
-    #analyze_posts()
-
-    import uvicorn
-
-    uvicorn.run("main:app", host="localhost", port=8000, reload=True)
-# Include the router in the main FastAPI app
+# if __name__ == '__main__':
+#     #analyze_posts()
+#
+#     import uvicorn
+#
+#     uvicorn.run("main:app", host="localhost", port=8000, reload=True)
+# # Include the router in the main FastAPI app
