@@ -8,12 +8,14 @@ from common.constants import POSITIONSTACK_APIKEY, POSITIONSTACK_ENDPOINT
 import facebook_api
 import map
 import data_layer.connection as mongo_connection
+from apartments_api import router
 
 app = FastAPI()
+app.include_router(router)
 
 def analyze_posts():
     mydb = mongo_connection.get_mongodb_connection()
-    mycol = mydb["post_data"]
+    mycol = mydb["rental_ads"]
 
     posts = facebook_api.get_posts()
     cleaned_messages = []
@@ -48,9 +50,3 @@ def analyze_posts():
 
     #map.produce_map(coords)
 
-if __name__ == '__main__':
-    #analyze_posts()
-
-    import uvicorn
-
-    uvicorn.run("main:app", host="localhost", port=8000, reload=True)

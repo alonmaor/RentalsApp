@@ -17,7 +17,7 @@ class Rental(BaseModel):
     petsAllowed: bool
 
 # API endpoint to get rentals
-@router.get("/get_rentals")
+@router.get("/rental_ads")
 def get_rentals():
     rentals = list(rentals_collection.find())
     for rental in rentals:
@@ -26,5 +26,3 @@ def get_rentals():
 
 
 # Include the router in the main FastAPI app
-from main import app
-app.include_router(router)

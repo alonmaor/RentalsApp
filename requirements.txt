@@ -1,7 +1,8 @@
 fastapi
 uvicorn[standard]
-fastapi
 openai
 pydantic
 requests
 pymongo
+folium
+pandas
