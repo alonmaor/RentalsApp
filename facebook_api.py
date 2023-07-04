@@ -1,21 +1,46 @@
 import requests
 
+from common.constants import FB_ACCESS_TOKEN_NAME, FB_GROUP_ID_NAME
+
+from facebook_scraper import get_posts
 # Set your access token and group ID
-fb_access_token = 'EAANiLsDHsckBAAda0LvZAB9jceHYqJFzSpz7lykTwzamTj5rKBde4uW2BwIrss3G0RUaMakQ7TATjkH6nWWUiFwvmGOZBsOZBCJQmlZCXFIxUwRpxUY3WWZB3lsYGGL4OQMVE667Ae6DLFDNnvzs6CSlxwH7Xy1YRwtUunCOS7AZDZD'
-fb_group_id = '145137958541058'
+#fb_access_token = 'EAANiLsDHsckBAPZA3LeMtw6l52NwqAZByXCE70Vz5GwVldUsU8LhH1OeG4GwkOAIGJaUyYnvGca0hk9YOWiBZABKuarQJjZBjX2AFZBhW83tBSQCrZBclI6ZCrmYMCCAzwwjop3PpJZBtDG01et8fpZCi75ahs8ZAfjuZBdSJAkjVLun56dY0JqIkZBeVXKfTpx4PniyrvTMXj9usQZDZD'
+fb_group_id = '458499457501175'
+#
+# # Make a GET request to fetch posts from the group
+# fb_url = f'https://graph.facebook.com/v16.0/{fb_group_id}/feed'
+# fb_params = {
+#     'access_token': fb_access_token,
+#     'limit': 100  # Adjust the limit as per your requirements
+# }
 
-# Make a GET request to fetch posts from the group
-fb_url = f'https://graph.facebook.com/v16.0/{fb_group_id}/feed'
-fb_params = {
-    'access_token': fb_access_token,
-    'limit': 100  # Adjust the limit as per your requirements
-}
 
-all_posts = []
-
-def get_posts():
+def scrape_fb_posts(config, logger):
+    fb_group_id = config[FB_GROUP_ID_NAME]
     try:
+        for post in get_posts(fb_group_id, pages=20):
+            print('----------------------------------post----------------------------------\n')
+            print(post)
+            yield post
+    except Exception as e:
+        logger.error(f'failed to scrape fb posts. \n {e}')
+        return None
+
+
+def get_fb_posts(config, logger):
+    all_posts = []
+    try:
+        fb_access_token = config[FB_ACCESS_TOKEN_NAME]
+        fb_group_id = config[FB_GROUP_ID_NAME]
+        print(f'fb_access_token: {fb_access_token}')
+        print(f'fb_group_id: {fb_group_id}')
+        fb_url = f'https://graph.facebook.com/v16.0/{fb_group_id}/feed'
+        fb_params = {
+            'access_token': fb_access_token,
+            'limit': 100  # Adjust the limit as per your requirements
+        }
         response = requests.get(fb_url, params=fb_params)
+        print(response)
         data = response.json()
 
         # Add posts to the list
@@ -28,6 +53,7 @@ def get_posts():
         #     break
 
     except requests.exceptions.RequestException as e:
+        logger.error(f"An error occurred: {e}")
         print(f"An error occurred: {e}")
 
     # Process the retrieved posts

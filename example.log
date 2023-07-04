@@ -1,0 +1,3999 @@
+2023-06-26 17:05:03,186 - INFO - ללא תיווך
+מראות מחר בערב (חמישי)
+מתפנה חדר בדירת שני שותפים בדיזנגוף-נורדאו
+מחפשות שותף/שותפה
+קצת על הדירה:
+-שירותיםמקלחת פרטיים לכל שותף/ה
+-דירה מרוהטת קומפלט-
+ifi טלוויזיה חכמה מכונת כביסה שואב אבק אלחוטי מכונת קפה נספרסו מקרר תמי 4 ושאר מוצרי חשמל למטבח מזגנים בכל הדירה.
+-דירה מרווחת ומוארת משופצת ברמה גבוהה עם מרחב ופרטיות
+-מכולת עם כל מה שצריך צמודה לבניין שפתוחה 24/7
+-תחנת אוטובוס צמודה עם קווים שמגיעים לכל העיר.
+-מחפשות מישהו/מישהי בגילאים 23-28 מסודר/ת נקי/ה בוייב טוב עם עבודה מסודרת.
+-שכר דירה 3700חשבונות סטנדרטים.
+-בעלת דירה מקסימה שמטפלת בהכל 
+-חוזה קליל וסטנדרטי
+אין תמא או עבודות רכבת 
+ללא בעלי חיים ללא עישון בדירה אך יש פינת עישון בחוץ.
+כניסה ב 1.6
+לפרטים נוספים ותיאום הגעה נא לפנות בפרטי
+2023-06-26 17:05:03,739 - INFO - found in DB: 
+{'_id': ObjectId('64986a31625d8fa59a530c78'), 'address': 'Dizengoff-Nordau, Tel Aviv, Israel', 'price': 3700, 'rooms': 2, 'elevator': False, 'petsAllowed': False, 'moveInDate': '01-06-2021', 'floor': '', 'mediation': False, 'sublet': False, 'subletDates': '', 'posting': 'ללא תיווך\nמראות מחר בערב (חמישי)\nמתפנה חדר בדירת שני שותפים בדיזנגוף-נורדאו\nמחפשות שותף/שותפה\nקצת על הדירה:\n-שירותיםמקלחת פרטיים לכל שותף/ה\n-דירה מרוהטת קומפלט-\nifi טלוויזיה חכמה מכונת כביסה שואב אבק אלחוטי מכונת קפה נספרסו מקרר תמי 4 ושאר מוצרי חשמל למטבח מזגנים בכל הדירה.\n-דירה מרווחת ומוארת משופצת ברמה גבוהה עם מרחב ופרטיות\n-מכולת עם כל מה שצריך צמודה לבניין שפתוחה 24/7\n-תחנת אוטובוס צמודה עם קווים שמגיעים לכל העיר.\n-מחפשות מישהו/מישהי בגילאים 23-28 מסודר/ת נקי/ה בוייב טוב עם עבודה מסודרת.\n-שכר דירה 3700חשבונות סטנדרטים.\n-בעלת דירה מקסימה שמטפלת בהכל \n-חוזה קליל וסטנדרטי\nאין תמא או עבודות רכבת \nללא בעלי חיים ללא עישון בדירה אך יש פינת עישון בחוץ.\nכניסה ב 1.6\nלפרטים נוספים ותיאום הגעה נא לפנות בפרטי', 'lat': 32.066455, 'lon': 34.783553}
+2023-06-26 17:05:03,739 - INFO - להשכרה בשכונת יד אליהו המבוקשת דירת 3 חדרים משופצת
+בשיווק בלעדי
+פטרסון 1 תל אביב
+דירת 3 חדרים משופצת לגמרי כ60 מר.
+קומה 2 ללא מעלית בבניין שקט וקטן.
+יש דוד שמשאפשר להוציא תו חניה.
+אפשר בעח.
+הדירה מגיעה מרוהטת חלקית- 2 ארונות בגדיםתנור משולב עם כיריים.
+מיקום מעולה בקרבת- שדרות החיילהיכל מנורה מבטחיםמתחם ההייטק מגדלי אלוןיציאות מהירות לאיילון וכביש 1תחבורה ציבורית נגישהבתי ספר וגנים.
+מעולה לזוגות/משפחות
+כניסה: 1/06 גמישה מעט
+מחיר:5100 שח
+לפרטים נוספים ותיאום:
+עומר  050-3350508
+-תיווך
+2023-06-26 17:05:03,816 - INFO - found in DB: 
+{'_id': ObjectId('64986a36625d8fa59a530c79'), 'address': 'Peterson 1, Tel Aviv, Yad Eliyahu neighborhood', 'price': 5100, 'rooms': 3, 'elevator': False, 'petsAllowed': True, 'moveInDate': '1/06', 'floor': 2, 'mediation': True, 'sublet': False, 'subletDates': '', 'posting': 'להשכרה בשכונת יד אליהו המבוקשת דירת 3 חדרים משופצת\nבשיווק בלעדי\nפטרסון 1 תל אביב\nדירת 3 חדרים משופצת לגמרי כ60 מר.\nקומה 2 ללא מעלית בבניין שקט וקטן.\nיש דוד שמשאפשר להוציא תו חניה.\nאפשר בעח.\nהדירה מגיעה מרוהטת חלקית- 2 ארונות בגדיםתנור משולב עם כיריים.\nמיקום מעולה בקרבת- שדרות החיילהיכל מנורה מבטחיםמתחם ההייטק מגדלי אלוןיציאות מהירות לאיילון וכביש 1תחבורה ציבורית נגישהבתי ספר וגנים.\nמעולה לזוגות/משפחות\nכניסה: 1/06 גמישה מעט\nמחיר:5100 שח\nלפרטים נוספים ותיאום:\nעומר  050-3350508\n-תיווך', 'lat': 33.395331, 'lon': -111.964417}
+2023-06-26 17:05:03,816 - INFO - להשכרה ברחוב לינקולן 5 ת"א דירת חדר
+שכר דירה 3900 ש"ח
+תשלומי: ארנונה מיםחשמלועד  - 500 ש"ח
+מעלית
+ארון מקיר לקיר  כפי שמופיע בתמונה
+ריהוט למכירה במידה והשוכר מעוניין
+כניסה מיידית
+מתחת לבניין
+סופר יודה בית קפה("התחתית") מכבסה פסטה מיה
+צמוד לקניון בוגרשוב הארבעה
+לפרטים ותאום
+0542266881
+מתיווך
+2023-06-26 17:05:03,893 - INFO - found in DB: 
+{'_id': ObjectId('64986a3d625d8fa59a530c7a'), 'address': 'Lincoln St. 5, Tel Aviv', 'price': 3900, 'rooms': 1, 'elevator': True, 'petsAllowed': False, 'moveInDate': 'Immediate', 'floor': -1, 'mediation': True, 'sublet': False, 'subletDates': '', 'posting': 'להשכרה ברחוב לינקולן 5 ת"א דירת חדר\nשכר דירה 3900 ש"ח\nתשלומי: ארנונה מיםחשמלועד  - 500 ש"ח\nמעלית\nארון מקיר לקיר  כפי שמופיע בתמונה\nריהוט למכירה במידה והשוכר מעוניין\nכניסה מיידית\nמתחת לבניין\nסופר יודה בית קפה("התחתית") מכבסה פסטה מיה\nצמוד לקניון בוגרשוב הארבעה\nלפרטים ותאום\n0542266881\nמתיווך', 'lat': -27.434474, 'lon': 153.022429}
+2023-06-26 17:05:03,894 - INFO - דירת חדר פלוס גג פרטי ענק בצפון ישן 
+לסל /בן יהודה
+3 דקות הליכה מחוף הילטון
+דירת חדר
+ קומה 4/4
+תתאים לזוג או יחיד
+שטח 30 מ"ר פלוס גג 45 מטר
+דירה לא מרוהטת
+תו חניה
+כניסה 1.6
+מחיר 5200 שח
+לפרטים נוספים ותיאום אלי (תיווך)0547899298
+2023-06-26 17:05:03,969 - INFO - found in DB: 
+{'_id': ObjectId('6499970bdd312c61a9e3ce40'), 'address': 'Derech Ben Yehuda 54, Tel Aviv-Jaffa, Israel', 'price': 5200, 'rooms': 1, 'moveInDate': '1/6', 'floor': 4, 'petsAllowed': False, 'elevator': True, 'mediation': True, 'sublet': False, 'subletDates': '', 'posting': 'דירת חדר פלוס גג פרטי ענק בצפון ישן \nלסל /בן יהודה\n3 דקות הליכה מחוף הילטון\nדירת חדר\n קומה 4/4\nתתאים לזוג או יחיד\nשטח 30 מ"ר פלוס גג 45 מטר\nדירה לא מרוהטת\nתו חניה\nכניסה 1.6\nמחיר 5200 שח\nלפרטים נוספים ותיאום אלי (תיווך)0547899298', 'lat': 32.066455, 'lon': 34.783553}
+2023-06-26 18:58:00,218 - INFO - ללא תיווך
+מראות מחר בערב (חמישי)
+מתפנה חדר בדירת שני שותפים בדיזנגוף-נורדאו
+מחפשות שותף/שותפה
+קצת על הדירה:
+-שירותיםמקלחת פרטיים לכל שותף/ה
+-דירה מרוהטת קומפלט-
+ifi טלוויזיה חכמה מכונת כביסה שואב אבק אלחוטי מכונת קפה נספרסו מקרר תמי 4 ושאר מוצרי חשמל למטבח מזגנים בכל הדירה.
+-דירה מרווחת ומוארת משופצת ברמה גבוהה עם מרחב ופרטיות
+-מכולת עם כל מה שצריך צמודה לבניין שפתוחה 24/7
+-תחנת אוטובוס צמודה עם קווים שמגיעים לכל העיר.
+-מחפשות מישהו/מישהי בגילאים 23-28 מסודר/ת נקי/ה בוייב טוב עם עבודה מסודרת.
+-שכר דירה 3700חשבונות סטנדרטים.
+-בעלת דירה מקסימה שמטפלת בהכל 
+-חוזה קליל וסטנדרטי
+אין תמא או עבודות רכבת 
+ללא בעלי חיים ללא עישון בדירה אך יש פינת עישון בחוץ.
+כניסה ב 1.6
+לפרטים נוספים ותיאום הגעה נא לפנות בפרטי
+2023-06-26 18:58:00,788 - INFO - found in DB: 
+{'_id': ObjectId('64986a31625d8fa59a530c78'), 'address': 'Dizengoff-Nordau, Tel Aviv, Israel', 'price': 3700, 'rooms': 2, 'elevator': False, 'petsAllowed': False, 'moveInDate': '01-06-2021', 'floor': '', 'mediation': False, 'sublet': False, 'subletDates': '', 'posting': 'ללא תיווך\nמראות מחר בערב (חמישי)\nמתפנה חדר בדירת שני שותפים בדיזנגוף-נורדאו\nמחפשות שותף/שותפה\nקצת על הדירה:\n-שירותיםמקלחת פרטיים לכל שותף/ה\n-דירה מרוהטת קומפלט-\nifi טלוויזיה חכמה מכונת כביסה שואב אבק אלחוטי מכונת קפה נספרסו מקרר תמי 4 ושאר מוצרי חשמל למטבח מזגנים בכל הדירה.\n-דירה מרווחת ומוארת משופצת ברמה גבוהה עם מרחב ופרטיות\n-מכולת עם כל מה שצריך צמודה לבניין שפתוחה 24/7\n-תחנת אוטובוס צמודה עם קווים שמגיעים לכל העיר.\n-מחפשות מישהו/מישהי בגילאים 23-28 מסודר/ת נקי/ה בוייב טוב עם עבודה מסודרת.\n-שכר דירה 3700חשבונות סטנדרטים.\n-בעלת דירה מקסימה שמטפלת בהכל \n-חוזה קליל וסטנדרטי\nאין תמא או עבודות רכבת \nללא בעלי חיים ללא עישון בדירה אך יש פינת עישון בחוץ.\nכניסה ב 1.6\nלפרטים נוספים ותיאום הגעה נא לפנות בפרטי', 'lat': 32.066455, 'lon': 34.783553}
+2023-06-26 18:58:00,788 - INFO - להשכרה בשכונת יד אליהו המבוקשת דירת 3 חדרים משופצת
+בשיווק בלעדי
+פטרסון 1 תל אביב
+דירת 3 חדרים משופצת לגמרי כ60 מר.
+קומה 2 ללא מעלית בבניין שקט וקטן.
+יש דוד שמשאפשר להוציא תו חניה.
+אפשר בעח.
+הדירה מגיעה מרוהטת חלקית- 2 ארונות בגדיםתנור משולב עם כיריים.
+מיקום מעולה בקרבת- שדרות החיילהיכל מנורה מבטחיםמתחם ההייטק מגדלי אלוןיציאות מהירות לאיילון וכביש 1תחבורה ציבורית נגישהבתי ספר וגנים.
+מעולה לזוגות/משפחות
+כניסה: 1/06 גמישה מעט
+מחיר:5100 שח
+לפרטים נוספים ותיאום:
+עומר  050-3350508
+-תיווך
+2023-06-26 18:58:00,877 - INFO - found in DB: 
+{'_id': ObjectId('64986a36625d8fa59a530c79'), 'address': 'Peterson 1, Tel Aviv, Yad Eliyahu neighborhood', 'price': 5100, 'rooms': 3, 'elevator': False, 'petsAllowed': True, 'moveInDate': '1/06', 'floor': 2, 'mediation': True, 'sublet': False, 'subletDates': '', 'posting': 'להשכרה בשכונת יד אליהו המבוקשת דירת 3 חדרים משופצת\nבשיווק בלעדי\nפטרסון 1 תל אביב\nדירת 3 חדרים משופצת לגמרי כ60 מר.\nקומה 2 ללא מעלית בבניין שקט וקטן.\nיש דוד שמשאפשר להוציא תו חניה.\nאפשר בעח.\nהדירה מגיעה מרוהטת חלקית- 2 ארונות בגדיםתנור משולב עם כיריים.\nמיקום מעולה בקרבת- שדרות החיילהיכל מנורה מבטחיםמתחם ההייטק מגדלי אלוןיציאות מהירות לאיילון וכביש 1תחבורה ציבורית נגישהבתי ספר וגנים.\nמעולה לזוגות/משפחות\nכניסה: 1/06 גמישה מעט\nמחיר:5100 שח\nלפרטים נוספים ותיאום:\nעומר  050-3350508\n-תיווך', 'lat': 33.395331, 'lon': -111.964417}
+2023-06-26 18:58:00,878 - INFO - להשכרה ברחוב לינקולן 5 ת"א דירת חדר
+שכר דירה 3900 ש"ח
+תשלומי: ארנונה מיםחשמלועד  - 500 ש"ח
+מעלית
+ארון מקיר לקיר  כפי שמופיע בתמונה
+ריהוט למכירה במידה והשוכר מעוניין
+כניסה מיידית
+מתחת לבניין
+סופר יודה בית קפה("התחתית") מכבסה פסטה מיה
+צמוד לקניון בוגרשוב הארבעה
+לפרטים ותאום
+0542266881
+מתיווך
+2023-06-26 18:58:00,950 - INFO - found in DB: 
+{'_id': ObjectId('64986a3d625d8fa59a530c7a'), 'address': 'Lincoln St. 5, Tel Aviv', 'price': 3900, 'rooms': 1, 'elevator': True, 'petsAllowed': False, 'moveInDate': 'Immediate', 'floor': -1, 'mediation': True, 'sublet': False, 'subletDates': '', 'posting': 'להשכרה ברחוב לינקולן 5 ת"א דירת חדר\nשכר דירה 3900 ש"ח\nתשלומי: ארנונה מיםחשמלועד  - 500 ש"ח\nמעלית\nארון מקיר לקיר  כפי שמופיע בתמונה\nריהוט למכירה במידה והשוכר מעוניין\nכניסה מיידית\nמתחת לבניין\nסופר יודה בית קפה("התחתית") מכבסה פסטה מיה\nצמוד לקניון בוגרשוב הארבעה\nלפרטים ותאום\n0542266881\nמתיווך', 'lat': -27.434474, 'lon': 153.022429}
+2023-06-26 18:58:00,950 - INFO - דירת חדר פלוס גג פרטי ענק בצפון ישן 
+לסל /בן יהודה
+3 דקות הליכה מחוף הילטון
+דירת חדר
+ קומה 4/4
+תתאים לזוג או יחיד
+שטח 30 מ"ר פלוס גג 45 מטר
+דירה לא מרוהטת
+תו חניה
+כניסה 1.6
+מחיר 5200 שח
+לפרטים נוספים ותיאום אלי (תיווך)0547899298
+2023-06-26 18:58:01,034 - INFO - found in DB: 
+{'_id': ObjectId('6499970bdd312c61a9e3ce40'), 'address': 'Derech Ben Yehuda 54, Tel Aviv-Jaffa, Israel', 'price': 5200, 'rooms': 1, 'moveInDate': '1/6', 'floor': 4, 'petsAllowed': False, 'elevator': True, 'mediation': True, 'sublet': False, 'subletDates': '', 'posting': 'דירת חדר פלוס גג פרטי ענק בצפון ישן \nלסל /בן יהודה\n3 דקות הליכה מחוף הילטון\nדירת חדר\n קומה 4/4\nתתאים לזוג או יחיד\nשטח 30 מ"ר פלוס גג 45 מטר\nדירה לא מרוהטת\nתו חניה\nכניסה 1.6\nמחיר 5200 שח\nלפרטים נוספים ותיאום אלי (תיווך)0547899298', 'lat': 32.066455, 'lon': 34.783553}
+2023-06-26 19:03:39,571 - INFO - חזר להיות רלוונטי
+מראים ביום שני 26.06 בשעה 19:00 - רמברנדט 42
+אנחנו מחפשים מחליפים לדירה שלנו 
+בלי החלפות בלי תיווך ובלי משחקים.
+כתובת : רמברדנט 42 איזור כיכר רבין 
+דירת שלושה חדרים קרקע נעימה ומרווחת.
+שכר דירה - 6500.
+חשבונות סטנדרטיים - כניסה ב20.7.
+מראים ביום שני 26.06 בשעה 19:00 - רמברנדט 42
+לעוד פרטים בפרטי
+2023-06-26 19:03:41,985 - INFO - {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Sorry, I cannot fulfill this request as the given text is not a complete and structured description of an apartment rental.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1687795420,
+  "id": "chatcmpl-7ViyinwjEXV1jbMHRyhsBJX3x0Jdu",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 23,
+    "prompt_tokens": 458,
+    "total_tokens": 481
+  }
+}
+2023-06-26 19:03:41,985 - INFO - Sorry, I cannot fulfill this request as the given text is not a complete and structured description of an apartment rental.
+2023-06-26 19:03:41,985 - INFO - --------------------
+
+2023-06-26 19:10:38,171 - INFO - חזר להיות רלוונטי
+מראים ביום שני 26.06 בשעה 19:00 - רמברנדט 42
+אנחנו מחפשים מחליפים לדירה שלנו 
+בלי החלפות בלי תיווך ובלי משחקים.
+כתובת : רמברדנט 42 איזור כיכר רבין 
+דירת שלושה חדרים קרקע נעימה ומרווחת.
+שכר דירה - 6500.
+חשבונות סטנדרטיים - כניסה ב20.7.
+מראים ביום שני 26.06 בשעה 19:00 - רמברנדט 42
+לעוד פרטים בפרטי
+2023-06-26 19:10:43,754 - INFO - {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n    \"address\": \"Rehov Rambam 42, near Kikar Rabin\",\n    \"price\": 6500,\n    \"rooms\": 3,\n    \"size\": null,\n    \"elevator\": false,\n    \"furnished\": null,\n    \"petsAllowed\": true,\n    \"moveInDate\": \"20/7\",\n    \"floor\": 0,\n    \"mediation\": false,\n    \"sublet\": true,\n    \"subletDates\": null\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1687795839,
+  "id": "chatcmpl-7Vj5TYowx719aZ40fuAsgN1ddWuWM",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 105,
+    "prompt_tokens": 458,
+    "total_tokens": 563
+  }
+}
+2023-06-26 19:10:43,754 - INFO - {
+    "address": "Rehov Rambam 42, near Kikar Rabin",
+    "price": 6500,
+    "rooms": 3,
+    "size": null,
+    "elevator": false,
+    "furnished": null,
+    "petsAllowed": true,
+    "moveInDate": "20/7",
+    "floor": 0,
+    "mediation": false,
+    "sublet": true,
+    "subletDates": null
+}
+2023-06-26 19:10:43,754 - INFO - --------------------
+
+2023-06-26 19:10:49,324 - INFO - Geocoding failed!
+2023-06-26 19:18:11,007 - INFO - חזר להיות רלוונטי
+מראים ביום שני 26.06 בשעה 19:00 - רמברנדט 42
+אנחנו מחפשים מחליפים לדירה שלנו 
+בלי החלפות בלי תיווך ובלי משחקים.
+כתובת : רמברדנט 42 איזור כיכר רבין 
+דירת שלושה חדרים קרקע נעימה ומרווחת.
+שכר דירה - 6500.
+חשבונות סטנדרטיים - כניסה ב20.7.
+מראים ביום שני 26.06 בשעה 19:00 - רמברנדט 42
+לעוד פרטים בפרטי
+2023-06-26 19:18:14,842 - INFO - {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Sorry, but I am unable to parse the given apartment rental details into a valid JSON object as there are some missing information and unclear information regarding certain details such as the exact size of the apartment and whether it's furnished or not. Can you please provide me with more accurate and detailed information?",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1687796292,
+  "id": "chatcmpl-7VjCmCH6gdAKB8Sn10rKPmq4srNz2",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 458,
+    "total_tokens": 516
+  }
+}
+2023-06-26 19:18:14,842 - INFO - Sorry, but I am unable to parse the given apartment rental details into a valid JSON object as there are some missing information and unclear information regarding certain details such as the exact size of the apartment and whether it's furnished or not. Can you please provide me with more accurate and detailed information?
+2023-06-26 19:18:14,842 - INFO - --------------------
+
+2023-06-26 19:25:26,490 - INFO - חזר להיות רלוונטי
+מראים ביום שני 26.06 בשעה 19:00 - רמברנדט 42
+אנחנו מחפשים מחליפים לדירה שלנו 
+בלי החלפות בלי תיווך ובלי משחקים.
+כתובת : רמברדנט 42 איזור כיכר רבין 
+דירת שלושה חדרים קרקע נעימה ומרווחת.
+שכר דירה - 6500.
+חשבונות סטנדרטיים - כניסה ב20.7.
+מראים ביום שני 26.06 בשעה 19:00 - רמברנדט 42
+לעוד פרטים בפרטי
+2023-06-26 19:25:29,720 - INFO - {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "I'm sorry, but the given rental information is in Hebrew, which I am not capable of understanding. Please provide the information in English or a language that I am capable of understanding.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1687796728,
+  "id": "chatcmpl-7VjJolzxGVausesMyJh1jgYE8p4IZ",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 37,
+    "prompt_tokens": 458,
+    "total_tokens": 495
+  }
+}
+2023-06-26 19:25:29,720 - INFO - I'm sorry, but the given rental information is in Hebrew, which I am not capable of understanding. Please provide the information in English or a language that I am capable of understanding.
+2023-06-26 19:25:29,720 - INFO - --------------------
+
+2023-06-26 19:29:16,740 - INFO - חזר להיות רלוונטי
+מראים ביום שני 26.06 בשעה 19:00 - רמברנדט 42
+אנחנו מחפשים מחליפים לדירה שלנו 
+בלי החלפות בלי תיווך ובלי משחקים.
+כתובת : רמברדנט 42 איזור כיכר רבין 
+דירת שלושה חדרים קרקע נעימה ומרווחת.
+שכר דירה - 6500.
+חשבונות סטנדרטיים - כניסה ב20.7.
+מראים ביום שני 26.06 בשעה 19:00 - רמברנדט 42
+לעוד פרטים בפרטי
+2023-06-26 19:29:21,156 - INFO - {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Rambandent 42, Kikar Rabin area\",\n  \"price\": 6500,\n  \"rooms\": 3,\n  \"moveInDate\": \"20/07\",\n  \"floor\": 0,\n  \"petsAllowed\": true,\n  \"elevator\": false,\n  \"mediation\": false,\n  \"sublet\": false,\n  \"subletDates\": \"\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1687796958,
+  "id": "chatcmpl-7VjNWYQu0ulZnMDbfV9qojJb8Fi7N",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 456,
+    "total_tokens": 545
+  }
+}
+2023-06-26 19:29:21,157 - INFO - {
+  "address": "Rambandent 42, Kikar Rabin area",
+  "price": 6500,
+  "rooms": 3,
+  "moveInDate": "20/07",
+  "floor": 0,
+  "petsAllowed": true,
+  "elevator": false,
+  "mediation": false,
+  "sublet": false,
+  "subletDates": ""
+}
+2023-06-26 19:29:21,157 - INFO - --------------------
+
+2023-06-26 19:29:24,109 - INFO - Latitude: 8.488057
+2023-06-26 19:29:24,109 - INFO - Longitude: -13.231495
+2023-06-26 19:29:24,202 - INFO - להשכרה מתיווך
+נחמני 13
+דירת 2 חדרים משופצת נגרות ברמה הכי גבוהה שיש.
+גודל 63 מרפסת.
+הדירה כוללת-
+חנייה בחניון.
+מעלית.
+שירותים נוספים לאורחים.
+מגיעה עם איבזור מלא-
+מיטה ומזרון ספה כורסא טלויזיה שולחן סלון מכונת כביסה מייבש מקרר מדיח תנור שולחן מטבח ו4 כיסאות שולחן עבודה וארונות קיר.
+כניסה ב20.7.
+2023-06-26 19:29:27,494 - INFO - {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Nachmani 13\",\n  \"price\": 0,\n  \"rooms\": 2,\n  \"size\": 63,\n  \"elevator\": true,\n  \"furnished\": true,\n  \"petsAllowed\": true,\n  \"moveInDate\": \"20/7\",\n  \"floor\": 0,\n  \"mediation\": true,\n  \"sublet\": false,\n  \"subletDates\": \"\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1687796964,
+  "id": "chatcmpl-7VjNcirigDSvH6yiNwLOV5s3Wz9sA",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 454,
+    "total_tokens": 547
+  }
+}
+2023-06-26 19:29:27,495 - INFO - {
+  "address": "Nachmani 13",
+  "price": 0,
+  "rooms": 2,
+  "size": 63,
+  "elevator": true,
+  "furnished": true,
+  "petsAllowed": true,
+  "moveInDate": "20/7",
+  "floor": 0,
+  "mediation": true,
+  "sublet": false,
+  "subletDates": ""
+}
+2023-06-26 19:29:27,495 - INFO - --------------------
+
+2023-06-26 19:29:28,736 - INFO - Latitude: 52.535638
+2023-06-26 19:29:28,736 - INFO - Longitude: 13.257331
+2023-06-26 19:29:28,817 - INFO - מי רוצה לגור על הים
+מתפנה חדר קו ראשון לים ברחוב הירקון-גורדון
+במיקום הכי טוב בתל אביב חדר ענק של 15 מטר פלוס מרפסת פרטית שיוצאת מהחדר עם נוף מטורף קו ראשון לים
+דירת שלושה שותפים ללא סלון עם פרקט בכל הבית מזגנים חלונות ענקיים וחדשים הפונים לכיוון דרום-מערב ומאירים את החדר באור שמש ואור ורוד בשקיעה
+3200 שח לחודש לא כולל חשבונות.
+חתימה מיידית לסאבלט של 24 ימים החל מה-8.7 ואז כניסה לחוזה ב1.8 מול בעלי הדירה יחד עם השותפים הקיימים גילאי 25
+מראים את החדר מחר (ראשון) לרציניים בלבד
+2023-06-26 19:29:32,829 - INFO - {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Hayarkon-Gordon crossing\",\n  \"price\": 3200,\n  \"rooms\": 1,\n  \"moveInDate\": \"8/7\",\n  \"floor\": 1,\n  \"petsAllowed\": true,\n  \"elevator\": false,\n  \"mediation\": false,\n  \"sublet\": true,\n  \"subletDates\": \"24 days starting from 8.7\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1687796970,
+  "id": "chatcmpl-7VjNiJcbNzhRINQAVDFoy56ORp5zr",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 624,
+    "total_tokens": 715
+  }
+}
+2023-06-26 19:29:32,830 - INFO - {
+  "address": "Hayarkon-Gordon crossing",
+  "price": 3200,
+  "rooms": 1,
+  "moveInDate": "8/7",
+  "floor": 1,
+  "petsAllowed": true,
+  "elevator": false,
+  "mediation": false,
+  "sublet": true,
+  "subletDates": "24 days starting from 8.7"
+}
+2023-06-26 19:29:32,830 - INFO - --------------------
+
+2023-06-26 19:29:34,958 - INFO - Latitude: 37.74014
+2023-06-26 19:29:34,958 - INFO - Longitude: -78.81696
+2023-06-26 19:29:35,040 - INFO - אחרי 10 שנים בדירה עם הקארמה הכי טובה בתא
+יוצאת לשוק
+כ52 מטר  קומה 2
+2 חדרים עם מרפסת כיפית לרח אלנבי
+אחלה שכנים בעולם ובעלי בית
+ניתן להוציא תו חניה ועד 50 שח ארנונה 387 לחודשיים
+אני בעצמי עוברת לדירה מרוהטת לכן תנאי לכניסה קניית הריהוט:
+סלון ארון בגדים בסיס מיטה ומזרן  קומודה עם מראה מכונת כביסה
+הכל במצב חדש שמור ונקי
+תתאים לדיירים ללא ריהוט
+כניסה ב10.8
+חשוב לדעת כי בבנין ליד מתבצע עבודות לכן אם יש רגישויות לרעש פחות מתאים
+2023-06-26 19:29:38,537 - INFO - {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Near the intersection of [street 1] and [street 2]\",\n  \"price\": 387,\n  \"rooms\": 2,\n  \"moveInDate\": \"10/8\",\n  \"floor\": 2,\n  \"petsAllowed\": true,\n  \"elevator\": false,\n  \"mediation\": false,\n  \"sublet\": false,\n  \"subletDates\": \"\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1687796975,
+  "id": "chatcmpl-7VjNnYfmoI8FQbPVKbwSHiY6ItgSa",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 579,
+    "total_tokens": 668
+  }
+}
+2023-06-26 19:29:38,537 - INFO - {
+  "address": "Near the intersection of [street 1] and [street 2]",
+  "price": 387,
+  "rooms": 2,
+  "moveInDate": "10/8",
+  "floor": 2,
+  "petsAllowed": true,
+  "elevator": false,
+  "mediation": false,
+  "sublet": false,
+  "subletDates": ""
+}
+2023-06-26 19:29:38,537 - INFO - --------------------
+
+2023-06-26 19:29:44,008 - INFO - Latitude: 30.871691
+2023-06-26 19:29:44,008 - INFO - Longitude: 75.841353
+2023-06-26 19:29:44,097 - INFO - ללא תיווך
+דירת 2 חדרים
+על אלנבי מול כיכר מגן דוד.
+קומה ראשונה
+פונה לצד האחורי של הבניין.
+כניסה: 24.7
+מחיר: 6300 ש"ח כולל וועד בית.
+כל הרהיטים למכירה עדיפות למי שמעוניין בריהוט.
+2023-06-26 19:29:48,009 - INFO - {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Alenby St., opposite Magen David Square\",\n  \"price\": 6300,\n  \"rooms\": 2,\n  \"moveInDate\": \"24/7\",\n  \"floor\": 1,\n  \"petsAllowed\": false,\n  \"elevator\": true,\n  \"mediation\": false,\n  \"sublet\": false,\n  \"subletDates\": \"\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1687796985,
+  "id": "chatcmpl-7VjNxssSS6ZZEGnbRyVywaCdp9ycl",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 332,
+    "total_tokens": 418
+  }
+}
+2023-06-26 19:29:48,009 - INFO - {
+  "address": "Alenby St., opposite Magen David Square",
+  "price": 6300,
+  "rooms": 2,
+  "moveInDate": "24/7",
+  "floor": 1,
+  "petsAllowed": false,
+  "elevator": true,
+  "mediation": false,
+  "sublet": false,
+  "subletDates": ""
+}
+2023-06-26 19:29:48,009 - INFO - --------------------
+
+2023-06-26 19:29:51,961 - INFO - Latitude: 40.6153
+2023-06-26 19:29:51,961 - INFO - Longitude: -73.986707
+2023-06-26 19:29:52,050 - INFO - ללא תיווך
+אינני בעל הדירה
+מפרסם בעבור בעלי הדירה המהממים שלי
+מפנה לאחר שנתיים
+בין נווה צדק לנחלת בנימין ו2 דק הליכה משוק הכרמל.
+דירת 2 חדרים 64 מר 2 מרפסות אחת מהן מרפסת עישון קטנה. מעוצבת ומשופצת ברמה מאוד גבוהה מחולקת טוב ועם מטבח מפנק וגדול.
+יש חניה משותפת בבניין על בסיס מקום פנוי.
+ועד 160
+ארנונה 450
+2023-06-26 19:29:57,012 - INFO - {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Between Neve Tzedek and Nahalat Binyamin, 2 minutes walk from Carmel Market\",\n  \"price\": 450,\n  \"rooms\": 2,\n  \"size\": 64,\n  \"elevator\": true,\n  \"furnished\": false,\n  \"petsAllowed\": true,\n  \"moveInDate\": \"Not specified\",\n  \"floor\": \"Not specified\",\n  \"mediation\": false,\n  \"sublet\": false,\n  \"subletDates\": \"Not applicable\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1687796992,
+  "id": "chatcmpl-7VjO4PfNLfJvEBtPkMPRe4lioEOPz",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 459,
+    "total_tokens": 573
+  }
+}
+2023-06-26 19:29:57,012 - INFO - {
+  "address": "Between Neve Tzedek and Nahalat Binyamin, 2 minutes walk from Carmel Market",
+  "price": 450,
+  "rooms": 2,
+  "size": 64,
+  "elevator": true,
+  "furnished": false,
+  "petsAllowed": true,
+  "moveInDate": "Not specified",
+  "floor": "Not specified",
+  "mediation": false,
+  "sublet": false,
+  "subletDates": "Not applicable"
+}
+2023-06-26 19:29:57,012 - INFO - --------------------
+
+2023-06-26 19:29:57,547 - INFO - Latitude: 45.052302
+2023-06-26 19:29:57,548 - INFO - Longitude: -0.47401
+2023-06-26 19:29:57,632 - INFO - מחפשים שותף או שותפה שיחליפו אותי בדירה הכי מדהימה ברמת אביב 
+רחוב הופיין תל אביב.
+בדירה נשאר שותף מדהים() בן 26 שהוא סטודנט.
+הדירה מוארת ובמיקום מעולה ושקט.
+מושלם גם לסטודנטים באונ תל אביב (3 דקות הליכה)
+קניון רמת אביב במרחק 5 דקות הליכה.
+סופרמרקטים ברים ומסעדות - הכל במרחק של צעד וחצי.
+נוף ירוק ופסטורלי.
+בדירה מטבח גדול ומאובזר בכיריים תנור מקרר ומכונת כביסה.
+חשוב לציין שאין סלון אבל החדר ענק כך שאפשר לעשות פינת אירוח בחדר.
+הדירה בקומה שלישית(בלי מעלית)
+מזגנים חדשים בחדר במטבח.
+שכר דירה עומד על 2900 ש"ח (כניסה לחוזה קיים עד אוקטובר ואחרי זה אופציה לחידוש מול בעל הדירה).
+חשבונות נמוכים לכל שותף.
+כניסה בתחילת/אמצע יולי
+2023-06-26 19:30:02,008 - INFO - {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\"address\": \"Hofin Street, Tel Aviv\", \"price\": 2900, \"rooms\": 1, \"size\": null, \"elevator\": false, \"furnished\": null, \"petsAllowed\": null, \"moveInDate\": \"1/7\", \"floor\": 3, \"mediation\": true, \"sublet\": false, \"subletDates\": null}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1687796998,
+  "id": "chatcmpl-7VjOA07OX0uUIvgTM9UzR0fTm3f9L",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 767,
+    "total_tokens": 850
+  }
+}
+2023-06-26 19:30:02,008 - INFO - {"address": "Hofin Street, Tel Aviv", "price": 2900, "rooms": 1, "size": null, "elevator": false, "furnished": null, "petsAllowed": null, "moveInDate": "1/7", "floor": 3, "mediation": true, "sublet": false, "subletDates": null}
+2023-06-26 19:30:02,008 - INFO - --------------------
+
+2023-06-26 19:30:02,394 - INFO - Latitude: 32.066455
+2023-06-26 19:30:02,395 - INFO - Longitude: 34.783553
+2023-06-26 19:30:02,477 - INFO - ללא תיווך
+מראות מחר בערב (חמישי)
+מתפנה חדר בדירת שני שותפים בדיזנגוף-נורדאו
+מחפשות שותף/שותפה
+קצת על הדירה:
+-שירותיםמקלחת פרטיים לכל שותף/ה
+-דירה מרוהטת קומפלט-
+ifi טלוויזיה חכמה מכונת כביסה שואב אבק אלחוטי מכונת קפה נספרסו מקרר תמי 4 ושאר מוצרי חשמל למטבח מזגנים בכל הדירה.
+-דירה מרווחת ומוארת משופצת ברמה גבוהה עם מרחב ופרטיות
+-מכולת עם כל מה שצריך צמודה לבניין שפתוחה 24/7
+-תחנת אוטובוס צמודה עם קווים שמגיעים לכל העיר.
+-מחפשות מישהו/מישהי בגילאים 23-28 מסודר/ת נקי/ה בוייב טוב עם עבודה מסודרת.
+-שכר דירה 3700חשבונות סטנדרטים.
+-בעלת דירה מקסימה שמטפלת בהכל 
+-חוזה קליל וסטנדרטי
+אין תמא או עבודות רכבת 
+ללא בעלי חיים ללא עישון בדירה אך יש פינת עישון בחוץ.
+כניסה ב 1.6
+לפרטים נוספים ותיאום הגעה נא לפנות בפרטי
+2023-06-26 19:30:02,554 - INFO - found in DB: 
+{'_id': ObjectId('64986a31625d8fa59a530c78'), 'address': 'Dizengoff-Nordau, Tel Aviv, Israel', 'price': 3700, 'rooms': 2, 'elevator': False, 'petsAllowed': False, 'moveInDate': '01-06-2021', 'floor': '', 'mediation': False, 'sublet': False, 'subletDates': '', 'posting': 'ללא תיווך\nמראות מחר בערב (חמישי)\nמתפנה חדר בדירת שני שותפים בדיזנגוף-נורדאו\nמחפשות שותף/שותפה\nקצת על הדירה:\n-שירותיםמקלחת פרטיים לכל שותף/ה\n-דירה מרוהטת קומפלט-\nifi טלוויזיה חכמה מכונת כביסה שואב אבק אלחוטי מכונת קפה נספרסו מקרר תמי 4 ושאר מוצרי חשמל למטבח מזגנים בכל הדירה.\n-דירה מרווחת ומוארת משופצת ברמה גבוהה עם מרחב ופרטיות\n-מכולת עם כל מה שצריך צמודה לבניין שפתוחה 24/7\n-תחנת אוטובוס צמודה עם קווים שמגיעים לכל העיר.\n-מחפשות מישהו/מישהי בגילאים 23-28 מסודר/ת נקי/ה בוייב טוב עם עבודה מסודרת.\n-שכר דירה 3700חשבונות סטנדרטים.\n-בעלת דירה מקסימה שמטפלת בהכל \n-חוזה קליל וסטנדרטי\nאין תמא או עבודות רכבת \nללא בעלי חיים ללא עישון בדירה אך יש פינת עישון בחוץ.\nכניסה ב 1.6\nלפרטים נוספים ותיאום הגעה נא לפנות בפרטי', 'lat': 32.066455, 'lon': 34.783553}
+2023-06-26 19:30:02,554 - INFO - להשכרה בשכונת יד אליהו המבוקשת דירת 3 חדרים משופצת
+בשיווק בלעדי
+פטרסון 1 תל אביב
+דירת 3 חדרים משופצת לגמרי כ60 מר.
+קומה 2 ללא מעלית בבניין שקט וקטן.
+יש דוד שמשאפשר להוציא תו חניה.
+אפשר בעח.
+הדירה מגיעה מרוהטת חלקית- 2 ארונות בגדיםתנור משולב עם כיריים.
+מיקום מעולה בקרבת- שדרות החיילהיכל מנורה מבטחיםמתחם ההייטק מגדלי אלוןיציאות מהירות לאיילון וכביש 1תחבורה ציבורית נגישהבתי ספר וגנים.
+מעולה לזוגות/משפחות
+כניסה: 1/06 גמישה מעט
+מחיר:5100 שח
+לפרטים נוספים ותיאום:
+עומר  050-3350508
+-תיווך
+2023-06-26 19:30:02,635 - INFO - found in DB: 
+{'_id': ObjectId('64986a36625d8fa59a530c79'), 'address': 'Peterson 1, Tel Aviv, Yad Eliyahu neighborhood', 'price': 5100, 'rooms': 3, 'elevator': False, 'petsAllowed': True, 'moveInDate': '1/06', 'floor': 2, 'mediation': True, 'sublet': False, 'subletDates': '', 'posting': 'להשכרה בשכונת יד אליהו המבוקשת דירת 3 חדרים משופצת\nבשיווק בלעדי\nפטרסון 1 תל אביב\nדירת 3 חדרים משופצת לגמרי כ60 מר.\nקומה 2 ללא מעלית בבניין שקט וקטן.\nיש דוד שמשאפשר להוציא תו חניה.\nאפשר בעח.\nהדירה מגיעה מרוהטת חלקית- 2 ארונות בגדיםתנור משולב עם כיריים.\nמיקום מעולה בקרבת- שדרות החיילהיכל מנורה מבטחיםמתחם ההייטק מגדלי אלוןיציאות מהירות לאיילון וכביש 1תחבורה ציבורית נגישהבתי ספר וגנים.\nמעולה לזוגות/משפחות\nכניסה: 1/06 גמישה מעט\nמחיר:5100 שח\nלפרטים נוספים ותיאום:\nעומר  050-3350508\n-תיווך', 'lat': 33.395331, 'lon': -111.964417}
+2023-06-26 19:30:02,635 - INFO - להשכרה ברחוב לינקולן 5 ת"א דירת חדר
+שכר דירה 3900 ש"ח
+תשלומי: ארנונה מיםחשמלועד  - 500 ש"ח
+מעלית
+ארון מקיר לקיר  כפי שמופיע בתמונה
+ריהוט למכירה במידה והשוכר מעוניין
+כניסה מיידית
+מתחת לבניין
+סופר יודה בית קפה("התחתית") מכבסה פסטה מיה
+צמוד לקניון בוגרשוב הארבעה
+לפרטים ותאום
+0542266881
+מתיווך
+2023-06-26 19:30:02,714 - INFO - found in DB: 
+{'_id': ObjectId('64986a3d625d8fa59a530c7a'), 'address': 'Lincoln St. 5, Tel Aviv', 'price': 3900, 'rooms': 1, 'elevator': True, 'petsAllowed': False, 'moveInDate': 'Immediate', 'floor': -1, 'mediation': True, 'sublet': False, 'subletDates': '', 'posting': 'להשכרה ברחוב לינקולן 5 ת"א דירת חדר\nשכר דירה 3900 ש"ח\nתשלומי: ארנונה מיםחשמלועד  - 500 ש"ח\nמעלית\nארון מקיר לקיר  כפי שמופיע בתמונה\nריהוט למכירה במידה והשוכר מעוניין\nכניסה מיידית\nמתחת לבניין\nסופר יודה בית קפה("התחתית") מכבסה פסטה מיה\nצמוד לקניון בוגרשוב הארבעה\nלפרטים ותאום\n0542266881\nמתיווך', 'lat': -27.434474, 'lon': 153.022429}
+2023-06-26 19:30:02,715 - INFO - דירת חדר פלוס גג פרטי ענק בצפון ישן 
+לסל /בן יהודה
+3 דקות הליכה מחוף הילטון
+דירת חדר
+ קומה 4/4
+תתאים לזוג או יחיד
+שטח 30 מ"ר פלוס גג 45 מטר
+דירה לא מרוהטת
+תו חניה
+כניסה 1.6
+מחיר 5200 שח
+לפרטים נוספים ותיאום אלי (תיווך)0547899298
+2023-06-26 19:30:02,788 - INFO - found in DB: 
+{'_id': ObjectId('6499970bdd312c61a9e3ce40'), 'address': 'Derech Ben Yehuda 54, Tel Aviv-Jaffa, Israel', 'price': 5200, 'rooms': 1, 'moveInDate': '1/6', 'floor': 4, 'petsAllowed': False, 'elevator': True, 'mediation': True, 'sublet': False, 'subletDates': '', 'posting': 'דירת חדר פלוס גג פרטי ענק בצפון ישן \nלסל /בן יהודה\n3 דקות הליכה מחוף הילטון\nדירת חדר\n קומה 4/4\nתתאים לזוג או יחיד\nשטח 30 מ"ר פלוס גג 45 מטר\nדירה לא מרוהטת\nתו חניה\nכניסה 1.6\nמחיר 5200 שח\nלפרטים נוספים ותיאום אלי (תיווך)0547899298', 'lat': 32.066455, 'lon': 34.783553}
+2023-06-29 14:18:42,577 - INFO - ליד בן גוריון והים דירת 3 חדרים סופר מרווחת עם 2 חדרי רחצה
+8500
+
+רחוב: נתן החכם
+חדרים: 3
+גודל: סהכ: כ80 מר
+קומה: קרקע
+מעלית: 
+חניה:
+מרפסת: 
+משופצת:
+בעח:
+כיווני אוויר: דרום מזרח ומערב
+ריהוט: 2 ארונות בגדים תנור מקרר מכונת כביסה מיקרוגל
+שותפים: 
+חדרי רחצה: 2
+אינטרקום:
+אמבטיה:
+מזגנים: 3
+חיבור לגז: 
+חיבור למכונת כביסה: 
+חיבור למדיח: 
+דוד: 
+כניסה: 1/9
+ממד: 
+טווח ארוך: 
+ערבויות: 2 ערבים על שטר חוב וצק ביטחון
+מחיר:8500
+ארנונה: כ260 לחודש
+ועד: כ160 לחודש
+
+תיווך - נדלן איש כסית - נועם 054-5363055
+
+ear en urion and the sea a super spacious 3 room apartment with 2 bathrooms
+8500
+
+ treet: athan the ise
+ ooms: 3
+ ize: total: about 80 square meters
+ round floor
+ levator: 
+ arking:
+ alcony: 
+ enovated:
+ n: 
+ ir directions: south east and west
+ urniture: 2 wardrobes oven refrigerator washing machine microwave
+ artners: 
+ athrooms: 2
+ ntercom:
+ athroom:
+ ir conditioners: 3
+ as connection: 
+ onnection to a washing machine: 
+ ishwasher connection: 
+ avid: 
+ ntry: 1/9
+ imension: 
+ ong term: 
+ uarantees: 2 guarantors on a promissory note and a security bond
+ rice: 8500 
+ roperty tax: about  260 per month
+ p to: about  160 per month
+
+  rokerage - sh asit eal state - oam
+054-5363055
+2023-06-29 14:18:46,676 - INFO - {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Ben Gurion and the Sea\",\n  \"price\": 8500,\n  \"rooms\": 3,\n  \"moveInDate\": \"1/9\",\n  \"floor\": 0,\n  \"petsAllowed\": false,\n  \"elevator\": false,\n  \"mediation\": true,\n  \"sublet\": false,\n  \"subletDates\": \"\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688037524,
+  "id": "chatcmpl-7WjxcohDkrS5ONMEnYOxtmg5bOmsf",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 867,
+    "total_tokens": 949
+  }
+}
+2023-06-29 14:18:46,676 - INFO - {
+  "address": "Ben Gurion and the Sea",
+  "price": 8500,
+  "rooms": 3,
+  "moveInDate": "1/9",
+  "floor": 0,
+  "petsAllowed": false,
+  "elevator": false,
+  "mediation": true,
+  "sublet": false,
+  "subletDates": ""
+}
+2023-06-29 14:18:46,676 - INFO - --------------------
+
+2023-06-29 14:18:47,507 - INFO - Latitude: 51.540265
+2023-06-29 14:18:47,508 - INFO - Longitude: 0.652652
+2023-06-29 14:18:53,081 - INFO - להשכרה דירת 3 חדרים בארלוזורוב 58 תל אביב קומה 1.
+
+הדירה מוארת עורפית ושקטה
+מרפסת אחורית שפונה לנוף ירוק
+משופצת עם מטבח חדש
+ארון בגדים ענק בחדר שינה
+גופי תאורה חדשים
+חיבור גז
+פרקט בכל הדירה
+לא מתאימה לשותפים
+
+תאריך כניסה 2.7.23
+
+שכד 8000 שח
+מראים מחר יום שישי 30.6
+9:30-12:30
+
+לפרטים נוספים ניתן לפנות בפרטי.
+2023-06-29 14:18:56,434 - INFO - {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Arlozorov 58, Tel Aviv\",\n  \"price\": 8000,\n  \"rooms\": 3,\n  \"moveInDate\": \"2/7/23\",\n  \"floor\": 1,\n  \"petsAllowed\": false,\n  \"elevator\": true,\n  \"mediation\": false,\n  \"sublet\": false,\n  \"subletDates\": \"\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688037533,
+  "id": "chatcmpl-7WjxlpV3oErZDM5E9HyWuJcGdmjCx",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 471,
+    "total_tokens": 559
+  }
+}
+2023-06-29 14:18:56,434 - INFO - {
+  "address": "Arlozorov 58, Tel Aviv",
+  "price": 8000,
+  "rooms": 3,
+  "moveInDate": "2/7/23",
+  "floor": 1,
+  "petsAllowed": false,
+  "elevator": true,
+  "mediation": false,
+  "sublet": false,
+  "subletDates": ""
+}
+2023-06-29 14:18:56,434 - INFO - --------------------
+
+2023-06-29 14:18:57,306 - INFO - Latitude: 32.07178
+2023-06-29 14:18:57,307 - INFO - Longitude: 34.8147
+2023-06-29 14:19:01,334 - INFO - לא תיווך להשכרה מיידית דירת 2.5 חדרים בלב תל אביב ליד הבימה ברחוב פנימי ושקט (רחוב כרמיה).
+קומה 1 על עמודים שני כיווני אוויר הדירה במצב מצויין עם נוף לגינה. ריהוט שקיים בדירה בנוסף: מקרר מכונת כביסהעוד כיריים גז ארון קיר.
+שכד 7300 שח. לפרטים נוספים - רק בווטסאפ - 050-8997710. מראה את הדירה ביום שלישי 27-6 בין 17:00-19:00
+2023-06-29 14:19:05,950 - INFO - {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Street: Pnimi, Tel Aviv, Street Crossing: Karmiya\",\n  \"price\": 7300,\n  \"rooms\": 2.5,\n  \"size\": \"Not specified\",\n  \"elevator\": false,\n  \"furnished\": false,\n  \"petsAllowed\": true,\n  \"moveInDate\": \"27/6\",\n  \"floor\": 1,\n  \"mediation\": false,\n  \"sublet\": false,\n  \"subletDates\": \"Not applicable\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688037542,
+  "id": "chatcmpl-7Wjxucc1wjgJHEK1d76oo1m1GpJ4l",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 111,
+    "prompt_tokens": 464,
+    "total_tokens": 575
+  }
+}
+2023-06-29 14:19:05,951 - INFO - {
+  "address": "Street: Pnimi, Tel Aviv, Street Crossing: Karmiya",
+  "price": 7300,
+  "rooms": 2.5,
+  "size": "Not specified",
+  "elevator": false,
+  "furnished": false,
+  "petsAllowed": true,
+  "moveInDate": "27/6",
+  "floor": 1,
+  "mediation": false,
+  "sublet": false,
+  "subletDates": "Not applicable"
+}
+2023-06-29 14:19:05,951 - INFO - --------------------
+
+2023-06-29 14:36:04,988 - INFO - ליד בן גוריון והים דירת 3 חדרים סופר מרווחת עם 2 חדרי רחצה
+8500
+
+רחוב: נתן החכם
+חדרים: 3
+גודל: סהכ: כ80 מר
+קומה: קרקע
+מעלית: 
+חניה:
+מרפסת: 
+משופצת:
+בעח:
+כיווני אוויר: דרום מזרח ומערב
+ריהוט: 2 ארונות בגדים תנור מקרר מכונת כביסה מיקרוגל
+שותפים: 
+חדרי רחצה: 2
+אינטרקום:
+אמבטיה:
+מזגנים: 3
+חיבור לגז: 
+חיבור למכונת כביסה: 
+חיבור למדיח: 
+דוד: 
+כניסה: 1/9
+ממד: 
+טווח ארוך: 
+ערבויות: 2 ערבים על שטר חוב וצק ביטחון
+מחיר:8500
+ארנונה: כ260 לחודש
+ועד: כ160 לחודש
+
+תיווך - נדלן איש כסית - נועם 054-5363055
+
+ear en urion and the sea a super spacious 3 room apartment with 2 bathrooms
+8500
+
+ treet: athan the ise
+ ooms: 3
+ ize: total: about 80 square meters
+ round floor
+ levator: 
+ arking:
+ alcony: 
+ enovated:
+ n: 
+ ir directions: south east and west
+ urniture: 2 wardrobes oven refrigerator washing machine microwave
+ artners: 
+ athrooms: 2
+ ntercom:
+ athroom:
+ ir conditioners: 3
+ as connection: 
+ onnection to a washing machine: 
+ ishwasher connection: 
+ avid: 
+ ntry: 1/9
+ imension: 
+ ong term: 
+ uarantees: 2 guarantors on a promissory note and a security bond
+ rice: 8500 
+ roperty tax: about  260 per month
+ p to: about  160 per month
+
+  rokerage - sh asit eal state - oam
+054-5363055
+2023-06-29 14:36:05,582 - INFO - found in DB: 
+{'_id': ObjectId('649d6897494f6ae468f14383'), 'address': 'Ben Gurion and the Sea', 'price': 8500, 'rooms': 3, 'moveInDate': '1/9', 'floor': 0, 'petsAllowed': False, 'elevator': False, 'mediation': True, 'sublet': False, 'subletDates': '', 'posting': 'ליד בן גוריון והים דירת 3 חדרים סופר מרווחת עם 2 חדרי רחצה\n8500\n\nרחוב: נתן החכם\nחדרים: 3\nגודל: סהכ: כ80 מר\nקומה: קרקע\nמעלית: \nחניה:\nמרפסת: \nמשופצת:\nבעח:\nכיווני אוויר: דרום מזרח ומערב\nריהוט: 2 ארונות בגדים תנור מקרר מכונת כביסה מיקרוגל\nשותפים: \nחדרי רחצה: 2\nאינטרקום:\nאמבטיה:\nמזגנים: 3\nחיבור לגז: \nחיבור למכונת כביסה: \nחיבור למדיח: \nדוד: \nכניסה: 1/9\nממד: \nטווח ארוך: \nערבויות: 2 ערבים על שטר חוב וצק ביטחון\nמחיר:8500\nארנונה: כ260 לחודש\nועד: כ160 לחודש\n\nתיווך - נדלן איש כסית - נועם 054-5363055\n\near en urion and the sea a super spacious 3 room apartment with 2 bathrooms\n8500\n\n treet: athan the ise\n ooms: 3\n ize: total: about 80 square meters\n round floor\n levator: \n arking:\n alcony: \n enovated:\n n: \n ir directions: south east and west\n urniture: 2 wardrobes oven refrigerator washing machine microwave\n artners: \n athrooms: 2\n ntercom:\n athroom:\n ir conditioners: 3\n as connection: \n onnection to a washing machine: \n ishwasher connection: \n avid: \n ntry: 1/9\n imension: \n ong term: \n uarantees: 2 guarantors on a promissory note and a security bond\n rice: 8500 \n roperty tax: about  260 per month\n p to: about  160 per month\n\n  rokerage - sh asit eal state - oam\n054-5363055', 'lat': 51.540265, 'lon': 0.652652}
+2023-06-29 14:36:12,544 - INFO - דירת 3 חדרים 65 מ"ר באבן גבירול 148 מול בזל להשכרה ב 7000 ש"ח ללא תיווך.
+קומה שלישית (אחרונה) סלון וחדר שינה פונים לעורף חדר שינה שני פונה לאבן גבירול אבל לא רועש.
+אין ריהוט בדירה אין מעלית טין חניהעוד אין חובה לרכוש רהיטים.
+אפשר בעלי חיים שלא מפריעים לשכנים.
+לא מתאים לשותפים.
+
+מראים את הדירה ביום שישי 30 ליוני בבוקר החל משעה 9 עד 11.
+נא לתא בהודעת טקסט בלבד 054-4577442 (לא להתקשר)
+2023-06-29 14:36:16,386 - INFO - {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Eben Gvirol 148, Near Bezalel\",\n  \"price\": 7000,\n  \"rooms\": 3,\n  \"size\": 65,\n  \"elevator\": false,\n  \"furnished\": false,\n  \"petsAllowed\": true,\n  \"moveInDate\": \"30/06\",\n  \"floor\": 3,\n  \"mediation\": false,\n  \"sublet\": false,\n  \"subletDates\": \"\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688038573,
+  "id": "chatcmpl-7WkEXj46J9GdwTQIyFUOMvUlnBnkY",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 506,
+    "total_tokens": 608
+  }
+}
+2023-06-29 14:36:16,386 - INFO - {
+  "address": "Eben Gvirol 148, Near Bezalel",
+  "price": 7000,
+  "rooms": 3,
+  "size": 65,
+  "elevator": false,
+  "furnished": false,
+  "petsAllowed": true,
+  "moveInDate": "30/06",
+  "floor": 3,
+  "mediation": false,
+  "sublet": false,
+  "subletDates": ""
+}
+2023-06-29 14:36:16,386 - INFO - --------------------
+
+2023-06-29 14:36:17,030 - INFO - Latitude: 48.42345
+2023-06-29 14:36:17,030 - INFO - Longitude: 14.28635
+2023-06-29 14:36:23,425 - INFO - באבן גבירול ליד בזל דירת 2 חדרים מהממת מלאה באור מושלמת ליחיד עם זוג 
+7600
+
+רחוב: אבן גבירול
+חדרים: 2
+גודל: סהכ: כ58 מר
+קומה: 3
+מעלית: 
+חניה: 
+מרפסת: 
+משופצת: 
+בעח: קטן
+כיווני אוויר: דרום ומערב
+ריהוט: ארון קיר
+שותפים: 
+חדרי רחצה: 1
+אינטרקום: 
+מזגנים:  2
+חיבור לגז: 
+חיבור למכונת כביסה: 
+דוד: 
+כניסה: 1.8
+ממד: מקלט
+טווח ארוך: 
+ערבויות: 2 ערבים ופיקדון 12000
+מחיר: 7600
+ארנונה: כ172 לחודש
+ועד: כ141
+
+תיווך - נדלן איש כסית - בת 054-7137334
+
+n bn virol near asel a stunning 2-room apartment full of light perfect for a single person with a couple 
+7600
+
+treet: ven virol
+ooms: 2
+ize: total: about 58 square meters
+3rd floor
+levator: 
+arking: 
+alcony: 
+enovated: 
+ets:  mall
+ir directions: south and west
+urniture: wall cabinet
+oommates: 
+athrooms: 1
+ntercom: 
+ir conditioners:  2
+as connection: 
+onnection to a washing machine: 
+oiler: 
+ccupancy: 1.8
+afe room: in the building
+ong term: 
+uarantees: 2 guarantors and a deposit of 12000
+rice: 7600
+roperty tax: about 172 per month
+aintenance: about 141
+
+rokerage - sh assit eal state - at 054-7137334
+2023-06-29 14:36:26,506 - INFO - {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Eben Gabirol St., near Basel St.\",\n  \"price\": 7600,\n  \"rooms\": 2,\n  \"moveInDate\": \"1/8\",\n  \"floor\": 3,\n  \"petsAllowed\": false,\n  \"elevator\": false,\n  \"mediation\": true,\n  \"sublet\": false,\n  \"subletDates\": \"\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688038584,
+  "id": "chatcmpl-7WkEiFuVbQZsjIUbCurFFRz4t72WJ",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 785,
+    "total_tokens": 871
+  }
+}
+2023-06-29 14:36:26,507 - INFO - {
+  "address": "Eben Gabirol St., near Basel St.",
+  "price": 7600,
+  "rooms": 2,
+  "moveInDate": "1/8",
+  "floor": 3,
+  "petsAllowed": false,
+  "elevator": false,
+  "mediation": true,
+  "sublet": false,
+  "subletDates": ""
+}
+2023-06-29 14:36:26,507 - INFO - --------------------
+
+2023-06-29 14:36:27,123 - INFO - Latitude: 48.42869
+2023-06-29 14:36:27,123 - INFO - Longitude: 13.76832
+2023-06-29 14:36:34,883 - INFO - להשכרה דירת 3 חדרים בארלוזורוב 58 תל אביב קומה 1.
+
+הדירה מוארת עורפית ושקטה
+מרפסת אחורית שפונה לנוף ירוק
+משופצת עם מטבח חדש
+ארון בגדים ענק בחדר שינה
+גופי תאורה חדשים
+חיבור גז
+פרקט בכל הדירה
+לא מתאימה לשותפים
+
+תאריך כניסה 2.7.23
+
+שכד 8000 שח
+מראים מחר יום שישי 30.6
+9:30-12:30
+
+לפרטים נוספים ניתן לפנות בפרטי.
+2023-06-29 14:36:34,962 - INFO - found in DB: 
+{'_id': ObjectId('649d68a1494f6ae468f14384'), 'address': 'Arlozorov 58, Tel Aviv', 'price': 8000, 'rooms': 3, 'moveInDate': '2/7/23', 'floor': 1, 'petsAllowed': False, 'elevator': True, 'mediation': False, 'sublet': False, 'subletDates': '', 'posting': 'להשכרה דירת 3 חדרים בארלוזורוב 58 תל אביב קומה 1.\n\nהדירה מוארת עורפית ושקטה\nמרפסת אחורית שפונה לנוף ירוק\nמשופצת עם מטבח חדש\nארון בגדים ענק בחדר שינה\nגופי תאורה חדשים\nחיבור גז\nפרקט בכל הדירה\nלא מתאימה לשותפים\n\nתאריך כניסה 2.7.23\n\nשכד 8000 שח\nמראים מחר יום שישי 30.6\n9:30-12:30\n\nלפרטים נוספים ניתן לפנות בפרטי.', 'lat': 32.07178, 'lon': 34.8147}
+2023-06-29 14:36:40,086 - INFO - לא תיווך להשכרה מיידית דירת 2.5 חדרים בלב תל אביב ליד הבימה ברחוב פנימי ושקט (רחוב כרמיה).
+קומה 1 על עמודים שני כיווני אוויר הדירה במצב מצויין עם נוף לגינה. ריהוט שקיים בדירה בנוסף: מקרר מכונת כביסהעוד כיריים גז ארון קיר.
+שכד 7300 שח. לפרטים נוספים - רק בווטסאפ - 050-8997710. מראה את הדירה ביום שלישי 27-6 בין 17:00-19:00
+2023-06-29 14:36:43,252 - INFO - {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n    \"address\": \"Carmel Street (crossing street not provided)\",\n    \"price\": 7300,\n    \"rooms\": 2.5,\n    \"moveInDate\": \"27/6\",\n    \"floor\": 1,\n    \"petsAllowed\": true,\n    \"elevator\": true,\n    \"mediation\": false,\n    \"sublet\": false,\n    \"subletDates\": \"\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688038600,
+  "id": "chatcmpl-7WkEyUVxRO52noW9SLyCYbbXO5Faq",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 464,
+    "total_tokens": 552
+  }
+}
+2023-06-29 14:36:43,252 - INFO - {
+    "address": "Carmel Street (crossing street not provided)",
+    "price": 7300,
+    "rooms": 2.5,
+    "moveInDate": "27/6",
+    "floor": 1,
+    "petsAllowed": true,
+    "elevator": true,
+    "mediation": false,
+    "sublet": false,
+    "subletDates": ""
+}
+2023-06-29 14:36:43,252 - INFO - --------------------
+
+2023-06-29 14:36:43,887 - INFO - Latitude: 43.461067
+2023-06-29 14:36:43,887 - INFO - Longitude: -80.615237
+2023-06-29 14:36:52,947 - INFO - דירת 3 חדרים ענקיים  מרפסת סגורה הליכה מכיכר רבין
+
+רחוב רייך(כיכר מסריק)
+
+ל-3 שותפים(בלי סלון) / 2 שותפים עם סלון  מרפסת
+חדרים מפנקים גדולים- ל2 חדרים יש מרפסת סגורה
+גודל הדירה כ85 מר
+קומה 3.5 אין מעליתעוד
+דוד חיבור לגז/כביסה
+ארנונה 550 ועד 250
+כניסה 1.8
+
+ שכד 8500 
+
+וול-סטריט שיווק וניהול נכסים
+אורן 0525868623
+2023-06-29 14:36:55,658 - INFO - {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n\"address\": \"Walking distance from Rabin Square, Reich St.(Masrik Square)\",\n\"price\": 8500,\n\"rooms\": 3,\n\"moveInDate\": \"1.8\",\n\"floor\": 3.5,\n\"petsAllowed\": false,\n\"elevator\": false,\n\"mediation\": true,\n\"sublet\": false,\n\"subletDates\": \"\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688038613,
+  "id": "chatcmpl-7WkFB9vMt1px6YpGoz2iqyNNP3p8a",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 473,
+    "total_tokens": 554
+  }
+}
+2023-06-29 14:36:55,658 - INFO - {
+"address": "Walking distance from Rabin Square, Reich St.(Masrik Square)",
+"price": 8500,
+"rooms": 3,
+"moveInDate": "1.8",
+"floor": 3.5,
+"petsAllowed": false,
+"elevator": false,
+"mediation": true,
+"sublet": false,
+"subletDates": ""
+}
+2023-06-29 14:36:55,658 - INFO - --------------------
+
+2023-06-29 14:36:56,252 - INFO - Geocoding failed!
+2023-06-29 14:42:21,469 - INFO - ליד בן גוריון והים דירת 3 חדרים סופר מרווחת עם 2 חדרי רחצה
+8500
+
+רחוב: נתן החכם
+חדרים: 3
+גודל: סהכ: כ80 מר
+קומה: קרקע
+מעלית: 
+חניה:
+מרפסת: 
+משופצת:
+בעח:
+כיווני אוויר: דרום מזרח ומערב
+ריהוט: 2 ארונות בגדים תנור מקרר מכונת כביסה מיקרוגל
+שותפים: 
+חדרי רחצה: 2
+אינטרקום:
+אמבטיה:
+מזגנים: 3
+חיבור לגז: 
+חיבור למכונת כביסה: 
+חיבור למדיח: 
+דוד: 
+כניסה: 1/9
+ממד: 
+טווח ארוך: 
+ערבויות: 2 ערבים על שטר חוב וצק ביטחון
+מחיר:8500
+ארנונה: כ260 לחודש
+ועד: כ160 לחודש
+
+תיווך - נדלן איש כסית - נועם 054-5363055
+
+ear en urion and the sea a super spacious 3 room apartment with 2 bathrooms
+8500
+
+ treet: athan the ise
+ ooms: 3
+ ize: total: about 80 square meters
+ round floor
+ levator: 
+ arking:
+ alcony: 
+ enovated:
+ n: 
+ ir directions: south east and west
+ urniture: 2 wardrobes oven refrigerator washing machine microwave
+ artners: 
+ athrooms: 2
+ ntercom:
+ athroom:
+ ir conditioners: 3
+ as connection: 
+ onnection to a washing machine: 
+ ishwasher connection: 
+ avid: 
+ ntry: 1/9
+ imension: 
+ ong term: 
+ uarantees: 2 guarantors on a promissory note and a security bond
+ rice: 8500 
+ roperty tax: about  260 per month
+ p to: about  160 per month
+
+  rokerage - sh asit eal state - oam
+054-5363055
+2023-06-29 14:42:22,024 - INFO - found in DB: 
+{'_id': ObjectId('649d6897494f6ae468f14383'), 'address': 'Ben Gurion and the Sea', 'price': 8500, 'rooms': 3, 'moveInDate': '1/9', 'floor': 0, 'petsAllowed': False, 'elevator': False, 'mediation': True, 'sublet': False, 'subletDates': '', 'posting': 'ליד בן גוריון והים דירת 3 חדרים סופר מרווחת עם 2 חדרי רחצה\n8500\n\nרחוב: נתן החכם\nחדרים: 3\nגודל: סהכ: כ80 מר\nקומה: קרקע\nמעלית: \nחניה:\nמרפסת: \nמשופצת:\nבעח:\nכיווני אוויר: דרום מזרח ומערב\nריהוט: 2 ארונות בגדים תנור מקרר מכונת כביסה מיקרוגל\nשותפים: \nחדרי רחצה: 2\nאינטרקום:\nאמבטיה:\nמזגנים: 3\nחיבור לגז: \nחיבור למכונת כביסה: \nחיבור למדיח: \nדוד: \nכניסה: 1/9\nממד: \nטווח ארוך: \nערבויות: 2 ערבים על שטר חוב וצק ביטחון\nמחיר:8500\nארנונה: כ260 לחודש\nועד: כ160 לחודש\n\nתיווך - נדלן איש כסית - נועם 054-5363055\n\near en urion and the sea a super spacious 3 room apartment with 2 bathrooms\n8500\n\n treet: athan the ise\n ooms: 3\n ize: total: about 80 square meters\n round floor\n levator: \n arking:\n alcony: \n enovated:\n n: \n ir directions: south east and west\n urniture: 2 wardrobes oven refrigerator washing machine microwave\n artners: \n athrooms: 2\n ntercom:\n athroom:\n ir conditioners: 3\n as connection: \n onnection to a washing machine: \n ishwasher connection: \n avid: \n ntry: 1/9\n imension: \n ong term: \n uarantees: 2 guarantors on a promissory note and a security bond\n rice: 8500 \n roperty tax: about  260 per month\n p to: about  160 per month\n\n  rokerage - sh asit eal state - oam\n054-5363055', 'lat': 51.540265, 'lon': 0.652652}
+2023-06-29 14:42:26,219 - INFO - דירת 3 חדרים 65 מ"ר באבן גבירול 148 מול בזל להשכרה ב 7000 ש"ח ללא תיווך.
+קומה שלישית (אחרונה) סלון וחדר שינה פונים לעורף חדר שינה שני פונה לאבן גבירול אבל לא רועש.
+אין ריהוט בדירה אין מעלית טין חניהעוד אין חובה לרכוש רהיטים.
+אפשר בעלי חיים שלא מפריעים לשכנים.
+לא מתאים לשותפים.
+
+מראים את הדירה ביום שישי 30 ליוני בבוקר החל משעה 9 עד 11.
+נא לתא בהודעת טקסט בלבד 054-4577442 (לא להתקשר)
+2023-06-29 14:42:26,292 - INFO - found in DB: 
+{'_id': ObjectId('649d6cb1837ee628009abc8e'), 'address': 'Eben Gvirol 148, Near Bezalel', 'price': 7000, 'rooms': 3, 'size': 65, 'elevator': False, 'furnished': False, 'petsAllowed': True, 'moveInDate': '30/06', 'floor': 3, 'mediation': False, 'sublet': False, 'subletDates': '', 'posting': 'דירת 3 חדרים 65 מ"ר באבן גבירול 148 מול בזל להשכרה ב 7000 ש"ח ללא תיווך.\nקומה שלישית (אחרונה) סלון וחדר שינה פונים לעורף חדר שינה שני פונה לאבן גבירול אבל לא רועש.\nאין ריהוט בדירה אין מעלית טין חניהעוד אין חובה לרכוש רהיטים.\nאפשר בעלי חיים שלא מפריעים לשכנים.\nלא מתאים לשותפים.\n\nמראים את הדירה ביום שישי 30 ליוני בבוקר החל משעה 9 עד 11.\nנא לתא בהודעת טקסט בלבד 054-4577442 (לא להתקשר)', 'lat': 48.42345, 'lon': 14.28635}
+2023-06-29 14:42:30,070 - INFO - באבן גבירול ליד בזל דירת 2 חדרים מהממת מלאה באור מושלמת ליחיד עם זוג 
+7600
+
+רחוב: אבן גבירול
+חדרים: 2
+גודל: סהכ: כ58 מר
+קומה: 3
+מעלית: 
+חניה: 
+מרפסת: 
+משופצת: 
+בעח: קטן
+כיווני אוויר: דרום ומערב
+ריהוט: ארון קיר
+שותפים: 
+חדרי רחצה: 1
+אינטרקום: 
+מזגנים:  2
+חיבור לגז: 
+חיבור למכונת כביסה: 
+דוד: 
+כניסה: 1.8
+ממד: מקלט
+טווח ארוך: 
+ערבויות: 2 ערבים ופיקדון 12000
+מחיר: 7600
+ארנונה: כ172 לחודש
+ועד: כ141
+
+תיווך - נדלן איש כסית - בת 054-7137334
+
+n bn virol near asel a stunning 2-room apartment full of light perfect for a single person with a couple 
+7600
+
+treet: ven virol
+ooms: 2
+ize: total: about 58 square meters
+3rd floor
+levator: 
+arking: 
+alcony: 
+enovated: 
+ets:  mall
+ir directions: south and west
+urniture: wall cabinet
+oommates: 
+athrooms: 1
+ntercom: 
+ir conditioners:  2
+as connection: 
+onnection to a washing machine: 
+oiler: 
+ccupancy: 1.8
+afe room: in the building
+ong term: 
+uarantees: 2 guarantors and a deposit of 12000
+rice: 7600
+roperty tax: about 172 per month
+aintenance: about 141
+
+rokerage - sh assit eal state - at 054-7137334
+2023-06-29 14:42:30,142 - INFO - found in DB: 
+{'_id': ObjectId('649d6cbb837ee628009abc8f'), 'address': 'Eben Gabirol St., near Basel St.', 'price': 7600, 'rooms': 2, 'moveInDate': '1/8', 'floor': 3, 'petsAllowed': False, 'elevator': False, 'mediation': True, 'sublet': False, 'subletDates': '', 'posting': 'באבן גבירול ליד בזל דירת 2 חדרים מהממת מלאה באור מושלמת ליחיד עם זוג \n7600\n\nרחוב: אבן גבירול\nחדרים: 2\nגודל: סהכ: כ58 מר\nקומה: 3\nמעלית: \nחניה: \nמרפסת: \nמשופצת: \nבעח: קטן\nכיווני אוויר: דרום ומערב\nריהוט: ארון קיר\nשותפים: \nחדרי רחצה: 1\nאינטרקום: \nמזגנים:  2\nחיבור לגז: \nחיבור למכונת כביסה: \nדוד: \nכניסה: 1.8\nממד: מקלט\nטווח ארוך: \nערבויות: 2 ערבים ופיקדון 12000\nמחיר: 7600\nארנונה: כ172 לחודש\nועד: כ141\n\nתיווך - נדלן איש כסית - בת 054-7137334\n\nn bn virol near asel a stunning 2-room apartment full of light perfect for a single person with a couple \n7600\n\ntreet: ven virol\nooms: 2\nize: total: about 58 square meters\n3rd floor\nlevator: \narking: \nalcony: \nenovated: \nets:  mall\nir directions: south and west\nurniture: wall cabinet\noommates: \nathrooms: 1\nntercom: \nir conditioners:  2\nas connection: \nonnection to a washing machine: \noiler: \nccupancy: 1.8\nafe room: in the building\nong term: \nuarantees: 2 guarantors and a deposit of 12000\nrice: 7600\nroperty tax: about 172 per month\naintenance: about 141\n\nrokerage - sh assit eal state - at 054-7137334', 'lat': 48.42869, 'lon': 13.76832}
+2023-06-29 14:42:35,256 - INFO - להשכרה דירת 3 חדרים בארלוזורוב 58 תל אביב קומה 1.
+
+הדירה מוארת עורפית ושקטה
+מרפסת אחורית שפונה לנוף ירוק
+משופצת עם מטבח חדש
+ארון בגדים ענק בחדר שינה
+גופי תאורה חדשים
+חיבור גז
+פרקט בכל הדירה
+לא מתאימה לשותפים
+
+תאריך כניסה 2.7.23
+
+שכד 8000 שח
+מראים מחר יום שישי 30.6
+9:30-12:30
+
+לפרטים נוספים ניתן לפנות בפרטי.
+2023-06-29 14:42:35,329 - INFO - found in DB: 
+{'_id': ObjectId('649d68a1494f6ae468f14384'), 'address': 'Arlozorov 58, Tel Aviv', 'price': 8000, 'rooms': 3, 'moveInDate': '2/7/23', 'floor': 1, 'petsAllowed': False, 'elevator': True, 'mediation': False, 'sublet': False, 'subletDates': '', 'posting': 'להשכרה דירת 3 חדרים בארלוזורוב 58 תל אביב קומה 1.\n\nהדירה מוארת עורפית ושקטה\nמרפסת אחורית שפונה לנוף ירוק\nמשופצת עם מטבח חדש\nארון בגדים ענק בחדר שינה\nגופי תאורה חדשים\nחיבור גז\nפרקט בכל הדירה\nלא מתאימה לשותפים\n\nתאריך כניסה 2.7.23\n\nשכד 8000 שח\nמראים מחר יום שישי 30.6\n9:30-12:30\n\nלפרטים נוספים ניתן לפנות בפרטי.', 'lat': 32.07178, 'lon': 34.8147}
+2023-06-29 14:42:38,720 - INFO - לא תיווך להשכרה מיידית דירת 2.5 חדרים בלב תל אביב ליד הבימה ברחוב פנימי ושקט (רחוב כרמיה).
+קומה 1 על עמודים שני כיווני אוויר הדירה במצב מצויין עם נוף לגינה. ריהוט שקיים בדירה בנוסף: מקרר מכונת כביסהעוד כיריים גז ארון קיר.
+שכד 7300 שח. לפרטים נוספים - רק בווטסאפ - 050-8997710. מראה את הדירה ביום שלישי 27-6 בין 17:00-19:00
+2023-06-29 14:42:38,795 - INFO - found in DB: 
+{'_id': ObjectId('649d6ccb837ee628009abc90'), 'address': 'Carmel Street (crossing street not provided)', 'price': 7300, 'rooms': 2.5, 'moveInDate': '27/6', 'floor': 1, 'petsAllowed': True, 'elevator': True, 'mediation': False, 'sublet': False, 'subletDates': '', 'posting': 'לא תיווך להשכרה מיידית דירת 2.5 חדרים בלב תל אביב ליד הבימה ברחוב פנימי ושקט (רחוב כרמיה).\nקומה 1 על עמודים שני כיווני אוויר הדירה במצב מצויין עם נוף לגינה. ריהוט שקיים בדירה בנוסף: מקרר מכונת כביסהעוד כיריים גז ארון קיר.\nשכד 7300 שח. לפרטים נוספים - רק בווטסאפ - 050-8997710. מראה את הדירה ביום שלישי 27-6 בין 17:00-19:00', 'lat': 43.461067, 'lon': -80.615237}
+2023-06-29 14:42:43,352 - INFO - דירת 3 חדרים ענקיים  מרפסת סגורה הליכה מכיכר רבין
+
+רחוב רייך(כיכר מסריק)
+
+ל-3 שותפים(בלי סלון) / 2 שותפים עם סלון  מרפסת
+חדרים מפנקים גדולים- ל2 חדרים יש מרפסת סגורה
+גודל הדירה כ85 מר
+קומה 3.5 אין מעליתעוד
+דוד חיבור לגז/כביסה
+ארנונה 550 ועד 250
+כניסה 1.8
+
+ שכד 8500 
+
+וול-סטריט שיווק וניהול נכסים
+אורן 0525868623
+2023-06-29 14:42:48,481 - INFO - {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Reich Street (Masarik Square)\",\n  \"price\": 8500,\n  \"rooms\": 3,\n  \"moveInDate\": \"1/8\",\n  \"floor\": 3.5,\n  \"petsAllowed\": true,\n  \"elevator\": false,\n  \"mediation\": true,\n  \"sublet\": false,\n  \"subletDates\": \"\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688038966,
+  "id": "chatcmpl-7WkKsNM87WeWGarjOwSoJd50qtl43",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 473,
+    "total_tokens": 559
+  }
+}
+2023-06-29 14:42:48,482 - INFO - {
+  "address": "Reich Street (Masarik Square)",
+  "price": 8500,
+  "rooms": 3,
+  "moveInDate": "1/8",
+  "floor": 3.5,
+  "petsAllowed": true,
+  "elevator": false,
+  "mediation": true,
+  "sublet": false,
+  "subletDates": ""
+}
+2023-06-29 14:42:48,482 - INFO - --------------------
+
+2023-06-29 14:42:49,424 - INFO - json object:
+ {'address': 'Reich Street (Masarik Square)', 'price': 8500, 'rooms': 3, 'moveInDate': '1/8', 'floor': 3.5, 'petsAllowed': True, 'elevator': False, 'mediation': True, 'sublet': False, 'subletDates': '', 'posting': 'דירת 3 חדרים ענקיים  מרפסת סגורה הליכה מכיכר רבין\n\nרחוב רייך(כיכר מסריק)\n\nל-3 שותפים(בלי סלון) / 2 שותפים עם סלון  מרפסת\nחדרים מפנקים גדולים- ל2 חדרים יש מרפסת סגורה\nגודל הדירה כ85 מר\nקומה 3.5 אין מעליתעוד\nדוד חיבור לגז/כביסה\nארנונה 550 ועד 250\nכניסה 1.8\n\n שכד 8500 \n\nוול-סטריט שיווק וניהול נכסים\nאורן 0525868623', 'lat': 50.901637, 'lon': 13.354095}
+2023-06-29 14:42:53,200 - INFO - מתפנה חדר בדירת 3 שותפים באלנבי 2 דקות משוק הכרמל
+אלנבי 81 א ( עורפי)
+ללא סלון אך החדר גדול
+יש מרפסת שירות
+אני ועוד שותף שקטים ונעימים
+נשארים
+מחפשים שותפ/ה מעל גיל 24
+
+יש כלב בדירה אבל לא נמצא בחללים המשותפים
+כניסה במיידי לחוזה חדש מול חברת הניהול - 12.7
+החשבונות נמוכים
+
+מחיר 2313
+פרטים בפרטי
+2023-06-29 14:42:56,663 - INFO - {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Allenby Street, between Herzl and King George\",\n  \"price\": 2313,\n  \"rooms\": 1,\n  \"moveInDate\": \"12/7\",\n  \"floor\": -1,\n  \"petsAllowed\": true,\n  \"elevator\": false,\n  \"mediation\": false,\n  \"sublet\": false,\n  \"subletDates\": \"\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688038973,
+  "id": "chatcmpl-7WkKz7o6R5zyJiXIFlMbJJNBAdv80",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 448,
+    "total_tokens": 534
+  }
+}
+2023-06-29 14:42:56,663 - INFO - {
+  "address": "Allenby Street, between Herzl and King George",
+  "price": 2313,
+  "rooms": 1,
+  "moveInDate": "12/7",
+  "floor": -1,
+  "petsAllowed": true,
+  "elevator": false,
+  "mediation": false,
+  "sublet": false,
+  "subletDates": ""
+}
+2023-06-29 14:42:56,663 - INFO - --------------------
+
+2023-06-29 14:42:58,515 - INFO - json object:
+ {'address': 'Allenby Street, between Herzl and King George', 'price': 2313, 'rooms': 1, 'moveInDate': '12/7', 'floor': -1, 'petsAllowed': True, 'elevator': False, 'mediation': False, 'sublet': False, 'subletDates': '', 'posting': 'מתפנה חדר בדירת 3 שותפים באלנבי 2 דקות משוק הכרמל\nאלנבי 81 א ( עורפי)\nללא סלון אך החדר גדול\nיש מרפסת שירות\nאני ועוד שותף שקטים ונעימים\nנשארים\nמחפשים שותפ/ה מעל גיל 24\n\nיש כלב בדירה אבל לא נמצא בחללים המשותפים\nכניסה במיידי לחוזה חדש מול חברת הניהול - 12.7\nהחשבונות נמוכים\n\nמחיר 2313\nפרטים בפרטי', 'lat': 45.348775, 'lon': -75.929132}
+2023-06-29 14:43:01,453 - INFO - דירת 3 חדרים מושלמת להשכרה במיקום נדיר בכרם התימנים
+3 דקות מהים 3 דקות מהשוק
+רחוב שקט ונעים
+מעלית 2 מרפסות וחנייה
+9350 לחודש
+2023-06-29 14:43:04,559 - INFO - {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Rare location in Kerem Hatemanim, Tel Aviv\",\n  \"price\": 9350,\n  \"rooms\": 3,\n  \"moveInDate\": \"dd/mm\",\n  \"floor\": 2,\n  \"petsAllowed\": false,\n  \"elevator\": true,\n  \"mediation\": false,\n  \"sublet\": false,\n  \"subletDates\": \"\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688038982,
+  "id": "chatcmpl-7WkL8jILXWvFUdGi3OcdZMwXjnQ5K",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 290,
+    "total_tokens": 376
+  }
+}
+2023-06-29 14:43:04,560 - INFO - {
+  "address": "Rare location in Kerem Hatemanim, Tel Aviv",
+  "price": 9350,
+  "rooms": 3,
+  "moveInDate": "dd/mm",
+  "floor": 2,
+  "petsAllowed": false,
+  "elevator": true,
+  "mediation": false,
+  "sublet": false,
+  "subletDates": ""
+}
+2023-06-29 14:43:04,560 - INFO - --------------------
+
+2023-06-29 14:43:05,119 - INFO - Geocoding failed!
+2023-06-29 14:43:05,119 - INFO - json object:
+ {'address': 'Rare location in Kerem Hatemanim, Tel Aviv', 'price': 9350, 'rooms': 3, 'moveInDate': 'dd/mm', 'floor': 2, 'petsAllowed': False, 'elevator': True, 'mediation': False, 'sublet': False, 'subletDates': '', 'posting': 'דירת 3 חדרים מושלמת להשכרה במיקום נדיר בכרם התימנים\n3 דקות מהים 3 דקות מהשוק\nרחוב שקט ונעים\nמעלית 2 מרפסות וחנייה\n9350 לחודש'}
+2023-06-29 14:43:09,536 - INFO - מראים היום בשעה 18:30 
+
+
+ליד בן גוריון והים דירת 3 חדרים סופר מרווחת עם 2 חדרי רחצה
+8500
+
+
+רחוב: נתן החכם
+חדרים: 3
+גודל: סהכ: כ80 מר
+קומה: קרקע
+מעלית: 
+חניה:
+מרפסת: 
+משופצת:
+בעח:
+כיווני אוויר: דרום מזרח ומערב
+ריהוט: 2 ארונות בגדים תנור מקרר מכונת כביסה מיקרוגל
+שותפים: 
+חדרי רחצה: 2
+אינטרקום:
+אמבטיה:
+מזגנים: 3
+חיבור לגז: 
+חיבור למכונת כביסה: 
+חיבור למדיח: 
+דוד: 
+כניסה: 1/9
+ממד: 
+טווח ארוך: 
+ערבויות: 2 ערבים על שטר חוב וצק ביטחון
+מחיר:8500
+ארנונה: כ260 לחודש
+ועד: כ160 לחודש
+
+
+תיווך - נדלן איש כסית - נועם 054-5363055
+
+
+ear en urion and the sea a super spacious 3 room apartment with 2 bathrooms
+8500
+
+
+treet: athan the ise
+ooms: 3
+ize: total: about 80 square meters
+round floor
+levator: 
+arking:
+alcony: 
+enovated:
+n: 
+ir directions: south east and west
+urniture: 2 wardrobes oven refrigerator washing machine microwave
+artners: 
+athrooms: 2
+ntercom:
+athroom:
+ir conditioners: 3
+as connection: 
+onnection to a washing machine: 
+ishwasher connection: 
+avid: 
+ntry: 1/9
+imension: 
+ong term: 
+uarantees: 2 guarantors on a promissory note and a security bond
+rice: 8500 
+roperty tax: about  260 per month
+p to: about  160 per month
+
+
+rokerage - sh asit eal state - oam
+054-5363055
+2023-06-29 14:43:12,697 - INFO - {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Nathan HaHacham Street and Ben Gurion Street\",\n  \"price\": 8500,\n  \"rooms\": 3,\n  \"moveInDate\": \"1/9\",\n  \"floor\": 0,\n  \"petsAllowed\": false,\n  \"elevator\": false,\n  \"mediation\": true,\n  \"sublet\": false,\n  \"subletDates\": \"\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688038990,
+  "id": "chatcmpl-7WkLG0GAldV1rly5zjKZG7tqlU4lX",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 871,
+    "total_tokens": 959
+  }
+}
+2023-06-29 14:43:12,697 - INFO - {
+  "address": "Nathan HaHacham Street and Ben Gurion Street",
+  "price": 8500,
+  "rooms": 3,
+  "moveInDate": "1/9",
+  "floor": 0,
+  "petsAllowed": false,
+  "elevator": false,
+  "mediation": true,
+  "sublet": false,
+  "subletDates": ""
+}
+2023-06-29 14:43:12,697 - INFO - --------------------
+
+2023-06-29 14:43:13,226 - INFO - Geocoding failed!
+2023-06-29 14:43:13,226 - INFO - json object:
+ {'address': 'Nathan HaHacham Street and Ben Gurion Street', 'price': 8500, 'rooms': 3, 'moveInDate': '1/9', 'floor': 0, 'petsAllowed': False, 'elevator': False, 'mediation': True, 'sublet': False, 'subletDates': '', 'posting': 'מראים היום בשעה 18:30 \n\n\nליד בן גוריון והים דירת 3 חדרים סופר מרווחת עם 2 חדרי רחצה\n8500\n\n\nרחוב: נתן החכם\nחדרים: 3\nגודל: סהכ: כ80 מר\nקומה: קרקע\nמעלית: \nחניה:\nמרפסת: \nמשופצת:\nבעח:\nכיווני אוויר: דרום מזרח ומערב\nריהוט: 2 ארונות בגדים תנור מקרר מכונת כביסה מיקרוגל\nשותפים: \nחדרי רחצה: 2\nאינטרקום:\nאמבטיה:\nמזגנים: 3\nחיבור לגז: \nחיבור למכונת כביסה: \nחיבור למדיח: \nדוד: \nכניסה: 1/9\nממד: \nטווח ארוך: \nערבויות: 2 ערבים על שטר חוב וצק ביטחון\nמחיר:8500\nארנונה: כ260 לחודש\nועד: כ160 לחודש\n\n\nתיווך - נדלן איש כסית - נועם 054-5363055\n\n\near en urion and the sea a super spacious 3 room apartment with 2 bathrooms\n8500\n\n\ntreet: athan the ise\nooms: 3\nize: total: about 80 square meters\nround floor\nlevator: \narking:\nalcony: \nenovated:\nn: \nir directions: south east and west\nurniture: 2 wardrobes oven refrigerator washing machine microwave\nartners: \nathrooms: 2\nntercom:\nathroom:\nir conditioners: 3\nas connection: \nonnection to a washing machine: \nishwasher connection: \navid: \nntry: 1/9\nimension: \nong term: \nuarantees: 2 guarantors on a promissory note and a security bond\nrice: 8500 \nroperty tax: about  260 per month\np to: about  160 per month\n\n\nrokerage - sh asit eal state - oam\n054-5363055'}
+2023-06-29 14:43:15,486 - INFO - מפנה את החדר המתוק שלי ומשאירה שני שותפים מעולים שמחפשים שותפה חדשה  dan alul lmog eidan
+
+הדירה ברחוב נורדאו 82 קומת קרקע ממש בין אבן גבירול לדיזינגוף ו10 דקות הליכה מהים
+
+כניסה ב15.7
+
+- מחיר: 2250 (לאעוד כולל חשבונות. חשבונות סטנדרטיים)
+
+יש דיבור על תמא כבר שנתיים כמו בכל בניין בתל אביב אבל מאז שום דבר לא זז אם כן יקרה יש התראה של 3 חודשים מראש
+
+מוזמנות לפרטי 
+2023-06-29 14:43:19,054 - INFO - {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Nordau Street, between Ibn Gabirol and Dizengoff, Tel Aviv\",\n  \"price\": 2250,\n  \"rooms\": 1,\n  \"size\": null,\n  \"elevator\": false,\n  \"furnished\": null,\n  \"petsAllowed\": true,\n  \"moveInDate\": \"15/07\",\n  \"floor\": 0,\n  \"mediation\": true,\n  \"sublet\": false,\n  \"subletDates\": null\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688038996,
+  "id": "chatcmpl-7WkLMNEdtFAUef1wkCbULJiJECU0X",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 493,
+    "total_tokens": 601
+  }
+}
+2023-06-29 14:43:19,055 - INFO - {
+  "address": "Nordau Street, between Ibn Gabirol and Dizengoff, Tel Aviv",
+  "price": 2250,
+  "rooms": 1,
+  "size": null,
+  "elevator": false,
+  "furnished": null,
+  "petsAllowed": true,
+  "moveInDate": "15/07",
+  "floor": 0,
+  "mediation": true,
+  "sublet": false,
+  "subletDates": null
+}
+2023-06-29 14:43:19,055 - INFO - --------------------
+
+2023-06-29 14:43:19,659 - INFO - Geocoding failed!
+2023-06-29 14:43:19,659 - INFO - json object:
+ {'address': 'Nordau Street, between Ibn Gabirol and Dizengoff, Tel Aviv', 'price': 2250, 'rooms': 1, 'size': None, 'elevator': False, 'furnished': None, 'petsAllowed': True, 'moveInDate': '15/07', 'floor': 0, 'mediation': True, 'sublet': False, 'subletDates': None, 'posting': 'מפנה את החדר המתוק שלי ומשאירה שני שותפים מעולים שמחפשים שותפה חדשה  dan alul lmog eidan\n\nהדירה ברחוב נורדאו 82 קומת קרקע ממש בין אבן גבירול לדיזינגוף ו10 דקות הליכה מהים\n\nכניסה ב15.7\n\n- מחיר: 2250 (לאעוד כולל חשבונות. חשבונות סטנדרטיים)\n\nיש דיבור על תמא כבר שנתיים כמו בכל בניין בתל אביב אבל מאז שום דבר לא זז אם כן יקרה יש התראה של 3 חודשים מראש\n\nמוזמנות לפרטי '}
+2023-06-29 14:43:22,571 - INFO - שימו  הורדת מחיר לעסקה מיידית
+
+להשכרה בפרוייקט גינדי  במגדל 3 החדש 
+
+דירת 3 חדרים
+מרפסת שמש
+הדירה מגיעה מאובזרת במוצרי חשמל ומטבח משודרג
+2 חניות 
+מחסן
+כניסה מיידית.
+
+מחיר: 8800 
+
+לפרטים נוספים:
+ניסן מלכה -
+052-4511911 
+
+ww.italy-israel.com
+
+תיווך איטליה ישראל
+2023-06-29 14:43:26,010 - INFO - {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\"address\": \"Gindi Project, Tower 3\", \"price\": 8800, \"rooms\": 3, \"moveInDate\": \"immediate\", \"floor\": null, \"petsAllowed\": null, \"elevator\": null, \"mediation\": true, \"sublet\": false, \"subletDates\": null}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688039003,
+  "id": "chatcmpl-7WkLTEyJGwT0qgQC6NhCxSLAhdbcZ",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 399,
+    "total_tokens": 469
+  }
+}
+2023-06-29 14:43:26,011 - INFO - {"address": "Gindi Project, Tower 3", "price": 8800, "rooms": 3, "moveInDate": "immediate", "floor": null, "petsAllowed": null, "elevator": null, "mediation": true, "sublet": false, "subletDates": null}
+2023-06-29 14:43:26,011 - INFO - --------------------
+
+2023-06-29 14:43:26,380 - INFO - json object:
+ {'address': 'Gindi Project, Tower 3', 'price': 8800, 'rooms': 3, 'moveInDate': 'immediate', 'floor': None, 'petsAllowed': None, 'elevator': None, 'mediation': True, 'sublet': False, 'subletDates': None, 'posting': 'שימו  הורדת מחיר לעסקה מיידית\n\nלהשכרה בפרוייקט גינדי  במגדל 3 החדש \n\nדירת 3 חדרים\nמרפסת שמש\nהדירה מגיעה מאובזרת במוצרי חשמל ומטבח משודרג\n2 חניות \nמחסן\nכניסה מיידית.\n\nמחיר: 8800 \n\nלפרטים נוספים:\nניסן מלכה -\n052-4511911 \n\nww.italy-israel.com\n\nתיווך איטליה ישראל', 'lat': 51.520125, 'lon': -0.035955}
+2023-06-29 14:43:31,373 - INFO - להשכרה לשותפים ב 6300 שח מרפסת לכל חדר
+ רחוב ארלוזורוב בקרבה לאבן גבירול
+ כ- 70 מטרים
+ 2 חדרים מרווחים הול כניסה גדול מרפסת סגורה
+ קומה 3 ללא מעלית
+ חיבור למכונת כביסה
+ מוארת ונעימה
+ 6300 ש"ח לחודש
+ כניסה ב 5.8
+ תיווך הומלי 0547535079
+2023-06-29 14:43:34,693 - INFO - {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Arlozorov Street, near Ibn Gabirol\",\n  \"price\": 6300,\n  \"rooms\": 2,\n  \"size\": 70,\n  \"elevator\": false,\n  \"furnished\": true,\n  \"petsAllowed\": true,\n  \"moveInDate\": \"5/8\",\n  \"floor\": 3,\n  \"mediation\": true,\n  \"sublet\": false,\n  \"subletDates\": \"\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688039011,
+  "id": "chatcmpl-7WkLb1HSySxdCR93d2NZXmy98TBXG",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 384,
+    "total_tokens": 486
+  }
+}
+2023-06-29 14:43:34,694 - INFO - {
+  "address": "Arlozorov Street, near Ibn Gabirol",
+  "price": 6300,
+  "rooms": 2,
+  "size": 70,
+  "elevator": false,
+  "furnished": true,
+  "petsAllowed": true,
+  "moveInDate": "5/8",
+  "floor": 3,
+  "mediation": true,
+  "sublet": false,
+  "subletDates": ""
+}
+2023-06-29 14:43:34,694 - INFO - --------------------
+
+2023-06-29 14:43:35,336 - INFO - json object:
+ {'address': 'Arlozorov Street, near Ibn Gabirol', 'price': 6300, 'rooms': 2, 'size': 70, 'elevator': False, 'furnished': True, 'petsAllowed': True, 'moveInDate': '5/8', 'floor': 3, 'mediation': True, 'sublet': False, 'subletDates': '', 'posting': 'להשכרה לשותפים ב 6300 שח מרפסת לכל חדר\n רחוב ארלוזורוב בקרבה לאבן גבירול\n כ- 70 מטרים\n 2 חדרים מרווחים הול כניסה גדול מרפסת סגורה\n קומה 3 ללא מעלית\n חיבור למכונת כביסה\n מוארת ונעימה\n 6300 ש"ח לחודש\n כניסה ב 5.8\n תיווך הומלי 0547535079', 'lat': 32.807755, 'lon': 34.994734}
+2023-06-29 14:43:38,223 - INFO - להשכרה דירת 3 חדרים במרכז קרובה לים ונמל תל אביב.
+קומה 3 עם מעלית
+יפה מאוד .
+מיידי 7700 שח לחודש
+תיווך א.ב.המפתח יזום והשקעות בעמ
+אינה 052-5808067
+2023-06-29 14:43:41,377 - INFO - {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Near the sea and port of Tel Aviv\",\n  \"price\": 7700,\n  \"rooms\": 3,\n  \"moveInDate\": \"immediate\",\n  \"floor\": 3,\n  \"petsAllowed\": false,\n  \"elevator\": true,\n  \"mediation\": true,\n  \"sublet\": false,\n  \"subletDates\": \"\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688039018,
+  "id": "chatcmpl-7WkLi8IQgUtVA5Uh8nJZWv4u9gBws",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 303,
+    "total_tokens": 386
+  }
+}
+2023-06-29 14:43:41,378 - INFO - {
+  "address": "Near the sea and port of Tel Aviv",
+  "price": 7700,
+  "rooms": 3,
+  "moveInDate": "immediate",
+  "floor": 3,
+  "petsAllowed": false,
+  "elevator": true,
+  "mediation": true,
+  "sublet": false,
+  "subletDates": ""
+}
+2023-06-29 14:43:41,378 - INFO - --------------------
+
+2023-06-29 14:43:41,956 - INFO - json object:
+ {'address': 'Near the sea and port of Tel Aviv', 'price': 7700, 'rooms': 3, 'moveInDate': 'immediate', 'floor': 3, 'petsAllowed': False, 'elevator': True, 'mediation': True, 'sublet': False, 'subletDates': '', 'posting': 'להשכרה דירת 3 חדרים במרכז קרובה לים ונמל תל אביב.\nקומה 3 עם מעלית\nיפה מאוד .\nמיידי 7700 שח לחודש\nתיווך א.ב.המפתח יזום והשקעות בעמ\nאינה 052-5808067', 'lat': 32.096907, 'lon': 34.775314}
+2023-06-29 14:43:44,922 - INFO - להשכרה בשכונת פלורנטין התוססת
+ברחוב מזרחי לב העיניינים
+דירת סטודיו גג מוארת ושקטה
+קומה שניה ללא מעלית גג פרטי ענקק
+הדירה כ 30 מר וגג של כ 60 מר
+כניסה מיידית
+מתאימה ליחיד/ה
+מחיר 5200 שח
+תיווך הומלי 0547535079
+2023-06-29 14:43:48,663 - INFO - {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "The JSON object for the given apartment rental would be:\n\n{\n  \"address\": \"Mizrachi Le'av Ha'Einyanim Street, Florentin neighborhood\",\n  \"price\": 5200,\n  \"rooms\": 1,\n  \"size\": 30,\n  \"elevator\": false,\n  \"furnished\": false,\n  \"petsAllowed\": true,\n  \"moveInDate\": \"Immediate\",\n  \"floor\": 2,\n  \"mediation\": true,\n  \"sublet\": false,\n  \"subletDates\": \"\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688039025,
+  "id": "chatcmpl-7WkLpheJkoPGQZY8v3pOCd9IWLjOO",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 114,
+    "prompt_tokens": 367,
+    "total_tokens": 481
+  }
+}
+2023-06-29 14:43:48,663 - INFO - The JSON object for the given apartment rental would be:
+
+{
+  "address": "Mizrachi Le'av Ha'Einyanim Street, Florentin neighborhood",
+  "price": 5200,
+  "rooms": 1,
+  "size": 30,
+  "elevator": false,
+  "furnished": false,
+  "petsAllowed": true,
+  "moveInDate": "Immediate",
+  "floor": 2,
+  "mediation": true,
+  "sublet": false,
+  "subletDates": ""
+}
+2023-06-29 14:43:48,663 - INFO - --------------------
+
+2023-06-29 17:20:17,210 - INFO - ליד בן גוריון והים דירת 3 חדרים סופר מרווחת עם 2 חדרי רחצה
+8500
+
+רחוב: נתן החכם
+חדרים: 3
+גודל: סהכ: כ80 מר
+קומה: קרקע
+מעלית: 
+חניה:
+מרפסת: 
+משופצת:
+בעח:
+כיווני אוויר: דרום מזרח ומערב
+ריהוט: 2 ארונות בגדים תנור מקרר מכונת כביסה מיקרוגל
+שותפים: 
+חדרי רחצה: 2
+אינטרקום:
+אמבטיה:
+מזגנים: 3
+חיבור לגז: 
+חיבור למכונת כביסה: 
+חיבור למדיח: 
+דוד: 
+כניסה: 1/9
+ממד: 
+טווח ארוך: 
+ערבויות: 2 ערבים על שטר חוב וצק ביטחון
+מחיר:8500
+ארנונה: כ260 לחודש
+ועד: כ160 לחודש
+
+תיווך - נדלן איש כסית - נועם 054-5363055
+
+ear en urion and the sea a super spacious 3 room apartment with 2 bathrooms
+8500
+
+ treet: athan the ise
+ ooms: 3
+ ize: total: about 80 square meters
+ round floor
+ levator: 
+ arking:
+ alcony: 
+ enovated:
+ n: 
+ ir directions: south east and west
+ urniture: 2 wardrobes oven refrigerator washing machine microwave
+ artners: 
+ athrooms: 2
+ ntercom:
+ athroom:
+ ir conditioners: 3
+ as connection: 
+ onnection to a washing machine: 
+ ishwasher connection: 
+ avid: 
+ ntry: 1/9
+ imension: 
+ ong term: 
+ uarantees: 2 guarantors on a promissory note and a security bond
+ rice: 8500 
+ roperty tax: about  260 per month
+ p to: about  160 per month
+
+  rokerage - sh asit eal state - oam
+054-5363055
+2023-06-29 17:20:17,781 - INFO - found in DB: 
+{'_id': ObjectId('649d6897494f6ae468f14383'), 'address': 'Ben Gurion and the Sea', 'price': 8500, 'rooms': 3, 'moveInDate': '1/9', 'floor': 0, 'petsAllowed': False, 'elevator': False, 'mediation': True, 'sublet': False, 'subletDates': '', 'posting': 'ליד בן גוריון והים דירת 3 חדרים סופר מרווחת עם 2 חדרי רחצה\n8500\n\nרחוב: נתן החכם\nחדרים: 3\nגודל: סהכ: כ80 מר\nקומה: קרקע\nמעלית: \nחניה:\nמרפסת: \nמשופצת:\nבעח:\nכיווני אוויר: דרום מזרח ומערב\nריהוט: 2 ארונות בגדים תנור מקרר מכונת כביסה מיקרוגל\nשותפים: \nחדרי רחצה: 2\nאינטרקום:\nאמבטיה:\nמזגנים: 3\nחיבור לגז: \nחיבור למכונת כביסה: \nחיבור למדיח: \nדוד: \nכניסה: 1/9\nממד: \nטווח ארוך: \nערבויות: 2 ערבים על שטר חוב וצק ביטחון\nמחיר:8500\nארנונה: כ260 לחודש\nועד: כ160 לחודש\n\nתיווך - נדלן איש כסית - נועם 054-5363055\n\near en urion and the sea a super spacious 3 room apartment with 2 bathrooms\n8500\n\n treet: athan the ise\n ooms: 3\n ize: total: about 80 square meters\n round floor\n levator: \n arking:\n alcony: \n enovated:\n n: \n ir directions: south east and west\n urniture: 2 wardrobes oven refrigerator washing machine microwave\n artners: \n athrooms: 2\n ntercom:\n athroom:\n ir conditioners: 3\n as connection: \n onnection to a washing machine: \n ishwasher connection: \n avid: \n ntry: 1/9\n imension: \n ong term: \n uarantees: 2 guarantors on a promissory note and a security bond\n rice: 8500 \n roperty tax: about  260 per month\n p to: about  160 per month\n\n  rokerage - sh asit eal state - oam\n054-5363055', 'lat': 51.540265, 'lon': 0.652652}
+2023-06-29 17:20:25,353 - INFO - מי רוצה לגור פה
+הדירה הכי שווה שיש מתפנה
+פנטהאוס גדול מעוצב ומפנק בבניין בן 10 בתל אביב
+103 מ"ר בנוי  מרפסת היקפית 90 מ"ר עם גינה פרגולה ובריכה
+סלון גדול ורחב והמטבח הכי יפה באיזור עם חיבור למרפסת עםעוד נוף עוצר נשימה.
+יחידת הורים ענקית עם מקלחת מפנקת גדולה וחדר ארונות.
+חדר שינה נוסף (ממ"ד) ומקלחת אורחים נפרדת.
+פרקט בכל חדרים מזגן בכל חדר מים חמים כל הזמן
+לובי מפואר אינטרקום 2 מעליות מחסן וכולל חניה פרטית מקורה
+מיקום סופר נוח בדרום העיר (רחוב עקיבא איגר בנווה שאנן)
+בקיצור חלום.
+כניסה מיידית.
+לעוד פרטים פנו אלי בפרטי.
+9800 ש"ח ללא תיווך
+2023-06-29 17:20:29,179 - INFO - -------------------generated_text-------------------
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Akiva Eiger St, Neve Sha'anan\",\n  \"price\": 9800,\n  \"rooms\": 3,\n  \"moveInDate\": \"immediate\",\n  \"floor\": 10,\n  \"petsAllowed\": false,\n  \"elevator\": true,\n  \"mediation\": false,\n  \"sublet\": false,\n  \"subletDates\": \"\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688048426,
+  "id": "chatcmpl-7WmnSBRHWtP36ZwiaeRCBPW6n4SyJ",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 706,
+    "total_tokens": 792
+  }
+}
+2023-06-29 17:20:29,179 - INFO - ----------------------------------------------------------
+
+2023-06-29 17:20:29,966 - INFO - -------------------json object-------------------
+{'address': "Akiva Eiger St, Neve Sha'anan", 'price': 9800, 'rooms': 3, 'moveInDate': 'immediate', 'floor': 10, 'petsAllowed': False, 'elevator': True, 'mediation': False, 'sublet': False, 'subletDates': '', 'posting': 'מי רוצה לגור פה\nהדירה הכי שווה שיש מתפנה\nפנטהאוס גדול מעוצב ומפנק בבניין בן 10 בתל אביב\n103 מ"ר בנוי  מרפסת היקפית 90 מ"ר עם גינה פרגולה ובריכה\nסלון גדול ורחב והמטבח הכי יפה באיזור עם חיבור למרפסת עםעוד נוף עוצר נשימה.\nיחידת הורים ענקית עם מקלחת מפנקת גדולה וחדר ארונות.\nחדר שינה נוסף (ממ"ד) ומקלחת אורחים נפרדת.\nפרקט בכל חדרים מזגן בכל חדר מים חמים כל הזמן\nלובי מפואר אינטרקום 2 מעליות מחסן וכולל חניה פרטית מקורה\nמיקום סופר נוח בדרום העיר (רחוב עקיבא איגר בנווה שאנן)\nבקיצור חלום.\nכניסה מיידית.\nלעוד פרטים פנו אלי בפרטי.\n9800 ש"ח ללא תיווך', 'lat': 33.91667, 'lon': 134.65}
+2023-06-29 17:20:29,967 - INFO - ----------------------------------------------------------
+
+2023-06-29 17:20:35,833 - INFO - מציאה 2.5 חדרים ענקית ל-2 שותפים או זוג  מרפסת סגורה גדולה   חצי חדר גדול שיכול לשמש כסלון  בקרבת רחוב בילו והבימה  ב6500
+דירה ענקית מרוהטת 
+על אבן גבירול
+מרחק הליכה מכיכר הבימה ורוטשילדעוד 
+מושלמת ל-2 שותפים
+או זוג
+שני חדרי שינה ענקיים
+ חצי חדר שיכול לשמש סלון 
+ מרפסת סגורה גדולה 
+גם המרפסת וגם ההול בכניסה לדירה יכולים לשמש כסלון 
+עוד יציאה למרפסת שירות 
+יש חיבור למכונת כביסה וגז
+75 מטר
+אפשר חיות מחמד
+הדירה עוברת סיוד ותיקונים היום ומחר
+קומה שלישית ללא מעלית 
+חוזה קליל
+כניסה ב10.7 
+כל הריהוט שיש בדירה יכול להישאר  חלק בתשלום ממש סימלי וחלק פשוט נשאר  כמובן רק אם רוצים .
+לפרטים מתיווך: נא לשלוח הודעה בפרטי או בווטספ למספר ולציין איזו דירה - 054-2131929 עידן
+2023-06-29 17:20:38,901 - INFO - -------------------generated_text-------------------
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Bilu Street and HaBima Square\",\n  \"price\": 6500,\n  \"rooms\": 2.5,\n  \"moveInDate\": \"10/7\",\n  \"floor\": 3,\n  \"petsAllowed\": true,\n  \"elevator\": false,\n  \"mediation\": true,\n  \"sublet\": false,\n  \"subletDates\": \"\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688048436,
+  "id": "chatcmpl-7WmncGuhNoFTwdde0Y9oe1Rl9UVOY",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 819,
+    "total_tokens": 906
+  }
+}
+2023-06-29 17:20:38,902 - INFO - ----------------------------------------------------------
+
+2023-06-29 17:20:39,404 - INFO - Geocoding failed!
+2023-06-29 17:20:39,404 - INFO - -------------------json object-------------------
+{'address': 'Bilu Street and HaBima Square', 'price': 6500, 'rooms': 2.5, 'moveInDate': '10/7', 'floor': 3, 'petsAllowed': True, 'elevator': False, 'mediation': True, 'sublet': False, 'subletDates': '', 'posting': 'מציאה 2.5 חדרים ענקית ל-2 שותפים או זוג  מרפסת סגורה גדולה   חצי חדר גדול שיכול לשמש כסלון  בקרבת רחוב בילו והבימה  ב6500\nדירה ענקית מרוהטת \nעל אבן גבירול\nמרחק הליכה מכיכר הבימה ורוטשילדעוד \nמושלמת ל-2 שותפים\nאו זוג\nשני חדרי שינה ענקיים\n חצי חדר שיכול לשמש סלון \n מרפסת סגורה גדולה \nגם המרפסת וגם ההול בכניסה לדירה יכולים לשמש כסלון \nעוד יציאה למרפסת שירות \nיש חיבור למכונת כביסה וגז\n75 מטר\nאפשר חיות מחמד\nהדירה עוברת סיוד ותיקונים היום ומחר\nקומה שלישית ללא מעלית \nחוזה קליל\nכניסה ב10.7 \nכל הריהוט שיש בדירה יכול להישאר  חלק בתשלום ממש סימלי וחלק פשוט נשאר  כמובן רק אם רוצים .\nלפרטים מתיווך: נא לשלוח הודעה בפרטי או בווטספ למספר ולציין איזו דירה - 054-2131929 עידן'}
+2023-06-29 17:20:39,404 - INFO - ----------------------------------------------------------
+
+2023-06-29 17:20:46,887 - INFO - הי
+אנחנו עוזבים את הדירה שלנו ומחפשים מחליפים.
+דירה מקסימה בצפון הישן רחוב בן שפרוט.
+דירת שני חדרים יש מרפסת גדולה בסלון ושתי מרפסות שירות.
+מושלמת לזוג.
+הדירה מוארת מאווררת מאד.
+
+כניסה ב10.7 יש גמישות לכמה ימים אחרי
+
+מחיר: 6200 ש"ח בעלי דירה נוחים.
+
+מראים מחר 30.6 בשעות אחה"צ
+מוזמנים לתאם 054-5241243
+
+יום יפה
+מיכל
+2023-06-29 17:20:51,179 - INFO - -------------------generated_text-------------------
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Ben Shaproot St., Haifa\",\n  \"price\": 6200,\n  \"rooms\": 2,\n  \"moveInDate\":\"10/7\",\n  \"floor\": null,\n  \"petsAllowed\": null,\n  \"elevator\": null,\n  \"mediation\": null,\n  \"sublet\": null,\n  \"subletDates\": null\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688048448,
+  "id": "chatcmpl-7WmnofrpBtE79xAuGGU6W3XG61ve9",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 457,
+    "total_tokens": 540
+  }
+}
+2023-06-29 17:20:51,179 - INFO - ----------------------------------------------------------
+
+2023-06-29 17:20:51,906 - INFO - -------------------json object-------------------
+{'address': 'Ben Shaproot St., Haifa', 'price': 6200, 'rooms': 2, 'moveInDate': '10/7', 'floor': None, 'petsAllowed': None, 'elevator': None, 'mediation': None, 'sublet': None, 'subletDates': None, 'posting': 'הי\nאנחנו עוזבים את הדירה שלנו ומחפשים מחליפים.\nדירה מקסימה בצפון הישן רחוב בן שפרוט.\nדירת שני חדרים יש מרפסת גדולה בסלון ושתי מרפסות שירות.\nמושלמת לזוג.\nהדירה מוארת מאווררת מאד.\n\nכניסה ב10.7 יש גמישות לכמה ימים אחרי\n\nמחיר: 6200 ש"ח בעלי דירה נוחים.\n\nמראים מחר 30.6 בשעות אחה"צ\nמוזמנים לתאם 054-5241243\n\nיום יפה\nמיכל', 'lat': 32.792761, 'lon': 34.995336}
+2023-06-29 17:20:51,906 - INFO - ----------------------------------------------------------
+
+2023-06-29 17:22:51,711 - INFO - ליד בן גוריון והים דירת 3 חדרים סופר מרווחת עם 2 חדרי רחצה
+8500
+
+רחוב: נתן החכם
+חדרים: 3
+גודל: סהכ: כ80 מר
+קומה: קרקע
+מעלית: 
+חניה:
+מרפסת: 
+משופצת:
+בעח:
+כיווני אוויר: דרום מזרח ומערב
+ריהוט: 2 ארונות בגדים תנור מקרר מכונת כביסה מיקרוגל
+שותפים: 
+חדרי רחצה: 2
+אינטרקום:
+אמבטיה:
+מזגנים: 3
+חיבור לגז: 
+חיבור למכונת כביסה: 
+חיבור למדיח: 
+דוד: 
+כניסה: 1/9
+ממד: 
+טווח ארוך: 
+ערבויות: 2 ערבים על שטר חוב וצק ביטחון
+מחיר:8500
+ארנונה: כ260 לחודש
+ועד: כ160 לחודש
+
+תיווך - נדלן איש כסית - נועם 054-5363055
+
+Near Ben Gurion and the sea a super spacious 3 room apartment with 2 bathrooms
+8500NIS
+
+ Street: Nathan the Wise
+ Rooms: 3
+ Size: total: about 80 square meters
+ Ground floor
+ Elevator: 
+ Parking:
+ Balcony: 
+ Renovated:
+ In: 
+ Air directions: south east and west
+ Furniture: 2 wardrobes oven refrigerator washing machine microwave
+ Partners: 
+ Bathrooms: 2
+ Intercom:
+ Bathroom:
+ Air conditioners: 3
+ Gas connection: 
+ Connection to a washing machine: 
+ Dishwasher connection: 
+ David: 
+ Entry: 1/9
+ Dimension: 
+ Long term: 
+ Guarantees: 2 guarantors on a promissory note and a security bond
+ Price: 8500 NIS
+ Property tax: about NIS 260 per month
+ Up to: about NIS 160 per month
+
+  Brokerage - Ish Kasit Real Estate - Noam
+054-5363055
+2023-06-29 17:22:55,594 - INFO - -------------------generated_text-------------------
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Nathan the Wise Street, near Ben Gurion and the sea\",\n  \"price\": 8500,\n  \"rooms\": 3,\n  \"moveInDate\": \"1/9\",\n  \"floor\": 0,\n  \"petsAllowed\": false,\n  \"elevator\": false,\n  \"mediation\": true,\n  \"sublet\": false,\n  \"subletDates\": \"\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688048572,
+  "id": "chatcmpl-7Wmpo8tiqNQhhAdY3b5zddUtEdFZs",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 89,
+    "prompt_tokens": 855,
+    "total_tokens": 944
+  }
+}
+2023-06-29 17:22:55,594 - INFO - ----------------------------------------------------------
+
+2023-06-29 17:22:56,103 - INFO - Geocoding failed!
+2023-06-29 17:22:56,103 - INFO - -------------------json object-------------------
+{'address': 'Nathan the Wise Street, near Ben Gurion and the sea', 'price': 8500, 'rooms': 3, 'moveInDate': '1/9', 'floor': 0, 'petsAllowed': False, 'elevator': False, 'mediation': True, 'sublet': False, 'subletDates': '', 'posting': 'ליד בן גוריון והים דירת 3 חדרים סופר מרווחת עם 2 חדרי רחצה\n8500\n\nרחוב: נתן החכם\nחדרים: 3\nגודל: סהכ: כ80 מר\nקומה: קרקע\nמעלית: \nחניה:\nמרפסת: \nמשופצת:\nבעח:\nכיווני אוויר: דרום מזרח ומערב\nריהוט: 2 ארונות בגדים תנור מקרר מכונת כביסה מיקרוגל\nשותפים: \nחדרי רחצה: 2\nאינטרקום:\nאמבטיה:\nמזגנים: 3\nחיבור לגז: \nחיבור למכונת כביסה: \nחיבור למדיח: \nדוד: \nכניסה: 1/9\nממד: \nטווח ארוך: \nערבויות: 2 ערבים על שטר חוב וצק ביטחון\nמחיר:8500\nארנונה: כ260 לחודש\nועד: כ160 לחודש\n\nתיווך - נדלן איש כסית - נועם 054-5363055\n\nNear Ben Gurion and the sea a super spacious 3 room apartment with 2 bathrooms\n8500NIS\n\n Street: Nathan the Wise\n Rooms: 3\n Size: total: about 80 square meters\n Ground floor\n Elevator: \n Parking:\n Balcony: \n Renovated:\n In: \n Air directions: south east and west\n Furniture: 2 wardrobes oven refrigerator washing machine microwave\n Partners: \n Bathrooms: 2\n Intercom:\n Bathroom:\n Air conditioners: 3\n Gas connection: \n Connection to a washing machine: \n Dishwasher connection: \n David: \n Entry: 1/9\n Dimension: \n Long term: \n Guarantees: 2 guarantors on a promissory note and a security bond\n Price: 8500 NIS\n Property tax: about NIS 260 per month\n Up to: about NIS 160 per month\n\n  Brokerage - Ish Kasit Real Estate - Noam\n054-5363055'}
+2023-06-29 17:22:56,103 - INFO - ----------------------------------------------------------
+
+2023-06-29 17:23:04,787 - INFO - להשכרה דירת 3 חדרים בארלוזורוב 58 תל אביב קומה 1.
+
+הדירה מוארת עורפית ושקטה
+מרפסת אחורית שפונה לנוף ירוק
+משופצת עם מטבח חדש
+ארון בגדים ענק בחדר שינה
+גופי תאורה חדשים
+חיבור גז
+פרקט בכל הדירה
+לא מתאימה לשותפים
+
+תאריך כניסה 2.7.23
+
+שכד 8000 שח
+מראים מחר יום שישי 30.6
+9:30-12:30
+
+לפרטים נוספים ניתן לפנות בפרטי.
+2023-06-29 17:23:04,868 - INFO - found in DB: 
+{'_id': ObjectId('649d68a1494f6ae468f14384'), 'address': 'Arlozorov 58, Tel Aviv', 'price': 8000, 'rooms': 3, 'moveInDate': '2/7/23', 'floor': 1, 'petsAllowed': False, 'elevator': True, 'mediation': False, 'sublet': False, 'subletDates': '', 'posting': 'להשכרה דירת 3 חדרים בארלוזורוב 58 תל אביב קומה 1.\n\nהדירה מוארת עורפית ושקטה\nמרפסת אחורית שפונה לנוף ירוק\nמשופצת עם מטבח חדש\nארון בגדים ענק בחדר שינה\nגופי תאורה חדשים\nחיבור גז\nפרקט בכל הדירה\nלא מתאימה לשותפים\n\nתאריך כניסה 2.7.23\n\nשכד 8000 שח\nמראים מחר יום שישי 30.6\n9:30-12:30\n\nלפרטים נוספים ניתן לפנות בפרטי.', 'lat': 32.07178, 'lon': 34.8147}
+2023-06-29 17:23:12,464 - INFO - מי רוצה לגור פה
+הדירה הכי שווה שיש מתפנה
+פנטהאוס גדול מעוצב ומפנק בבניין בן 10 בתל אביב
+103 מ"ר בנוי  מרפסת היקפית 90 מ"ר עם גינה פרגולה ובריכה
+סלון גדול ורחב והמטבח הכי יפה באיזור עם חיבור למרפסת עםעוד נוף עוצר נשימה.
+יחידת הורים ענקית עם מקלחת מפנקת גדולה וחדר ארונות.
+חדר שינה נוסף (ממ"ד) ומקלחת אורחים נפרדת.
+פרקט בכל חדרים מזגן בכל חדר מים חמים כל הזמן
+לובי מפואר אינטרקום 2 מעליות מחסן וכולל חניה פרטית מקורה
+מיקום סופר נוח בדרום העיר (רחוב עקיבא איגר בנווה שאנן)
+בקיצור חלום.
+כניסה מיידית.
+לעוד פרטים פנו אלי בפרטי.
+9800 ש"ח ללא תיווך
+2023-06-29 17:23:12,544 - INFO - found in DB: 
+{'_id': ObjectId('649d932dc9da26e09112009b'), 'address': "Akiva Eiger St, Neve Sha'anan", 'price': 9800, 'rooms': 3, 'moveInDate': 'immediate', 'floor': 10, 'petsAllowed': False, 'elevator': True, 'mediation': False, 'sublet': False, 'subletDates': '', 'posting': 'מי רוצה לגור פה\nהדירה הכי שווה שיש מתפנה\nפנטהאוס גדול מעוצב ומפנק בבניין בן 10 בתל אביב\n103 מ"ר בנוי  מרפסת היקפית 90 מ"ר עם גינה פרגולה ובריכה\nסלון גדול ורחב והמטבח הכי יפה באיזור עם חיבור למרפסת עםעוד נוף עוצר נשימה.\nיחידת הורים ענקית עם מקלחת מפנקת גדולה וחדר ארונות.\nחדר שינה נוסף (ממ"ד) ומקלחת אורחים נפרדת.\nפרקט בכל חדרים מזגן בכל חדר מים חמים כל הזמן\nלובי מפואר אינטרקום 2 מעליות מחסן וכולל חניה פרטית מקורה\nמיקום סופר נוח בדרום העיר (רחוב עקיבא איגר בנווה שאנן)\nבקיצור חלום.\nכניסה מיידית.\nלעוד פרטים פנו אלי בפרטי.\n9800 ש"ח ללא תיווך', 'lat': 33.91667, 'lon': 134.65}
+2023-06-29 17:23:18,464 - INFO - מציאה 2.5 חדרים ענקית ל-2 שותפים או זוג  מרפסת סגורה גדולה   חצי חדר גדול שיכול לשמש כסלון  בקרבת רחוב בילו והבימה  ב6500
+דירה ענקית מרוהטת 
+על אבן גבירול
+מרחק הליכה מכיכר הבימה ורוטשילדעוד 
+מושלמת ל-2 שותפים
+או זוג
+שני חדרי שינה ענקיים
+ חצי חדר שיכול לשמש סלון 
+ מרפסת סגורה גדולה 
+גם המרפסת וגם ההול בכניסה לדירה יכולים לשמש כסלון 
+עוד יציאה למרפסת שירות 
+יש חיבור למכונת כביסה וגז
+75 מטר
+אפשר חיות מחמד
+הדירה עוברת סיוד ותיקונים היום ומחר
+קומה שלישית ללא מעלית 
+חוזה קליל
+כניסה ב10.7 
+כל הריהוט שיש בדירה יכול להישאר  חלק בתשלום ממש סימלי וחלק פשוט נשאר  כמובן רק אם רוצים .
+לפרטים מתיווך: נא לשלוח הודעה בפרטי או בווטספ למספר ולציין איזו דירה - 054-2131929 עידן
+2023-06-29 17:23:18,549 - INFO - found in DB: 
+{'_id': ObjectId('649d9337c9da26e09112009c'), 'address': 'Bilu Street and HaBima Square', 'price': 6500, 'rooms': 2.5, 'moveInDate': '10/7', 'floor': 3, 'petsAllowed': True, 'elevator': False, 'mediation': True, 'sublet': False, 'subletDates': '', 'posting': 'מציאה 2.5 חדרים ענקית ל-2 שותפים או זוג  מרפסת סגורה גדולה   חצי חדר גדול שיכול לשמש כסלון  בקרבת רחוב בילו והבימה  ב6500\nדירה ענקית מרוהטת \nעל אבן גבירול\nמרחק הליכה מכיכר הבימה ורוטשילדעוד \nמושלמת ל-2 שותפים\nאו זוג\nשני חדרי שינה ענקיים\n חצי חדר שיכול לשמש סלון \n מרפסת סגורה גדולה \nגם המרפסת וגם ההול בכניסה לדירה יכולים לשמש כסלון \nעוד יציאה למרפסת שירות \nיש חיבור למכונת כביסה וגז\n75 מטר\nאפשר חיות מחמד\nהדירה עוברת סיוד ותיקונים היום ומחר\nקומה שלישית ללא מעלית \nחוזה קליל\nכניסה ב10.7 \nכל הריהוט שיש בדירה יכול להישאר  חלק בתשלום ממש סימלי וחלק פשוט נשאר  כמובן רק אם רוצים .\nלפרטים מתיווך: נא לשלוח הודעה בפרטי או בווטספ למספר ולציין איזו דירה - 054-2131929 עידן'}
+2023-06-29 17:23:25,335 - INFO - הי
+אנחנו עוזבים את הדירה שלנו ומחפשים מחליפים.
+דירה מקסימה בצפון הישן רחוב בן שפרוט.
+דירת שני חדרים יש מרפסת גדולה בסלון ושתי מרפסות שירות.
+מושלמת לזוג.
+הדירה מוארת מאווררת מאד.
+
+כניסה ב10.7 יש גמישות לכמה ימים אחרי
+
+מחיר: 6200 ש"ח בעלי דירה נוחים.
+
+מראים מחר 30.6 בשעות אחה"צ
+מוזמנים לתאם 054-5241243
+
+יום יפה
+מיכל
+2023-06-29 17:23:25,425 - INFO - found in DB: 
+{'_id': ObjectId('649d9343c9da26e09112009d'), 'address': 'Ben Shaproot St., Haifa', 'price': 6200, 'rooms': 2, 'moveInDate': '10/7', 'floor': None, 'petsAllowed': None, 'elevator': None, 'mediation': None, 'sublet': None, 'subletDates': None, 'posting': 'הי\nאנחנו עוזבים את הדירה שלנו ומחפשים מחליפים.\nדירה מקסימה בצפון הישן רחוב בן שפרוט.\nדירת שני חדרים יש מרפסת גדולה בסלון ושתי מרפסות שירות.\nמושלמת לזוג.\nהדירה מוארת מאווררת מאד.\n\nכניסה ב10.7 יש גמישות לכמה ימים אחרי\n\nמחיר: 6200 ש"ח בעלי דירה נוחים.\n\nמראים מחר 30.6 בשעות אחה"צ\nמוזמנים לתאם 054-5241243\n\nיום יפה\nמיכל', 'lat': 32.792761, 'lon': 34.995336}
+2023-06-29 17:23:34,271 - INFO - להשכרה מפרטי
+יחידת דיור חדשה לגמרי משופצת מהיסוד בסטנדרט מאוד גבוה -
+ 2 חדרים  כ45 מטר  קומה 2 מתוך 2
+מוארת מרווחת ומעוצבת בקפידה
+מטבח משודרג מלא סטייל
+מקלחת ושירותים מעוצבים
+מזגן חדש בכל חדר
+עודסורגים דוד שמש  חשמל פלדלת הכנה לגז ומכונת כביסה
+ליחידה כניסה נפרדת (למי שמעדיף)
+גינת נוי מטופחת הכוללת עצי פרי מערכת השקייה עמדת מנגל
+הכל מחושב ומושקע למביני עניין
+
+במיקום מצוין - שכונת נווה הדרים המקסימה - איזור שקט של בתים פרטיים 5 דקות מקניון ראשונים תחבורה ציבורית וליציאה לכביש המהיר חנייה בשפע ברחוב (אפור) בכל שעות היום
+
+ללא בעלי חיים
+היחידה מגיעה ללא ריהוט
+כניסה מיידית
+4000 כולל מים וארנונה
+(לרציניים ניתן להתגמש)
+
+פרטים בפרטי 
+2023-06-29 17:23:37,406 - INFO - -------------------generated_text-------------------
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Neve Hadarim neighborhood, Petah Tikva, Israel\",\n  \"price\": 4000,\n  \"rooms\": 2,\n  \"size\": 45,\n  \"elevator\": true,\n  \"furnished\": false,\n  \"petsAllowed\": false,\n  \"moveInDate\": \"immediate\",\n  \"floor\": 2,\n  \"mediation\": false,\n  \"sublet\": false,\n  \"subletDates\": \"\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688048614,
+  "id": "chatcmpl-7WmqUMNep4rAFYJLE0GRs2QGQO2yY",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 796,
+    "total_tokens": 898
+  }
+}
+2023-06-29 17:23:37,406 - INFO - ----------------------------------------------------------
+
+2023-06-29 17:23:37,882 - INFO - -------------------json object-------------------
+{'address': 'Neve Hadarim neighborhood, Petah Tikva, Israel', 'price': 4000, 'rooms': 2, 'size': 45, 'elevator': True, 'furnished': False, 'petsAllowed': False, 'moveInDate': 'immediate', 'floor': 2, 'mediation': False, 'sublet': False, 'subletDates': '', 'posting': 'להשכרה מפרטי\nיחידת דיור חדשה לגמרי משופצת מהיסוד בסטנדרט מאוד גבוה -\n 2 חדרים  כ45 מטר  קומה 2 מתוך 2\nמוארת מרווחת ומעוצבת בקפידה\nמטבח משודרג מלא סטייל\nמקלחת ושירותים מעוצבים\nמזגן חדש בכל חדר\nעודסורגים דוד שמש  חשמל פלדלת הכנה לגז ומכונת כביסה\nליחידה כניסה נפרדת (למי שמעדיף)\nגינת נוי מטופחת הכוללת עצי פרי מערכת השקייה עמדת מנגל\nהכל מחושב ומושקע למביני עניין\n\nבמיקום מצוין - שכונת נווה הדרים המקסימה - איזור שקט של בתים פרטיים 5 דקות מקניון ראשונים תחבורה ציבורית וליציאה לכביש המהיר חנייה בשפע ברחוב (אפור) בכל שעות היום\n\nללא בעלי חיים\nהיחידה מגיעה ללא ריהוט\nכניסה מיידית\n4000 כולל מים וארנונה\n(לרציניים ניתן להתגמש)\n\nפרטים בפרטי ', 'lat': 32.095942, 'lon': 34.882543}
+2023-06-29 17:23:37,882 - INFO - ----------------------------------------------------------
+
+2023-06-29 17:23:46,431 - INFO - להשכרה במיקום מדהים  בלב העיר ליד הבימה וכיכר רבין
+
+בשדרות-חן המבוקשת  דירה ענקית (2 דירות מחוברות )
+
+4 חדרים מרווחים כ-125 מ"ר משופצת חלקית ומטופחת 
+
+תיקרות גבוהות  מרפסות  דירה של פעם עם המון אופי 
+
+עוד קומה 2.5 על עמודים (ללא) בבניין מטפח  קודן בכניסה 
+
+ריהוט חלקי
+
+מוארת וממוזגת
+
+דוד שמש 
+
+יש 2 חדרי רחצה ( אמבטיה ) ו2 שירותים 
+
+ללא בעלי חיים
+
+חשבונות נמוכים
+
+מתאימה למשפחה וגם ל3 שותפים
+
+כניסה מיידית
+
+מחיר 13.500 
+
+לתיאום 052-4287877
+
+תיווך אבידן נכסים
+
+לדירות נוספות הצטרפו אלינו לקבוצה:
+https://www.facebook.com/groups/662327187275268/
+2023-06-29 17:23:49,797 - INFO - -------------------generated_text-------------------
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Near the Bima and Rabin Square, on Shen-Hen Street\",\n  \"price\": 13500,\n  \"rooms\": 4,\n  \"moveInDate\": \"Immediate\",\n  \"floor\": 2.5,\n  \"petsAllowed\": false,\n  \"elevator\": true,\n  \"mediation\": true,\n  \"sublet\": false,\n  \"subletDates\": \"\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688048626,
+  "id": "chatcmpl-7WmqgYOF3p73yFwS4oxAZCOVgYz11",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 90,
+    "prompt_tokens": 639,
+    "total_tokens": 729
+  }
+}
+2023-06-29 17:23:49,797 - INFO - ----------------------------------------------------------
+
+2023-06-29 17:23:50,371 - INFO - Geocoding failed!
+2023-06-29 17:23:50,372 - INFO - -------------------json object-------------------
+{'address': 'Near the Bima and Rabin Square, on Shen-Hen Street', 'price': 13500, 'rooms': 4, 'moveInDate': 'Immediate', 'floor': 2.5, 'petsAllowed': False, 'elevator': True, 'mediation': True, 'sublet': False, 'subletDates': '', 'posting': 'להשכרה במיקום מדהים  בלב העיר ליד הבימה וכיכר רבין\n\nבשדרות-חן המבוקשת  דירה ענקית (2 דירות מחוברות )\n\n4 חדרים מרווחים כ-125 מ"ר משופצת חלקית ומטופחת \n\nתיקרות גבוהות  מרפסות  דירה של פעם עם המון אופי \n\nעוד קומה 2.5 על עמודים (ללא) בבניין מטפח  קודן בכניסה \n\nריהוט חלקי\n\nמוארת וממוזגת\n\nדוד שמש \n\nיש 2 חדרי רחצה ( אמבטיה ) ו2 שירותים \n\nללא בעלי חיים\n\nחשבונות נמוכים\n\nמתאימה למשפחה וגם ל3 שותפים\n\nכניסה מיידית\n\nמחיר 13.500 \n\nלתיאום 052-4287877\n\nתיווך אבידן נכסים\n\nלדירות נוספות הצטרפו אלינו לקבוצה:\nhttps://www.facebook.com/groups/662327187275268/'}
+2023-06-29 17:23:50,372 - INFO - ----------------------------------------------------------
+
+2023-06-29 17:23:58,240 - INFO - להשכרה דירת סטודיו במיקום מעולה ממש צמוד לפלורנטין 
+
+ברחוב " סימטת הש"ך " ליד רחוב הרצל 
+
+דירת סטודיו מרווחת
+
+חדשה ומושקעת  מוארת ושקטה 
+
+משופצת וחדשה
+
+ריהוט חלקי
+
+ מיזוג חדש
+
+קומה 2 (ללא)
+
+כניסה מיידית
+
+מחיר 3300 
+
+לתיאום 050-3277215
+
+תיווך אבידן נכסים
+
+לדירות נוספות הצטרפו אלינו לקבוצה:
+https://www.facebook.com/groups/662327187275268/
+2023-06-29 17:24:01,586 - INFO - -------------------generated_text-------------------
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Simtat HaShakh St, near Hertzl St\",\n  \"price\": 3300,\n  \"rooms\": 1,\n  \"moveInDate\": \"immediate\",\n  \"floor\": 2,\n  \"petsAllowed\": false,\n  \"elevator\": false,\n  \"mediation\": true,\n  \"sublet\": false,\n  \"subletDates\": \"\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688048638,
+  "id": "chatcmpl-7WmqsCkPUZ7ZGyWeIrG8pau1pZ8Yq",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 87,
+    "prompt_tokens": 451,
+    "total_tokens": 538
+  }
+}
+2023-06-29 17:24:01,587 - INFO - ----------------------------------------------------------
+
+2023-06-29 17:24:02,126 - INFO - Geocoding failed!
+2023-06-29 17:24:02,126 - INFO - -------------------json object-------------------
+{'address': 'Simtat HaShakh St, near Hertzl St', 'price': 3300, 'rooms': 1, 'moveInDate': 'immediate', 'floor': 2, 'petsAllowed': False, 'elevator': False, 'mediation': True, 'sublet': False, 'subletDates': '', 'posting': 'להשכרה דירת סטודיו במיקום מעולה ממש צמוד לפלורנטין \n\nברחוב " סימטת הש"ך " ליד רחוב הרצל \n\nדירת סטודיו מרווחת\n\nחדשה ומושקעת  מוארת ושקטה \n\nמשופצת וחדשה\n\nריהוט חלקי\n\n מיזוג חדש\n\nקומה 2 (ללא)\n\nכניסה מיידית\n\nמחיר 3300 \n\nלתיאום 050-3277215\n\nתיווך אבידן נכסים\n\nלדירות נוספות הצטרפו אלינו לקבוצה:\nhttps://www.facebook.com/groups/662327187275268/'}
+2023-06-29 17:24:02,126 - INFO - ----------------------------------------------------------
+
+2023-06-29 17:24:09,351 - INFO - ברחוב קטן ליד נורדאו
+דירת 2.5 חדרים
+קומה 3 עם מעלית
+כ60 מטר
+מוארת ושקטה
+סלון מרווח
+חדר שינה גדול
+ועוד חצי חדר אמיתי עם דלת וחלון
+מתאימה לזוגות וזוגות פלוס ילד
+כניסה 1.8עוד
+מחיר 7600 ותיווך מודעה מתיווך
+אין מענה בפייסבוק
+רצוי בוואטאפ
+לפרטים ותיאום בטלפון או בוואטסאפ 050-6906490
+מצורף לכם קישור לוואטאפ
+https://wa.me/972506906490
+לדירות נוספות מצרפת קישור לדף העסקי עם מגוון דירות
+https://www.facebook.com/196439011074336
+ממליצה על 2 קבוצות מעולות בתל אביב הצטרפו וצירפו
+דירות שוות לזוגות ושותפים בתל אביב
+https://www.facebook.com/groups/429827780505313
+דירות בתל אביב ריקות ושותפים
+https://www.facebook.com/groups/718718724880874
+2023-06-29 17:24:12,326 - INFO - -------------------generated_text-------------------
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Near NORDAU street\",\n  \"price\": 7600,\n  \"rooms\": 2.5,\n  \"moveInDate\": \"1/8\",\n  \"floor\": 3,\n  \"petsAllowed\": true,\n  \"elevator\": true,\n  \"mediation\": true,\n  \"sublet\": false,\n  \"subletDates\": \"\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688048650,
+  "id": "chatcmpl-7Wmr4spgF8Nko1pcwmbsUt69wHdfE",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 690,
+    "total_tokens": 773
+  }
+}
+2023-06-29 17:24:12,327 - INFO - ----------------------------------------------------------
+
+2023-06-29 17:24:15,669 - INFO - -------------------json object-------------------
+{'address': 'Near NORDAU street', 'price': 7600, 'rooms': 2.5, 'moveInDate': '1/8', 'floor': 3, 'petsAllowed': True, 'elevator': True, 'mediation': True, 'sublet': False, 'subletDates': '', 'posting': 'ברחוב קטן ליד נורדאו\nדירת 2.5 חדרים\nקומה 3 עם מעלית\nכ60 מטר\nמוארת ושקטה\nסלון מרווח\nחדר שינה גדול\nועוד חצי חדר אמיתי עם דלת וחלון\nמתאימה לזוגות וזוגות פלוס ילד\nכניסה 1.8עוד\nמחיר 7600 ותיווך מודעה מתיווך\nאין מענה בפייסבוק\nרצוי בוואטאפ\nלפרטים ותיאום בטלפון או בוואטסאפ 050-6906490\nמצורף לכם קישור לוואטאפ\nhttps://wa.me/972506906490\nלדירות נוספות מצרפת קישור לדף העסקי עם מגוון דירות\nhttps://www.facebook.com/196439011074336\nממליצה על 2 קבוצות מעולות בתל אביב הצטרפו וצירפו\nדירות שוות לזוגות ושותפים בתל אביב\nhttps://www.facebook.com/groups/429827780505313\nדירות בתל אביב ריקות ושותפים\nhttps://www.facebook.com/groups/718718724880874', 'lat': -41.128119, 'lon': 174.829452}
+2023-06-29 17:24:15,669 - INFO - ----------------------------------------------------------
+
+2023-06-29 17:24:24,323 - INFO - בבן יהודה ליד חוף פרישמן
+עורפית ושקטה צופה לים מהדירה ומהגג
+דופלקס גג יפה
+איזור בוגרשוב פרישמן
+כ80 בנוי ו50 מטר גג
+קומה 4-5 עם מעלית
+תיאור הדירה:
+בקומה למעלה שני חדרי שינה
+חדר אמבטיה שירותים שהוא גם חדרעוד ממד ויציאה לגג
+למטה סלון מטבח ושירותים
+כניסה 1.8
+לא מתאימה לשותפים
+מתאימה לזוגות וזוגות פלוס ילד
+מחיר- 9950 ותיווך מודעה מתיווך
+אין מענה בפייסבוק
+רצוי בוואטאפ
+לפרטים ותיאום בטלפון או בוואטסאפ 050-6906490
+מצורף לכם קישור לוואטאפ
+https://wa.me/972506906490
+לדירות נוספות מצרפת קישור לדף העסקי עם מגוון דירות
+https://www.facebook.com/196439011074336
+ממליצה על 2 קבוצות מעולות בתל אביב הצטרפו וצירפו
+דירות שוות לזוגות ושותפים בתל אביב
+https://www.facebook.com/groups/429827780505313
+דירות בתל אביב ריקות ושותפים
+https://www.facebook.com/groups/718718724880874
+2023-06-29 17:24:27,767 - INFO - -------------------generated_text-------------------
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Ben Yehuda St, near Frishman Beach\",\n  \"price\": 9950,\n  \"rooms\": 2,\n  \"size\": 80,\n  \"elevator\": true,\n  \"furnished\": false,\n  \"petsAllowed\": false,\n  \"moveInDate\": \"1\",\n  \"floor\": 4,\n  \"mediation\": true,\n  \"sublet\": false,\n  \"subletDates\": \"\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688048664,
+  "id": "chatcmpl-7WmrIyt4SwJo7sxwS3vzNIcEjieHE",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 99,
+    "prompt_tokens": 821,
+    "total_tokens": 920
+  }
+}
+2023-06-29 17:24:27,767 - INFO - ----------------------------------------------------------
+
+2023-06-29 17:24:28,570 - INFO - -------------------json object-------------------
+{'address': 'Ben Yehuda St, near Frishman Beach', 'price': 9950, 'rooms': 2, 'size': 80, 'elevator': True, 'furnished': False, 'petsAllowed': False, 'moveInDate': '1', 'floor': 4, 'mediation': True, 'sublet': False, 'subletDates': '', 'posting': 'בבן יהודה ליד חוף פרישמן\nעורפית ושקטה צופה לים מהדירה ומהגג\nדופלקס גג יפה\nאיזור בוגרשוב פרישמן\nכ80 בנוי ו50 מטר גג\nקומה 4-5 עם מעלית\nתיאור הדירה:\nבקומה למעלה שני חדרי שינה\nחדר אמבטיה שירותים שהוא גם חדרעוד ממד ויציאה לגג\nלמטה סלון מטבח ושירותים\nכניסה 1.8\nלא מתאימה לשותפים\nמתאימה לזוגות וזוגות פלוס ילד\nמחיר- 9950 ותיווך מודעה מתיווך\nאין מענה בפייסבוק\nרצוי בוואטאפ\nלפרטים ותיאום בטלפון או בוואטסאפ 050-6906490\nמצורף לכם קישור לוואטאפ\nhttps://wa.me/972506906490\nלדירות נוספות מצרפת קישור לדף העסקי עם מגוון דירות\nhttps://www.facebook.com/196439011074336\nממליצה על 2 קבוצות מעולות בתל אביב הצטרפו וצירפו\nדירות שוות לזוגות ושותפים בתל אביב\nhttps://www.facebook.com/groups/429827780505313\nדירות בתל אביב ריקות ושותפים\nhttps://www.facebook.com/groups/718718724880874', 'lat': 10.148132, 'lon': -61.781698}
+2023-06-29 17:24:28,571 - INFO - ----------------------------------------------------------
+
+2023-06-29 17:24:37,481 - INFO - חדש חדש 
+ברחוב קטן ושקט בין ארלוזורוב לבן גוריון בקרבה לים
+בבניין לשימור מחודש עכשיו סיימו
+דירה חדשה
+דירת 3 חדרים
+קומת קרקע
+כ73 מטר
+מטבח פתוח לסלון
+2 חדרי רחצה ושירותים
+חדר מאסטר עם חדר רחצה ושירותים עוד
+מלאת חלונות
+עורפית ושקטה
+דירה מקסימה ויפה
+כניסה מידי
+מחיר 9200 ותיווך מודעה מתיווך
+אין מענה בפייסבוק
+רצוי בוואטאפ
+לפרטים ותיאום בטלפון או בוואטסאפ 050-6906490
+מצורף לכם קישור לוואטאפ
+https://wa.me/972506906490
+לדירות נוספות מצרפת קישור לדף העסקי עם מגוון דירות
+https://www.facebook.com/196439011074336
+ממליצה על 2 קבוצות מעולות בתל אביב הצטרפו וצירפו
+דירות שוות לזוגות ושותפים בתל אביב
+https://www.facebook.com/groups/429827780505313
+דירות בתל אביב ריקות ושותפים
+https://www.facebook.com/groups/718718724880874
+2023-06-29 17:24:40,611 - INFO - -------------------generated_text-------------------
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n   \"address\":\"Small and quiet street between Arlozorov and Ben Gurion, close to the sea\",\n   \"price\":9200,\n   \"rooms\":3,\n   \"moveInDate\":\"DD/MM\",\n   \"floor\":0,\n   \"petsAllowed\":false,\n   \"elevator\":false,\n   \"mediation\":true,\n   \"sublet\":false,\n   \"subletDates\":\"N/A\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688048677,
+  "id": "chatcmpl-7WmrVHewVz9nMkvMj18DrdQfK6lSv",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 779,
+    "total_tokens": 870
+  }
+}
+2023-06-29 17:24:40,611 - INFO - ----------------------------------------------------------
+
+2023-06-29 17:24:41,071 - INFO - -------------------json object-------------------
+{'address': 'Small and quiet street between Arlozorov and Ben Gurion, close to the sea', 'price': 9200, 'rooms': 3, 'moveInDate': 'DD/MM', 'floor': 0, 'petsAllowed': False, 'elevator': False, 'mediation': True, 'sublet': False, 'subletDates': 'N/A', 'posting': 'חדש חדש \nברחוב קטן ושקט בין ארלוזורוב לבן גוריון בקרבה לים\nבבניין לשימור מחודש עכשיו סיימו\nדירה חדשה\nדירת 3 חדרים\nקומת קרקע\nכ73 מטר\nמטבח פתוח לסלון\n2 חדרי רחצה ושירותים\nחדר מאסטר עם חדר רחצה ושירותים עוד\nמלאת חלונות\nעורפית ושקטה\nדירה מקסימה ויפה\nכניסה מידי\nמחיר 9200 ותיווך מודעה מתיווך\nאין מענה בפייסבוק\nרצוי בוואטאפ\nלפרטים ותיאום בטלפון או בוואטסאפ 050-6906490\nמצורף לכם קישור לוואטאפ\nhttps://wa.me/972506906490\nלדירות נוספות מצרפת קישור לדף העסקי עם מגוון דירות\nhttps://www.facebook.com/196439011074336\nממליצה על 2 קבוצות מעולות בתל אביב הצטרפו וצירפו\nדירות שוות לזוגות ושותפים בתל אביב\nhttps://www.facebook.com/groups/429827780505313\nדירות בתל אביב ריקות ושותפים\nhttps://www.facebook.com/groups/718718724880874', 'lat': 44.82344, 'lon': 20.45813}
+2023-06-29 17:24:41,072 - INFO - ----------------------------------------------------------
+
+2023-06-29 17:24:49,518 - INFO - להשכרה בפלורנטין
+דירת 2 חדרים קומה 1 מעלית מרפסת שמש בניין חדש בן כמה שנים.
+מדהימה לזוג או יחיד.
+(מגיעה ללא ריהוט)
+כניסה ב-1 ליולי
+מחיר : 6500 שח
+לפרטים ותיאום הגעה
+תיווך AT HOME TLV
+052-6745544
+
+Adi Amir
+26 ביוני ב-19:22 
+
+להשכרה בפלורנטין
+דירת 2 חדרים קומה 1 מעלית מרפסת שמש בניין חדש בן כמה שנים.
+מדהימה לזוג או יחיד.
+
+כניסה ב-1 ליולי
+מחיר : 6500 שח
+לפרטים ותיאום הגעה
+תיווך AT HOME TLV
+052-6745544
+2023-06-29 17:24:52,766 - INFO - -------------------generated_text-------------------
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Florentin, Tel Aviv\",\n  \"price\": 6500,\n  \"rooms\": 2,\n  \"size\": null,\n  \"elevator\": true,\n  \"furnished\": false,\n  \"petsAllowed\": false,\n  \"moveInDate\": \"1/7\",\n  \"floor\": 1,\n  \"mediation\": true,\n  \"sublet\": false,\n  \"subletDates\": null\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688048690,
+  "id": "chatcmpl-7Wmri8ZRdymTsicF5prFJR6wyD02J",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 96,
+    "prompt_tokens": 514,
+    "total_tokens": 610
+  }
+}
+2023-06-29 17:24:52,767 - INFO - ----------------------------------------------------------
+
+2023-06-29 17:24:53,292 - INFO - -------------------json object-------------------
+{'address': 'Florentin, Tel Aviv', 'price': 6500, 'rooms': 2, 'size': None, 'elevator': True, 'furnished': False, 'petsAllowed': False, 'moveInDate': '1/7', 'floor': 1, 'mediation': True, 'sublet': False, 'subletDates': None, 'posting': 'להשכרה בפלורנטין\nדירת 2 חדרים קומה 1 מעלית מרפסת שמש בניין חדש בן כמה שנים.\nמדהימה לזוג או יחיד.\n(מגיעה ללא ריהוט)\nכניסה ב-1 ליולי\nמחיר : 6500 שח\nלפרטים ותיאום הגעה\nתיווך AT HOME TLV\n052-6745544\n\nAdi Amir\n26 ביוני ב-19:22 \n\nלהשכרה בפלורנטין\nדירת 2 חדרים קומה 1 מעלית מרפסת שמש בניין חדש בן כמה שנים.\nמדהימה לזוג או יחיד.\n\nכניסה ב-1 ליולי\nמחיר : 6500 שח\nלפרטים ותיאום הגעה\nתיווך AT HOME TLV\n052-6745544', 'lat': 32.05587, 'lon': 34.769621}
+2023-06-29 17:24:53,293 - INFO - ----------------------------------------------------------
+
+2023-06-29 17:24:57,335 - INFO - For rent in Shabazy street Neve Tzedek TA
+Unique flat with 2 great long balconies
+High ceilings amazing natural light
+3 super spacious rooms
+Original Neve Tzedek building renovated
+Great for families andעוד roommates
+Asking price: 10.920 NIS
+Please call 0543262904 Agency. Call and schedule your visit.
+The furniture belong to the tenant.
+As in the market our agency charges 1 month fee plus taxes. From the client in the contract day.
+2023-06-29 17:25:00,308 - INFO - -------------------generated_text-------------------
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Shabazy street Neve Tzedek TA\",\n  \"price\": 10920,\n  \"rooms\": 3,\n  \"moveInDate\": \"unknown\",\n  \"floor\": \"unknown\",\n  \"petsAllowed\": true,\n  \"elevator\": false,\n  \"mediation\": true,\n  \"sublet\": false,\n  \"subletDates\": \"\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688048697,
+  "id": "chatcmpl-7WmrpiOlaxCw8MBNxChEFIyEcGNZe",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 278,
+    "total_tokens": 362
+  }
+}
+2023-06-29 17:25:00,308 - INFO - ----------------------------------------------------------
+
+2023-06-29 17:25:01,236 - INFO - -------------------json object-------------------
+{'address': 'Shabazy street Neve Tzedek TA', 'price': 10920, 'rooms': 3, 'moveInDate': 'unknown', 'floor': 'unknown', 'petsAllowed': True, 'elevator': False, 'mediation': True, 'sublet': False, 'subletDates': '', 'posting': 'For rent in Shabazy street Neve Tzedek TA\nUnique flat with 2 great long balconies\nHigh ceilings amazing natural light\n3 super spacious rooms\nOriginal Neve Tzedek building renovated\nGreat for families andעוד roommates\nAsking price: 10.920 NIS\nPlease call 0543262904 Agency. Call and schedule your visit.\nThe furniture belong to the tenant.\nAs in the market our agency charges 1 month fee plus taxes. From the client in the contract day.', 'lat': 13.475389, 'lon': 43.768425}
+2023-06-29 17:25:01,236 - INFO - ----------------------------------------------------------
+
+2023-06-29 17:25:10,180 - INFO - להשכרה במיקום מדהים בצפון הישן והשקט ליד פארק הירקון 
+
+ברחוב שמעון התרסי המבוקש 
+
+2 חדרים מדליקה ומרווחת כ-70 מ"ר מעוצבת כ-LOFT (חלל אחד פתוח )
+
+מושקעת ברמה גבוהה ...
+
+עורפית ושקטה  מוארת וממוזגת ( עם נוףעוד ירוק..)
+
+קומה 2.5 (ללא) בבניין שמור  אינטרקום
+
+שירותים כפולים
+
+דוד שמש 
+
+יש מלא מקומות איחסון
+
+ריהוט חלקי
+
+חשבונות נמוכים
+
+מותר בעלי חיים
+
+תשתית לגז ולמכונת כביסה
+
+מרפסת שרות גדולה
+
+כניסה 5/08/23
+
+מחיר 7500 
+
+לתיאום 050-3277215
+
+תיווך אבידן נכסים
+
+לדירות נוספות הצטרפו אלינו לקבוצה:
+https://www.facebook.com/groups/662327187275268/
+2023-06-29 17:25:13,623 - INFO - -------------------generated_text-------------------
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Shimon Hatarsi Street\",\n  \"price\": 7500,\n  \"rooms\": 2,\n  \"moveInDate\": \"5/08\",\n  \"floor\": 2.5,\n  \"petsAllowed\": true,\n  \"elevator\": false,\n  \"mediation\": true,\n  \"sublet\": false,\n  \"subletDates\": \"\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688048710,
+  "id": "chatcmpl-7Wms2FPlq6lrub1imKM8IOnxTZPgj",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 633,
+    "total_tokens": 716
+  }
+}
+2023-06-29 17:25:13,623 - INFO - ----------------------------------------------------------
+
+2023-06-29 17:25:14,139 - INFO - Geocoding failed!
+2023-06-29 17:25:14,140 - INFO - -------------------json object-------------------
+{'address': 'Shimon Hatarsi Street', 'price': 7500, 'rooms': 2, 'moveInDate': '5/08', 'floor': 2.5, 'petsAllowed': True, 'elevator': False, 'mediation': True, 'sublet': False, 'subletDates': '', 'posting': 'להשכרה במיקום מדהים בצפון הישן והשקט ליד פארק הירקון \n\nברחוב שמעון התרסי המבוקש \n\n2 חדרים מדליקה ומרווחת כ-70 מ"ר מעוצבת כ-LOFT (חלל אחד פתוח )\n\nמושקעת ברמה גבוהה ...\n\nעורפית ושקטה  מוארת וממוזגת ( עם נוףעוד ירוק..)\n\nקומה 2.5 (ללא) בבניין שמור  אינטרקום\n\nשירותים כפולים\n\nדוד שמש \n\nיש מלא מקומות איחסון\n\nריהוט חלקי\n\nחשבונות נמוכים\n\nמותר בעלי חיים\n\nתשתית לגז ולמכונת כביסה\n\nמרפסת שרות גדולה\n\nכניסה 5/08/23\n\nמחיר 7500 \n\nלתיאום 050-3277215\n\nתיווך אבידן נכסים\n\nלדירות נוספות הצטרפו אלינו לקבוצה:\nhttps://www.facebook.com/groups/662327187275268/'}
+2023-06-29 17:25:14,140 - INFO - ----------------------------------------------------------
+
+2023-06-29 17:25:22,986 - INFO - להשכרה במיקום מעולה במרכז העניינים ליד מתחם בזל המבוקש
+
+ברחוב ארלוזורוב ליד שד עמנואל הרומי 
+
+4 חדרים כ-100 מטר במצב מעולה  מטופחת ומוארת  ממוזגת 
+
+מתאים גם למשפחות
+
+קלאסית ל3 שותפים(חדרים גדולים)
+
+קומה 3 (ללא)בבניין משופץ ומתוחזק
+
+דוד שמש
+
+מטבח ענק
+
+חשבונות נמוכים
+
+מותר בעלי חיים
+
+כניסה 1/08/23
+
+מחיר 9800 
+
+לתיאום 050-3277215
+
+תיווך אבידן נכסים
+
+לדירות נוספות הצטרפו אלינו לקבוצה:
+https://www.facebook.com/groups/662327187275268/
+2023-06-29 17:25:26,515 - INFO - -------------------generated_text-------------------
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n\t\"address\": \"Arlozorov Street, near Emanuel HaRomi Street\",\n\t\"price\": 9800,\n\t\"rooms\": 4,\n\t\"size\": 100,\n\t\"elevator\": true,\n\t\"furnished\": true,\n\t\"petsAllowed\": true,\n\t\"moveInDate\": \"1/08/23\",\n\t\"floor\": 3,\n\t\"mediation\": true,\n\t\"sublet\": false,\n\t\"subletDates\": \"\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688048723,
+  "id": "chatcmpl-7WmsFQRxCWRBG3oqTy0ZUagpU5tRC",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 536,
+    "total_tokens": 640
+  }
+}
+2023-06-29 17:25:26,515 - INFO - ----------------------------------------------------------
+
+2023-06-29 17:25:27,042 - INFO - Geocoding failed!
+2023-06-29 17:25:27,043 - INFO - -------------------json object-------------------
+{'address': 'Arlozorov Street, near Emanuel HaRomi Street', 'price': 9800, 'rooms': 4, 'size': 100, 'elevator': True, 'furnished': True, 'petsAllowed': True, 'moveInDate': '1/08/23', 'floor': 3, 'mediation': True, 'sublet': False, 'subletDates': '', 'posting': 'להשכרה במיקום מעולה במרכז העניינים ליד מתחם בזל המבוקש\n\nברחוב ארלוזורוב ליד שד עמנואל הרומי \n\n4 חדרים כ-100 מטר במצב מעולה  מטופחת ומוארת  ממוזגת \n\nמתאים גם למשפחות\n\nקלאסית ל3 שותפים(חדרים גדולים)\n\nקומה 3 (ללא)בבניין משופץ ומתוחזק\n\nדוד שמש\n\nמטבח ענק\n\nחשבונות נמוכים\n\nמותר בעלי חיים\n\nכניסה 1/08/23\n\nמחיר 9800 \n\nלתיאום 050-3277215\n\nתיווך אבידן נכסים\n\nלדירות נוספות הצטרפו אלינו לקבוצה:\nhttps://www.facebook.com/groups/662327187275268/'}
+2023-06-29 17:25:27,043 - INFO - ----------------------------------------------------------
+
+2023-06-29 17:25:34,156 - INFO - דופלקס בלב העיר להשכרה לא מתיווך
+ברחוב אחד העם בין שינקין לבלפור
+מתאימה למשפחה ולשותפים
+5 חדרים ומרפסת ענקית (סהכ 200 ממר) בקומה 5
+מיזוג בכל החדרים
+חניה צמודה
+כניסה מיידית
+שכד לחודש 13000 שח
+ארנונה לחודשיים 1400 שח
+לפרטים נוספים מוזמנים לפנות בטלפון ולא בפייסבוק:
+דני 054-4291221
+2023-06-29 17:25:37,793 - INFO - -------------------generated_text-------------------
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Between Shenkin and Blufor Street\",\n  \"price\": 13000,\n  \"rooms\": 5,\n  \"size\": 200,\n  \"elevator\": true,\n  \"furnished\": false,\n  \"petsAllowed\": true,\n  \"moveInDate\": \"immediate\",\n  \"floor\": 5,\n  \"mediation\": false,\n  \"sublet\": false,\n  \"subletDates\": \"\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688048734,
+  "id": "chatcmpl-7WmsQw6wT44U8Qqo01k4JFa1aI7ZG",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 97,
+    "prompt_tokens": 434,
+    "total_tokens": 531
+  }
+}
+2023-06-29 17:25:37,793 - INFO - ----------------------------------------------------------
+
+2023-06-29 17:25:38,359 - INFO - Geocoding failed!
+2023-06-29 17:25:38,359 - INFO - -------------------json object-------------------
+{'address': 'Between Shenkin and Blufor Street', 'price': 13000, 'rooms': 5, 'size': 200, 'elevator': True, 'furnished': False, 'petsAllowed': True, 'moveInDate': 'immediate', 'floor': 5, 'mediation': False, 'sublet': False, 'subletDates': '', 'posting': 'דופלקס בלב העיר להשכרה לא מתיווך\nברחוב אחד העם בין שינקין לבלפור\nמתאימה למשפחה ולשותפים\n5 חדרים ומרפסת ענקית (סהכ 200 ממר) בקומה 5\nמיזוג בכל החדרים\nחניה צמודה\nכניסה מיידית\nשכד לחודש 13000 שח\nארנונה לחודשיים 1400 שח\nלפרטים נוספים מוזמנים לפנות בטלפון ולא בפייסבוק:\nדני 054-4291221'}
+2023-06-29 17:25:38,359 - INFO - ----------------------------------------------------------
+
+2023-06-29 17:25:46,833 - INFO - להשכרה מתיווך
+דירת 3 חדרים חדשה מקבלן בפרויקט דה וינצי המבוקש והיוקרתי
+אחת הדירות המשודרגת בפרויקט
+הדירה כוללת מטבח מפנק ומשודרג עם מוצרי חשמל אינטגרליים( מקרר בילד אין מכונת כביסהמדיחועוד)פרקט פישבון בכלעוד הדירה.
+חדר שינה שהוסב למאסטרוחדר שינה נוסף(ממד).
+שירותים ואמבטיה נוספים.
+הדירה מגיעה עם חניה ומחסן.
+בפרויקט בריכה חדר כושר מלתחות ושמירה 24/7.
+דמנ 1500 שח בחודש.
+שכירות מבוקשת 12.000
+כניסה ב1/8.
+פניות בפרטי.
+2023-06-29 17:25:50,367 - INFO - -------------------generated_text-------------------
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"The Venice project, new 3 room apartment from the contractor\",\n  \"price\": 12000,\n  \"rooms\": 3,\n  \"moveInDate\": \"1/8\",\n  \"floor\": 0,\n  \"petsAllowed\": false,\n  \"elevator\": true,\n  \"mediation\": true,\n  \"sublet\": false,\n  \"subletDates\": \"\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688048747,
+  "id": "chatcmpl-7WmsdvcFJFOGoKRHQibTy3jEdkNTT",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 88,
+    "prompt_tokens": 579,
+    "total_tokens": 667
+  }
+}
+2023-06-29 17:25:50,367 - INFO - ----------------------------------------------------------
+
+2023-06-29 17:25:53,053 - INFO - -------------------json object-------------------
+{'address': 'The Venice project, new 3 room apartment from the contractor', 'price': 12000, 'rooms': 3, 'moveInDate': '1/8', 'floor': 0, 'petsAllowed': False, 'elevator': True, 'mediation': True, 'sublet': False, 'subletDates': '', 'posting': 'להשכרה מתיווך\nדירת 3 חדרים חדשה מקבלן בפרויקט דה וינצי המבוקש והיוקרתי\nאחת הדירות המשודרגת בפרויקט\nהדירה כוללת מטבח מפנק ומשודרג עם מוצרי חשמל אינטגרליים( מקרר בילד אין מכונת כביסהמדיחועוד)פרקט פישבון בכלעוד הדירה.\nחדר שינה שהוסב למאסטרוחדר שינה נוסף(ממד).\nשירותים ואמבטיה נוספים.\nהדירה מגיעה עם חניה ומחסן.\nבפרויקט בריכה חדר כושר מלתחות ושמירה 24/7.\nדמנ 1500 שח בחודש.\nשכירות מבוקשת 12.000\nכניסה ב1/8.\nפניות בפרטי.', 'lat': -2.5, 'lon': 23.5}
+2023-06-29 17:25:53,053 - INFO - ----------------------------------------------------------
+
+2023-06-29 17:25:59,548 - INFO - English below
+להשכרה במיקום מבוקש בצפון הישן
+על בן יהודה ליד ירמיהו והים
+דירת סטודיו פלוס חצי חדר למיטה
+
+מוארת ומרווחת
+הדירה עורפית ושקטה
+עם מטבח גדול
+ומקום למכונת כביסה
+
+בבניין מטופח
+קומה 2 עם מעלית
+ידידותית לבעלי חיים
+
+כניסה ב 1.8.23
+מחיר מבוקש 4500 שח
+
+לפרטים נוספים ותאום:
+באינבוקס או בוואטס אפ
+רמי 0527982597
+גיא 0507816503
+
+לדירות נוספות אתם מוזמנים
+לבקר בדף הבית שלנו ( תיווך )
+https://www.facebook.com/gethometlv
+
+For rent in the old north
+Perfect locationi
+On Ben Yehuda near
+Jeremiah st. and min from the sea
+
+Studio apartment
+plus half a room for a Double bed
+
+Bright and spacious
+The apartment is in the back of the building and very quiet
+with a large kitchen
+and a place for a washing machine
+
+in a well maintained building
+2nd floor with elevator
+Animal friendly
+
+Entrance on 1.8.23
+Asking price 4500 NIS
+
+For more details and twinning:
+Inbox or WhatsApp
+Rami 0527982597
+Guy 0507816503
+
+For more apartments you are welcome to Visit our home page (real estate)
+https://www.facebook.com/gethometlv
+2023-06-29 17:26:02,782 - INFO - -------------------generated_text-------------------
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Ben Yehuda st., near Jeremiah st. and the sea\",\n  \"price\": 4500,\n  \"rooms\": 1.5,\n  \"moveInDate\": \"1/8/23\",\n  \"floor\": 2,\n  \"petsAllowed\": true,\n  \"elevator\": true,\n  \"mediation\": true,\n  \"sublet\": false,\n  \"subletDates\": \"\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688048759,
+  "id": "chatcmpl-7WmspANr573CippsLSOMo0DIaGwfB",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 93,
+    "prompt_tokens": 692,
+    "total_tokens": 785
+  }
+}
+2023-06-29 17:26:02,782 - INFO - ----------------------------------------------------------
+
+2023-06-29 17:26:03,291 - INFO - Geocoding failed!
+2023-06-29 17:26:03,291 - INFO - -------------------json object-------------------
+{'address': 'Ben Yehuda st., near Jeremiah st. and the sea', 'price': 4500, 'rooms': 1.5, 'moveInDate': '1/8/23', 'floor': 2, 'petsAllowed': True, 'elevator': True, 'mediation': True, 'sublet': False, 'subletDates': '', 'posting': 'English below\nלהשכרה במיקום מבוקש בצפון הישן\nעל בן יהודה ליד ירמיהו והים\nדירת סטודיו פלוס חצי חדר למיטה\n\nמוארת ומרווחת\nהדירה עורפית ושקטה\nעם מטבח גדול\nומקום למכונת כביסה\n\nבבניין מטופח\nקומה 2 עם מעלית\nידידותית לבעלי חיים\n\nכניסה ב 1.8.23\nמחיר מבוקש 4500 שח\n\nלפרטים נוספים ותאום:\nבאינבוקס או בוואטס אפ\nרמי 0527982597\nגיא 0507816503\n\nלדירות נוספות אתם מוזמנים\nלבקר בדף הבית שלנו ( תיווך )\nhttps://www.facebook.com/gethometlv\n\nFor rent in the old north\nPerfect locationi\nOn Ben Yehuda near\nJeremiah st. and min from the sea\n\nStudio apartment\nplus half a room for a Double bed\n\nBright and spacious\nThe apartment is in the back of the building and very quiet\nwith a large kitchen\nand a place for a washing machine\n\nin a well maintained building\n2nd floor with elevator\nAnimal friendly\n\nEntrance on 1.8.23\nAsking price 4500 NIS\n\nFor more details and twinning:\nInbox or WhatsApp\nRami 0527982597\nGuy 0507816503\n\nFor more apartments you are welcome to Visit our home page (real estate)\nhttps://www.facebook.com/gethometlv'}
+2023-06-29 17:26:03,291 - INFO - ----------------------------------------------------------
+
+2023-06-29 17:26:11,981 - INFO - להשכרה מתיווך
+דירת 3 חדרים ל3 שותפים
+
+אבן גבירול פינת פנחס
+
+כניסה ב לא חזיתי לרחוב ויש חלונות כפולים
+
+3 חדרים
+קומה 3 ללא מעלית
+ 2 מרפסות
+הדירה תעבור שיפוץ לפני הכניסה
+ 3 חדרי שינה גדולים
+
+כניסה: 20.8
+
+מחיר מבוקש: 7500
+
+לפרטים: תיווך
+0508674585
+https://bit.ly/3njvRvi
+2023-06-29 17:26:15,581 - INFO - -------------------generated_text-------------------
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Eben Gvirol corner Pinchas\",\n  \"price\": 7500,\n  \"rooms\": 3,\n  \"moveInDate\": \"20/8\",\n  \"floor\": 3,\n  \"petsAllowed\": false,\n  \"elevator\": false,\n  \"mediation\": true,\n  \"sublet\": false,\n  \"subletDates\": \"\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688048772,
+  "id": "chatcmpl-7Wmt2PXFF3cH403U7sHUtELQP93jT",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 410,
+    "total_tokens": 494
+  }
+}
+2023-06-29 17:26:15,582 - INFO - ----------------------------------------------------------
+
+2023-06-29 17:26:15,989 - INFO - -------------------json object-------------------
+{'address': 'Eben Gvirol corner Pinchas', 'price': 7500, 'rooms': 3, 'moveInDate': '20/8', 'floor': 3, 'petsAllowed': False, 'elevator': False, 'mediation': True, 'sublet': False, 'subletDates': '', 'posting': 'להשכרה מתיווך\nדירת 3 חדרים ל3 שותפים\n\nאבן גבירול פינת פנחס\n\nכניסה ב לא חזיתי לרחוב ויש חלונות כפולים\n\n3 חדרים\nקומה 3 ללא מעלית\n 2 מרפסות\nהדירה תעבור שיפוץ לפני הכניסה\n 3 חדרי שינה גדולים\n\nכניסה: 20.8\n\nמחיר מבוקש: 7500\n\nלפרטים: תיווך\n0508674585\nhttps://bit.ly/3njvRvi', 'lat': -28.93035, 'lon': -66.95963}
+2023-06-29 17:26:15,990 - INFO - ----------------------------------------------------------
+
+2023-06-29 17:26:25,320 - INFO -  בקרבת כיכר דיזנגוף  3 חדרים ענקיים ל-3 שותפים  2 מרפסות ב-9300 (English Below)
+
+על פרישמן/שלמה המלך
+
+עברה שיפוץ לפני שנה
+
+3 חדרי שינה ענקיים  מרפסת שפונה לרחוב
+ מרפסת במטבח
+
+שירותים ומקלחת נפרדים
+
+80 מטרים
+
+מעולה ל-3 שותפים וגם למשפחות
+
+יש חיבור לגז ולכביסה
+
+יש דוד שמש
+
+יש גג בבניין לשימוש הדיירים
+
+מותר בעלי חיים
+
+קומה שניה ללא מעלית
+
+הכניסה ב-15.08
+
+לפרטים נוספים ותיאום מתיווך - נא לשלוח הודעה ולציין דירה
+
+לינק לאינסטגרם לעוד דירות  rb.gy/mv2dci
+
+----------------------------------------------------------------
+----------------------------------------------------------------
+
+Near Dizengoff Square  3 huge rooms for 3 Flatmates or a couple  balconies for 9300
+
+On Frishman/King Solomon
+
+Has been renovater last year
+
+3 huge bedrooms  balcony facing the street  Kitchen balcony
+
+Toilet and shower separately
+
+Renovated and well maintained
+
+80 meters
+
+Excellent for 3 partners and also for families
+
+Animals are allowed
+
+There is a connection to gas and laundry
+
+There is a solar heater
+
+There is a shared roof for the building tenants
+
+Second floor without elevator
+
+Entry is at 15.08
+
+For more details and coordination with a broker - please send a message and specify an apartment
+
+Link to Instagram for more apartments  rb.gy/mv2dci
+2023-06-29 17:26:28,385 - INFO - -------------------generated_text-------------------
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Frishman/King Solomon\",\n  \"price\": 9300,\n  \"rooms\": 3,\n  \"moveInDate\": \"15/08\",\n  \"floor\": 2,\n  \"petsAllowed\": true,\n  \"elevator\": false,\n  \"mediation\": true,\n  \"sublet\": false,\n  \"subletDates\": null\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688048785,
+  "id": "chatcmpl-7WmtFJEZF0mnduvcutG8cAOsvxh76",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 748,
+    "total_tokens": 831
+  }
+}
+2023-06-29 17:26:28,386 - INFO - ----------------------------------------------------------
+
+2023-06-29 17:26:28,932 - INFO - -------------------json object-------------------
+{'address': 'Frishman/King Solomon', 'price': 9300, 'rooms': 3, 'moveInDate': '15/08', 'floor': 2, 'petsAllowed': True, 'elevator': False, 'mediation': True, 'sublet': False, 'subletDates': None, 'posting': ' בקרבת כיכר דיזנגוף  3 חדרים ענקיים ל-3 שותפים  2 מרפסות ב-9300 (English Below)\n\nעל פרישמן/שלמה המלך\n\nעברה שיפוץ לפני שנה\n\n3 חדרי שינה ענקיים  מרפסת שפונה לרחוב\n מרפסת במטבח\n\nשירותים ומקלחת נפרדים\n\n80 מטרים\n\nמעולה ל-3 שותפים וגם למשפחות\n\nיש חיבור לגז ולכביסה\n\nיש דוד שמש\n\nיש גג בבניין לשימוש הדיירים\n\nמותר בעלי חיים\n\nקומה שניה ללא מעלית\n\nהכניסה ב-15.08\n\nלפרטים נוספים ותיאום מתיווך - נא לשלוח הודעה ולציין דירה\n\nלינק לאינסטגרם לעוד דירות  rb.gy/mv2dci\n\n----------------------------------------------------------------\n----------------------------------------------------------------\n\nNear Dizengoff Square  3 huge rooms for 3 Flatmates or a couple  balconies for 9300\n\nOn Frishman/King Solomon\n\nHas been renovater last year\n\n3 huge bedrooms  balcony facing the street  Kitchen balcony\n\nToilet and shower separately\n\nRenovated and well maintained\n\n80 meters\n\nExcellent for 3 partners and also for families\n\nAnimals are allowed\n\nThere is a connection to gas and laundry\n\nThere is a solar heater\n\nThere is a shared roof for the building tenants\n\nSecond floor without elevator\n\nEntry is at 15.08\n\nFor more details and coordination with a broker - please send a message and specify an apartment\n\nLink to Instagram for more apartments  rb.gy/mv2dci', 'lat': 47.465753, 'lon': -121.895697}
+2023-06-29 17:26:28,932 - INFO - ----------------------------------------------------------
+
+2023-06-29 17:26:35,612 - INFO - מפנים דירת שני חדרים בוגרשוב/כיכר השוטר קומה ראשונה 
+הדירה מחולקת מושלם מטבח כחדר נפרד מפריד בין הסלון לחדר השינה שהוא החלון הפנימי ביותר בדירה. שירותים ומקלחת נפרדים גם כן. בנובמבר עשו לנו שיפוץ במקלחתעוד שמו חלון אטום כיור חדש וקירות חדשים. 
+הדירה בערך 55מר.
+מותר בעלי חיים 
+השכנים נעימים מאוד
+ועד בית 100 לחודש בפייבוקס של הבניין. ארנונה לחודשיים בערך 430.
+יש חיבור לגז חדר שירות בסוף המטבח למכונת כביסה ומייבש.
+מזגן בסלון ובחדר שינה עובדים מעולה. 
+מוכרים כמה פריטי ריהוט (ספה שולחן אוכל שולחן למידה) אבל ממש לא כתנאי 
+הכניסה ב11.7 אנחנו נראה את הדירה ביום שלישי ה4.7 בשעות הערב 
+מחיר בסוף החוזה שלנו 7800 עם אפשרות לגמישות קלה מול בעלת הדירה.
+מוזמנים לפנות בפרטי אם התנאים מתאימים לכםן 3
+2023-06-29 17:26:39,953 - INFO - -------------------generated_text-------------------
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\"address\":\"Bograshov/Kikar Hashoter, first floor\",\n\"price\":7800,\n\"rooms\":2,\n\"size\":55,\n\"elevator\":true,\n\"furnished\":false,\n\"petsAllowed\":true,\n\"moveInDate\":\"11/7\",\n\"floor\":1,\n\"mediation\":false,\n\"sublet\":false,\n\"subletDates\":\"\",\n\"notes\":\"\"}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688048796,
+  "id": "chatcmpl-7WmtQqnrE3d0yc3FhBEXz1IlYBVuc",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 816,
+    "total_tokens": 901
+  }
+}
+2023-06-29 17:26:39,954 - INFO - ----------------------------------------------------------
+
+2023-06-29 17:26:40,487 - INFO - Geocoding failed!
+2023-06-29 17:26:40,487 - INFO - -------------------json object-------------------
+{'address': 'Bograshov/Kikar Hashoter, first floor', 'price': 7800, 'rooms': 2, 'size': 55, 'elevator': True, 'furnished': False, 'petsAllowed': True, 'moveInDate': '11/7', 'floor': 1, 'mediation': False, 'sublet': False, 'subletDates': '', 'notes': '', 'posting': 'מפנים דירת שני חדרים בוגרשוב/כיכר השוטר קומה ראשונה \nהדירה מחולקת מושלם מטבח כחדר נפרד מפריד בין הסלון לחדר השינה שהוא החלון הפנימי ביותר בדירה. שירותים ומקלחת נפרדים גם כן. בנובמבר עשו לנו שיפוץ במקלחתעוד שמו חלון אטום כיור חדש וקירות חדשים. \nהדירה בערך 55מר.\nמותר בעלי חיים \nהשכנים נעימים מאוד\nועד בית 100 לחודש בפייבוקס של הבניין. ארנונה לחודשיים בערך 430.\nיש חיבור לגז חדר שירות בסוף המטבח למכונת כביסה ומייבש.\nמזגן בסלון ובחדר שינה עובדים מעולה. \nמוכרים כמה פריטי ריהוט (ספה שולחן אוכל שולחן למידה) אבל ממש לא כתנאי \nהכניסה ב11.7 אנחנו נראה את הדירה ביום שלישי ה4.7 בשעות הערב \nמחיר בסוף החוזה שלנו 7800 עם אפשרות לגמישות קלה מול בעלת הדירה.\nמוזמנים לפנות בפרטי אם התנאים מתאימים לכםן 3'}
+2023-06-29 17:26:40,488 - INFO - ----------------------------------------------------------
+
+2023-07-01 18:54:10,127 - INFO - באבן גבירול ליד בזל דירת 2 חדרים מהממת מלאה באור מושלמת ליחיד עם זוג 
+7600
+
+רחוב: אבן גבירול
+חדרים: 2
+גודל: סהכ: כ58 מר
+קומה: 3
+מעלית: 
+חניה: 
+מרפסת: 
+משופצת: 
+בעח: קטן
+כיווני אוויר: דרום ומערב
+ריהוט: ארון קיר
+שותפים: 
+חדרי רחצה: 1
+אינטרקום: 
+מזגנים:  2
+חיבור לגז: 
+חיבור למכונת כביסה: 
+דוד: 
+כניסה: 1.8
+ממד: מקלט
+טווח ארוך: 
+ערבויות: 2 ערבים ופיקדון 12000
+מחיר: 7600
+ארנונה: כ172 לחודש
+ועד: כ141
+
+תיווך - נדלן איש כסית - בת 054-7137334
+
+On Ibn Gvirol near Basel a stunning 2-room apartment full of light perfect for a single person with a couple 
+7600
+
+Street: Even Gvirol
+Rooms: 2
+Size: total: about 58 square meters
+3rd floor
+Elevator: 
+Parking: 
+Balcony: 
+Renovated: 
+Pets:  Small
+Air directions: south and west
+Furniture: wall cabinet
+Roommates: 
+Bathrooms: 1
+Intercom: 
+Air conditioners:  2
+Gas connection: 
+Connection to a washing machine: 
+Boiler: 
+Occupancy: 1.8
+Safe room: in the building
+Long term: 
+Guarantees: 2 guarantors and a deposit of 12000
+Price: 7600
+Property tax: about 172 per month
+Maintenance: about 141
+
+Brokerage - Ish Cassit Real Estate - Bat 054-7137334
+2023-07-01 18:54:13,107 - INFO - -------------------generated_text-------------------
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Ibn Gvirol Street-Basel Street\",\n  \"price\": 7600,\n  \"rooms\": 2,\n  \"bathrooms\": 1,\n  \"size\": 58,\n  \"elevator\": false,\n  \"furnished\": false,\n  \"petsAllowed\": true,\n  \"moveInDate\": \"1/8\",\n  \"floor\": 3,\n  \"mediation\": true,\n  \"sublet\": false,\n  \"subleaseDates\": \"\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688226851,
+  "id": "chatcmpl-7XXDHT8r6thD3vGQrKFc4NzG5pqc4",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 805,
+    "total_tokens": 913
+  }
+}
+2023-07-01 18:54:13,107 - INFO - ----------------------------------------------------------
+
+2023-07-01 18:54:13,806 - INFO - -------------------json object-------------------
+{'address': 'Ibn Gvirol Street-Basel Street', 'price': 7600, 'rooms': 2, 'bathrooms': 1, 'size': 58, 'elevator': False, 'furnished': False, 'petsAllowed': True, 'moveInDate': '1/8', 'floor': 3, 'mediation': True, 'sublet': False, 'subleaseDates': '', 'posting': 'באבן גבירול ליד בזל דירת 2 חדרים מהממת מלאה באור מושלמת ליחיד עם זוג \n7600\n\nרחוב: אבן גבירול\nחדרים: 2\nגודל: סהכ: כ58 מר\nקומה: 3\nמעלית: \nחניה: \nמרפסת: \nמשופצת: \nבעח: קטן\nכיווני אוויר: דרום ומערב\nריהוט: ארון קיר\nשותפים: \nחדרי רחצה: 1\nאינטרקום: \nמזגנים:  2\nחיבור לגז: \nחיבור למכונת כביסה: \nדוד: \nכניסה: 1.8\nממד: מקלט\nטווח ארוך: \nערבויות: 2 ערבים ופיקדון 12000\nמחיר: 7600\nארנונה: כ172 לחודש\nועד: כ141\n\nתיווך - נדלן איש כסית - בת 054-7137334\n\nOn Ibn Gvirol near Basel a stunning 2-room apartment full of light perfect for a single person with a couple \n7600\n\nStreet: Even Gvirol\nRooms: 2\nSize: total: about 58 square meters\n3rd floor\nElevator: \nParking: \nBalcony: \nRenovated: \nPets:  Small\nAir directions: south and west\nFurniture: wall cabinet\nRoommates: \nBathrooms: 1\nIntercom: \nAir conditioners:  2\nGas connection: \nConnection to a washing machine: \nBoiler: \nOccupancy: 1.8\nSafe room: in the building\nLong term: \nGuarantees: 2 guarantors and a deposit of 12000\nPrice: 7600\nProperty tax: about 172 per month\nMaintenance: about 141\n\nBrokerage - Ish Cassit Real Estate - Bat 054-7137334', 'lat': 47.570053, 'lon': 7.572075}
+2023-07-01 18:54:13,806 - INFO - ----------------------------------------------------------
+
+2023-07-01 18:54:20,942 - INFO - להשכרה מתיווך
+דירה לזוגות/2 שותפים
+
+הר נבו פינת זבוטינסקי
+
+מרוהטת קומפלט
+
+3 חדרים
+קומה 1 ללא מעלית
+ דירה משופצת
+סלון מרווח ומואר
+ 2 חדרי שינה גדולים
+
+כניסה: מיידית
+
+מחיר מבוקש: 8700
+
+לפרטים: תיווך
+0508674585
+https://bit.ly/3njvRvi
+2023-07-01 18:54:23,116 - INFO - -------------------generated_text-------------------
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Har Naveh St-Zvutinsky St\",\n  \"price\": 8700,\n  \"rooms\": 3,\n  \"moveInDate\": \"immediate\",\n  \"floor\": 1,\n  \"petsAllowed\": false,\n  \"elevator\": false,\n  \"mediation\": true,\n  \"sublet\": false,\n  \"subletDates\": \"\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688226861,
+  "id": "chatcmpl-7XXDR1McbGxokpcYZOIu8nk7brfkQ",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 397,
+    "total_tokens": 482
+  }
+}
+2023-07-01 18:54:23,116 - INFO - ----------------------------------------------------------
+
+2023-07-01 18:54:23,657 - INFO - Geocoding failed!
+2023-07-01 18:54:23,657 - INFO - -------------------json object-------------------
+{'address': 'Har Naveh St-Zvutinsky St', 'price': 8700, 'rooms': 3, 'moveInDate': 'immediate', 'floor': 1, 'petsAllowed': False, 'elevator': False, 'mediation': True, 'sublet': False, 'subletDates': '', 'posting': 'להשכרה מתיווך\nדירה לזוגות/2 שותפים\n\nהר נבו פינת זבוטינסקי\n\nמרוהטת קומפלט\n\n3 חדרים\nקומה 1 ללא מעלית\n דירה משופצת\nסלון מרווח ומואר\n 2 חדרי שינה גדולים\n\nכניסה: מיידית\n\nמחיר מבוקש: 8700\n\nלפרטים: תיווך\n0508674585\nhttps://bit.ly/3njvRvi'}
+2023-07-01 18:54:23,657 - INFO - ----------------------------------------------------------
+
+2023-07-01 18:54:29,307 - INFO - דירה משופצת מהיסוד ... שנייה מהים והמכללה .. לזוג  יחיד.
+2 חדרים  עורפית ושקטה מלאת חלונות במחיר  3600 
+לפרטים ותיאום: 054-9402299 ליאור
+ דירה משופצת  הכל חדש עורפית ושקטה.
+ חדר שינה עם ארון ובסיס מיטה עוד חדש  2 חלונות בחדר.
+ סלון מרווח עם מקום לפינת עבודה.
+ מטבח חדש כולל כרים וטוסטר אובן חדשים.
+ מקלחת יפה ומפנקת זוגית.
+ מקום למכונת כביסה מזגנים חדשים תריסים בכל החלונות.
+ חשבונות נמוכים (ועדארנונה 85ש"ח) חוזה סטנדרטי  מחיר 3600 
+ קרקע מסורגת כניסה 7.8.23  ברחוב הבעש"ט ליד המכללה האקדמית
+הכל גמיש.
+בעלי הדירה הכי טובים שאפשר לקבל...
+לפרטים ותיאום: 054-9402299 ליאור
+תיווך LiKe Tel Aviv
+2023-07-01 18:54:31,800 - INFO - -------------------generated_text-------------------
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"HaBeashit Street-HaMakhlela Street\",\n  \"price\": 3600,\n  \"rooms\": 2,\n  \"bathrooms\": null,\n  \"size\": null,\n  \"elevator\": true,\n  \"furnished\": null,\n  \"petsAllowed\": null,\n  \"moveInDate\": \"7/8\",\n  \"floor\": null,\n  \"mediation\": null,\n  \"sublet\": false,\n  \"subletDates\": null\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688226869,
+  "id": "chatcmpl-7XXDZIdFtHt41DnryL4OpfGdZlUFS",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 740,
+    "total_tokens": 849
+  }
+}
+2023-07-01 18:54:31,801 - INFO - ----------------------------------------------------------
+
+2023-07-01 18:54:32,331 - INFO - Geocoding failed!
+2023-07-01 18:54:32,331 - INFO - -------------------json object-------------------
+{'address': 'HaBeashit Street-HaMakhlela Street', 'price': 3600, 'rooms': 2, 'bathrooms': None, 'size': None, 'elevator': True, 'furnished': None, 'petsAllowed': None, 'moveInDate': '7/8', 'floor': None, 'mediation': None, 'sublet': False, 'subletDates': None, 'posting': 'דירה משופצת מהיסוד ... שנייה מהים והמכללה .. לזוג  יחיד.\n2 חדרים  עורפית ושקטה מלאת חלונות במחיר  3600 \nלפרטים ותיאום: 054-9402299 ליאור\n דירה משופצת  הכל חדש עורפית ושקטה.\n חדר שינה עם ארון ובסיס מיטה עוד חדש  2 חלונות בחדר.\n סלון מרווח עם מקום לפינת עבודה.\n מטבח חדש כולל כרים וטוסטר אובן חדשים.\n מקלחת יפה ומפנקת זוגית.\n מקום למכונת כביסה מזגנים חדשים תריסים בכל החלונות.\n חשבונות נמוכים (ועדארנונה 85ש"ח) חוזה סטנדרטי  מחיר 3600 \n קרקע מסורגת כניסה 7.8.23  ברחוב הבעש"ט ליד המכללה האקדמית\nהכל גמיש.\nבעלי הדירה הכי טובים שאפשר לקבל...\nלפרטים ותיאום: 054-9402299 ליאור\nתיווך LiKe Tel Aviv'}
+2023-07-01 18:54:32,331 - INFO - ----------------------------------------------------------
+
+2023-07-01 18:54:39,692 - INFO - דירה להשכרה בלב תל אביב
+רחוב סנטר התבור
+בית פרטי / קוטג
+3.5 חדרים
+80 מטר  20 חצר
+בית קרקע מרווח 2 חדרים גדולים ולדר ארונות
+תקרות גבוהות חצר מרוצפת גדולה בחזית הבית
+קרוב לשוק הכרמל נווה צדק לירקון קרובעוד לים (רחוב שקט)
+מתאים לבעלי חיים
+כניסה - 1.7
+מחיר - 8500 לפני מומ
+לתיאום- 0524047778
+2023-07-01 18:54:42,587 - INFO - -------------------generated_text-------------------
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Center HaTavor Street\",\n  \"price\": 8500,\n  \"rooms\": 3.5,\n  \"moveInDate\": \"1/7\",\n  \"floor\": 1,\n  \"petsAllowed\": true,\n  \"elevator\": false,\n  \"mediation\": true,\n  \"sublet\": false,\n  \"subletDates\": \"\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688226880,
+  "id": "chatcmpl-7XXDky2WPwa8cQw7OruueUFg68FZP",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 462,
+    "total_tokens": 545
+  }
+}
+2023-07-01 18:54:42,587 - INFO - ----------------------------------------------------------
+
+2023-07-01 18:54:43,427 - INFO - -------------------json object-------------------
+{'address': 'Center HaTavor Street', 'price': 8500, 'rooms': 3.5, 'moveInDate': '1/7', 'floor': 1, 'petsAllowed': True, 'elevator': False, 'mediation': True, 'sublet': False, 'subletDates': '', 'posting': 'דירה להשכרה בלב תל אביב\nרחוב סנטר התבור\nבית פרטי / קוטג\n3.5 חדרים\n80 מטר  20 חצר\nבית קרקע מרווח 2 חדרים גדולים ולדר ארונות\nתקרות גבוהות חצר מרוצפת גדולה בחזית הבית\nקרוב לשוק הכרמל נווה צדק לירקון קרובעוד לים (רחוב שקט)\nמתאים לבעלי חיים\nכניסה - 1.7\nמחיר - 8500 לפני מומ\nלתיאום- 0524047778', 'lat': 40.758082, 'lon': -73.656535}
+2023-07-01 18:54:43,427 - INFO - ----------------------------------------------------------
+
+2023-07-01 18:54:57,838 - INFO - הי
+אנחנו עוזבים את הדירה שלנו ומחפשים מחליפים.
+דירה מקסימה בצפון הישן רחוב בן שפרוט.
+דירת שני חדרים יש מרפסת גדולה בסלון ושתי מרפסות שירות.
+מושלמת לזוג.
+הדירה מוארת מאווררת מאד.
+
+כניסה ב10.7 יש גמישות לכמה ימים אחרי
+
+מחיר: 6200 ש"ח בעלי דירה נוחים.
+
+מראים מחר 30.6 בשעות אחה"צ
+מוזמנים לתאם 054-5241243
+
+יום יפה
+מיכל
+2023-07-01 18:54:57,919 - INFO - found in DB: 
+{'_id': ObjectId('649d9343c9da26e09112009d'), 'address': 'Ben Shaproot St., Haifa', 'price': 6200, 'rooms': 2, 'moveInDate': '10/7', 'floor': None, 'petsAllowed': None, 'elevator': None, 'mediation': None, 'sublet': None, 'subletDates': None, 'posting': 'הי\nאנחנו עוזבים את הדירה שלנו ומחפשים מחליפים.\nדירה מקסימה בצפון הישן רחוב בן שפרוט.\nדירת שני חדרים יש מרפסת גדולה בסלון ושתי מרפסות שירות.\nמושלמת לזוג.\nהדירה מוארת מאווררת מאד.\n\nכניסה ב10.7 יש גמישות לכמה ימים אחרי\n\nמחיר: 6200 ש"ח בעלי דירה נוחים.\n\nמראים מחר 30.6 בשעות אחה"צ\nמוזמנים לתאם 054-5241243\n\nיום יפה\nמיכל', 'lat': 32.792761, 'lon': 34.995336}
+2023-07-01 18:55:06,169 - INFO -  להשכרה דירת אופי 4 חד בצפון הישן 
+מחיר 9600 (כל שותף 3200) מתאים ל 3-2 שותפים מוארת שקטה ונעימה
+כ 95 מר שמורה סלון מרווח 2 שירותים ומקלחת
+מזגנים מכונת כביסה מקרר ועוד.
+לפרטים 0544844837
+2023-07-01 18:55:08,596 - INFO - -------------------generated_text-------------------
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Old North Tel Aviv\",\n  \"price\": 9600,\n  \"rooms\": 4,\n  \"bathrooms\": 2,\n  \"size\": 95,\n  \"elevator\": true,\n  \"furnished\": true,\n  \"petsAllowed\": true,\n  \"moveInDate\": \"day/month\",\n  \"floor\": 2,\n  \"mediation\": false,\n  \"sublet\": false,\n  \"subletDates\": \"\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688226906,
+  "id": "chatcmpl-7XXEANRkHxFQrTgi6DtaRCPgvLT0b",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 102,
+    "prompt_tokens": 362,
+    "total_tokens": 464
+  }
+}
+2023-07-01 18:55:08,596 - INFO - ----------------------------------------------------------
+
+2023-07-01 18:55:10,145 - INFO - -------------------json object-------------------
+{'address': 'Old North Tel Aviv', 'price': 9600, 'rooms': 4, 'bathrooms': 2, 'size': 95, 'elevator': True, 'furnished': True, 'petsAllowed': True, 'moveInDate': 'day/month', 'floor': 2, 'mediation': False, 'sublet': False, 'subletDates': '', 'posting': ' להשכרה דירת אופי 4 חד בצפון הישן \nמחיר 9600 (כל שותף 3200) מתאים ל 3-2 שותפים מוארת שקטה ונעימה\nכ 95 מר שמורה סלון מרווח 2 שירותים ומקלחת\nמזגנים מכונת כביסה מקרר ועוד.\nלפרטים 0544844837', 'lat': 32.101604, 'lon': 34.775714}
+2023-07-01 18:55:10,145 - INFO - ----------------------------------------------------------
+
+2023-07-01 18:55:16,578 - INFO - להשכרה
+
+ברחוב יהודה גור - כיכר המדינה
+
+דירת 3 חדרים גדולה מוארת יפה ושקטה
+
+קומה שניה עם מעלית
+
+לטווח ארוך
+
+מחיר: 7500 ש"ח
+
+לפרטים נוספים ותיאומים:
+גלעד קבוצת עמית טל
+052-680-1039
+2023-07-01 18:55:19,636 - INFO - -------------------generated_text-------------------
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Yehuda Goren Street - Kikar HaMedina\",\n  \"price\": 7500,\n  \"rooms\": 3,\n  \"bathrooms\": null,\n  \"size\": null,\n  \"elevator\": true,\n  \"furnished\": null,\n  \"petsAllowed\": null,\n  \"moveInDate\": null,\n  \"floor\": 2,\n  \"mediation\": false,\n  \"sublet\": false,\n  \"subletDates\": null\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688226917,
+  "id": "chatcmpl-7XXELIs0ndh5wJXcWVXaVBwA7kDva",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 356,
+    "total_tokens": 464
+  }
+}
+2023-07-01 18:55:19,636 - INFO - ----------------------------------------------------------
+
+2023-07-01 18:55:20,284 - INFO - Geocoding failed!
+2023-07-01 18:55:20,284 - INFO - -------------------json object-------------------
+{'address': 'Yehuda Goren Street - Kikar HaMedina', 'price': 7500, 'rooms': 3, 'bathrooms': None, 'size': None, 'elevator': True, 'furnished': None, 'petsAllowed': None, 'moveInDate': None, 'floor': 2, 'mediation': False, 'sublet': False, 'subletDates': None, 'posting': 'להשכרה\n\nברחוב יהודה גור - כיכר המדינה\n\nדירת 3 חדרים גדולה מוארת יפה ושקטה\n\nקומה שניה עם מעלית\n\nלטווח ארוך\n\nמחיר: 7500 ש"ח\n\nלפרטים נוספים ותיאומים:\nגלעד קבוצת עמית טל\n052-680-1039'}
+2023-07-01 18:55:20,284 - INFO - ----------------------------------------------------------
+
+2023-07-01 18:55:21,906 - INFO - להשכרה דירת 4 חדרים בנאות אפקה ב רחוב בני אפרים בקרבת מנורה בקומה 3 בעיר תל אביב.
+פינוי וכניסה 03.08.2023. מוארת מאד שירותים כפולים רצפת פרקט ארונות בחדרים ובמטבח מקרר ומדיח כלים מים חמים וחימוםעוד מרכזיים מזגן בסלון וכן ב 2 חדרי שינה מאווררי תיקרה בכל החדרים. דמי שכירות 7000 . לתקופה של 7 חודשים שבסיומם תיבחן אפשרות הארכה .פרטים אצל עידן במסנגר
+2023-07-01 18:55:25,133 - INFO - -------------------generated_text-------------------
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Bnei Efraim Street - Near Manara, Tel Aviv\",\n  \"price\": 7000,\n  \"rooms\": 4,\n  \"bathrooms\": 2,\n  \"size\": null,\n  \"elevator\": false,\n  \"furnished\": null,\n  \"petsAllowed\": null,\n  \"moveInDate\": \"03/08\",\n  \"floor\": 3,\n  \"mediation\": false,\n  \"sublet\": true,\n  \"subletDates\": \"7 months\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688226922,
+  "id": "chatcmpl-7XXEQC7ueViA9sejnC79VQPo3a5L1",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 115,
+    "prompt_tokens": 531,
+    "total_tokens": 646
+  }
+}
+2023-07-01 18:55:25,134 - INFO - ----------------------------------------------------------
+
+2023-07-01 18:55:25,615 - INFO - -------------------json object-------------------
+{'address': 'Bnei Efraim Street - Near Manara, Tel Aviv', 'price': 7000, 'rooms': 4, 'bathrooms': 2, 'size': None, 'elevator': False, 'furnished': None, 'petsAllowed': None, 'moveInDate': '03/08', 'floor': 3, 'mediation': False, 'sublet': True, 'subletDates': '7 months', 'posting': 'להשכרה דירת 4 חדרים בנאות אפקה ב רחוב בני אפרים בקרבת מנורה בקומה 3 בעיר תל אביב.\nפינוי וכניסה 03.08.2023. מוארת מאד שירותים כפולים רצפת פרקט ארונות בחדרים ובמטבח מקרר ומדיח כלים מים חמים וחימוםעוד מרכזיים מזגן בסלון וכן ב 2 חדרי שינה מאווררי תיקרה בכל החדרים. דמי שכירות 7000 . לתקופה של 7 חודשים שבסיומם תיבחן אפשרות הארכה .פרטים אצל עידן במסנגר', 'lat': 32.066455, 'lon': 34.783553}
+2023-07-01 18:55:25,615 - INFO - ----------------------------------------------------------
+
+2023-07-01 18:55:35,013 - INFO -  ליד כיכר רבין  2.5 חדרים גדולה ל-2 שותפים או זוג  מרפסות ב-6750  (English Below)
+
+ליד מודיליאני/בצלאל
+
+2 חדרי שינה  חצי חדר  מרפסת סגורה גדולה עם יציאה משני החדרים
+
+ מרפסת שירות  הול כניסה גדול (יכול לשמש כאיזור משותף)
+
+חדרי השירותים והמקלחת נפרדים
+
+75 מטרים
+
+יש דוד שמש
+
+יש חיבורים לגז ולכביסה
+
+מותר בעלי חיים
+
+יש ריהוט של דייר העוזב שיכול להישאר תמורת מחיר סמלי
+
+קומה שלישית וחצי עם מעלית לקומה השלישית
+
+הכניסה ב 01.07
+
+לפרטים נוספים ותיאום מתיווך - נא לשלוח הודעה ולציין דירה
+
+לינק לאינסטגרם לעוד דירות  rb.gy/mv2dci
+
+--------------------------------------------------------------
+--------------------------------------------------------------
+
+Near Rabin Square  2.5 rooms for 2 Flatmates or a couple  balconies for 6750
+
+near Modigliani/Bezalel
+
+2 bedrooms  half a room  a large closed balcony with an exit from both rooms
+
+ service balcony  wide entrance hall for a common space
+
+The toilet and shower rooms are separated
+
+75 meters
+
+There is a solar heater for water
+
+There are gas and laundry connections
+
+Animals are allowed
+
+There is furniture of the leaving tenant that can stay for a nominal price
+
+Third and a half floor with elevator to the third floor
+
+Entry on 01.07
+
+For more details and coordination with a broker - please send a message and specify an apartment
+
+Link to Instagram for more apartments  rb.gy/mv2dci
+2023-07-01 18:55:36,972 - INFO - -------------------generated_text-------------------
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Near Rabin Square\",\n  \"price\": 6750,\n  \"rooms\": 2.5,\n  \"moveInDate\": \"01/07\",\n  \"floor\": 3,\n  \"petsAllowed\": true,\n  \"elevator\": true,\n  \"mediation\": false,\n  \"sublet\": false,\n  \"subletDates\": \"\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688226935,
+  "id": "chatcmpl-7XXEdLZf439QJIWJLaPq3tkXvgck6",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 836,
+    "total_tokens": 918
+  }
+}
+2023-07-01 18:55:36,972 - INFO - ----------------------------------------------------------
+
+2023-07-01 18:55:37,710 - INFO - -------------------json object-------------------
+{'address': 'Near Rabin Square', 'price': 6750, 'rooms': 2.5, 'moveInDate': '01/07', 'floor': 3, 'petsAllowed': True, 'elevator': True, 'mediation': False, 'sublet': False, 'subletDates': '', 'posting': ' ליד כיכר רבין  2.5 חדרים גדולה ל-2 שותפים או זוג  מרפסות ב-6750  (English Below)\n\nליד מודיליאני/בצלאל\n\n2 חדרי שינה  חצי חדר  מרפסת סגורה גדולה עם יציאה משני החדרים\n\n מרפסת שירות  הול כניסה גדול (יכול לשמש כאיזור משותף)\n\nחדרי השירותים והמקלחת נפרדים\n\n75 מטרים\n\nיש דוד שמש\n\nיש חיבורים לגז ולכביסה\n\nמותר בעלי חיים\n\nיש ריהוט של דייר העוזב שיכול להישאר תמורת מחיר סמלי\n\nקומה שלישית וחצי עם מעלית לקומה השלישית\n\nהכניסה ב 01.07\n\nלפרטים נוספים ותיאום מתיווך - נא לשלוח הודעה ולציין דירה\n\nלינק לאינסטגרם לעוד דירות  rb.gy/mv2dci\n\n--------------------------------------------------------------\n--------------------------------------------------------------\n\nNear Rabin Square  2.5 rooms for 2 Flatmates or a couple  balconies for 6750\n\nnear Modigliani/Bezalel\n\n2 bedrooms  half a room  a large closed balcony with an exit from both rooms\n\n service balcony  wide entrance hall for a common space\n\nThe toilet and shower rooms are separated\n\n75 meters\n\nThere is a solar heater for water\n\nThere are gas and laundry connections\n\nAnimals are allowed\n\nThere is furniture of the leaving tenant that can stay for a nominal price\n\nThird and a half floor with elevator to the third floor\n\nEntry on 01.07\n\nFor more details and coordination with a broker - please send a message and specify an apartment\n\nLink to Instagram for more apartments  rb.gy/mv2dci', 'lat': -1.290405, 'lon': 36.801321}
+2023-07-01 18:55:37,711 - INFO - ----------------------------------------------------------
+
+2023-07-01 18:55:45,039 - INFO - הבימה שיווק נדלן מציגה להשכרה
+ברחוב בלוך בלב תל אביב
+דירת 2.5 חדרים
+כ 70 מ"ר
+קומה קרקע
+מרפסת שמש  2 מרפסות סגורות
+פינוי 5.7
+מתאימה לזוג או אדם בודד
+ועד לחודש 180 ש"ח
+ארנונה 550 ש"ח עוד
+מחיר : 6800 ש"ח
+לפרטים נוספים חייגו 0505544770 לירן
+או לחצו על הקישור לווצאפ
+https://wa.me/message/SHFJUHD72VGXM1rGx
+2023-07-01 18:55:46,841 - INFO - -------------------generated_text-------------------
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Baluch Street-Tel Aviv\",\n  \"price\": 6800,\n  \"rooms\": 2.5,\n  \"moveInDate\": \"5/7\",\n  \"floor\": 0,\n  \"petsAllowed\": false,\n  \"elevator\": false,\n  \"mediation\": true,\n  \"sublet\": false,\n  \"subletDates\": null\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688226945,
+  "id": "chatcmpl-7XXEnb1aJZIMa1YMMSHfck9nC3Aag",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 455,
+    "total_tokens": 540
+  }
+}
+2023-07-01 18:55:46,841 - INFO - ----------------------------------------------------------
+
+2023-07-01 18:55:47,977 - INFO - -------------------json object-------------------
+{'address': 'Baluch Street-Tel Aviv', 'price': 6800, 'rooms': 2.5, 'moveInDate': '5/7', 'floor': 0, 'petsAllowed': False, 'elevator': False, 'mediation': True, 'sublet': False, 'subletDates': None, 'posting': 'הבימה שיווק נדלן מציגה להשכרה\nברחוב בלוך בלב תל אביב\nדירת 2.5 חדרים\nכ 70 מ"ר\nקומה קרקע\nמרפסת שמש  2 מרפסות סגורות\nפינוי 5.7\nמתאימה לזוג או אדם בודד\nועד לחודש 180 ש"ח\nארנונה 550 ש"ח עוד\nמחיר : 6800 ש"ח\nלפרטים נוספים חייגו 0505544770 לירן\nאו לחצו על הקישור לווצאפ\nhttps://wa.me/message/SHFJUHD72VGXM1rGx', 'lat': 32.079335, 'lon': 34.768835}
+2023-07-01 18:55:47,977 - INFO - ----------------------------------------------------------
+
+2023-07-01 18:56:00,037 - INFO - להשכרה דירת 3 חדרים באחד הרחובות היפים של תל אביב בצפון הישן
+ברחוב יריחו
+75 מר נעימה מוארת ועם הרבה חן 
+משופצת לפני כמה שנים.
+מה נשאר בדירה  מטבח מאובזר ארון בחדרי השינה שולחן אוכל ספה מכונת כביסה.עוד
+קומה 3 בלי מעלית.
+לטווח ארוך.
+כניסה מיידית
+ובעלי הדירה סופר נחמדים
+
+מחיר מבוקש: 8750 לחודש 
+לפרטים נוספים  מריאן 0544625626
+2023-07-01 18:56:01,969 - INFO - -------------------generated_text-------------------
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Yericho Street\",\n  \"price\": 8750,\n  \"rooms\": 3,\n  \"moveInDate\": \"Immediate\",\n  \"floor\": 3,\n  \"petsAllowed\": true,\n  \"elevator\": false,\n  \"mediation\": false,\n  \"sublet\": false,\n  \"subletDates\": \"\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688226960,
+  "id": "chatcmpl-7XXF2OPYD0EjxO7J73Qjld4yWqDFe",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 78,
+    "prompt_tokens": 489,
+    "total_tokens": 567
+  }
+}
+2023-07-01 18:56:01,969 - INFO - ----------------------------------------------------------
+
+2023-07-01 18:56:02,852 - INFO - -------------------json object-------------------
+{'address': 'Yericho Street', 'price': 8750, 'rooms': 3, 'moveInDate': 'Immediate', 'floor': 3, 'petsAllowed': True, 'elevator': False, 'mediation': False, 'sublet': False, 'subletDates': '', 'posting': 'להשכרה דירת 3 חדרים באחד הרחובות היפים של תל אביב בצפון הישן\nברחוב יריחו\n75 מר נעימה מוארת ועם הרבה חן \nמשופצת לפני כמה שנים.\nמה נשאר בדירה  מטבח מאובזר ארון בחדרי השינה שולחן אוכל ספה מכונת כביסה.עוד\nקומה 3 בלי מעלית.\nלטווח ארוך.\nכניסה מיידית\nובעלי הדירה סופר נחמדים\n\nמחיר מבוקש: 8750 לחודש \nלפרטים נוספים  מריאן 0544625626', 'lat': 59.821127, 'lon': 30.388194}
+2023-07-01 18:56:02,853 - INFO - ----------------------------------------------------------
+
+2023-07-01 18:56:10,450 - INFO - להשכרה מתיווך  בסימטאות הבימה ברחוב ביל"ו השקט והמבוקש  מתפנה לה דירת 4 חדרים 77 מ"ר משופצת אדריכלית 
+סלון פתוח למטבח עם פינת אוכל גדולה  שרותים ומקלחת כפולים  בניין משופץ עם מעלית  הדירה משופצת מן היסודעוד ומרוהטת קומפלט  מציאה לזוגות משפחה או 3 שותפים טובים  שכד 11 אלף וגמיש  תאריך כניסה גמישה  לפרטים נוספים שי 054-7976262 מיקום פצצה לא לפספס   
+2023-07-01 18:56:12,738 - INFO - -------------------generated_text-------------------
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Bilu-Simtat Habima\",\n  \"price\": 11000,\n  \"rooms\": 4,\n  \"bathrooms\": 1,\n  \"size\": 77,\n  \"elevator\": true,\n  \"furnished\": true,\n  \"petsAllowed\": true,\n  \"moveInDate\": \"flexible\",\n  \"floor\": 11,\n  \"mediation\": true,\n  \"sublet\": false,\n  \"subletDates\": \"\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688226970,
+  "id": "chatcmpl-7XXFC1ZVTLcev9hiyrQPDb7uz5QsJ",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 106,
+    "prompt_tokens": 528,
+    "total_tokens": 634
+  }
+}
+2023-07-01 18:56:12,739 - INFO - ----------------------------------------------------------
+
+2023-07-01 18:56:13,269 - INFO - -------------------json object-------------------
+{'address': 'Bilu-Simtat Habima', 'price': 11000, 'rooms': 4, 'bathrooms': 1, 'size': 77, 'elevator': True, 'furnished': True, 'petsAllowed': True, 'moveInDate': 'flexible', 'floor': 11, 'mediation': True, 'sublet': False, 'subletDates': '', 'posting': 'להשכרה מתיווך  בסימטאות הבימה ברחוב ביל"ו השקט והמבוקש  מתפנה לה דירת 4 חדרים 77 מ"ר משופצת אדריכלית \nסלון פתוח למטבח עם פינת אוכל גדולה  שרותים ומקלחת כפולים  בניין משופץ עם מעלית  הדירה משופצת מן היסודעוד ומרוהטת קומפלט  מציאה לזוגות משפחה או 3 שותפים טובים  שכד 11 אלף וגמיש  תאריך כניסה גמישה  לפרטים נוספים שי 054-7976262 מיקום פצצה לא לפספס   ', 'lat': 31.87702, 'lon': 34.82108}
+2023-07-01 18:56:13,269 - INFO - ----------------------------------------------------------
+
+2023-07-01 18:56:15,496 - INFO - היי לכולם
+עוזבת את החדר שלי בדירה המושלמת בצפון הישן ברחוב בן יהודה  השותפה שנשארת היא Carmel Cohen המהממת .מחפשים שותפה בסביבות גילאי 25 .
+עלות הדירה היא 3000 בדירה יש שירותים ומקלחת משותפים מטבח עם מרפסת קטנה .
+בחדר המתפנה יש מרפסת חלון החדר די גדול.
+הדירה פונה לבנות סורי בנים.
+לפרטים נוספים בפרטי.
+2023-07-01 18:56:17,430 - INFO - -------------------generated_text-------------------
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Ben Yehuda Street-Ben Yehuda Street\",\n  \"price\": 3000,\n  \"rooms\": 1,\n  \"moveInDate\": \"\",\n  \"floor\": null,\n  \"petsAllowed\": null,\n  \"elevator\": null,\n  \"mediation\": null,\n  \"sublet\": null,\n  \"subletDates\": \"\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688226976,
+  "id": "chatcmpl-7XXFIEt4dchHbat7ERTWvlnBz5vh9",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 82,
+    "prompt_tokens": 465,
+    "total_tokens": 547
+  }
+}
+2023-07-01 18:56:17,430 - INFO - ----------------------------------------------------------
+
+2023-07-01 18:56:18,027 - INFO - Geocoding failed!
+2023-07-01 18:56:18,027 - INFO - -------------------json object-------------------
+{'address': 'Ben Yehuda Street-Ben Yehuda Street', 'price': 3000, 'rooms': 1, 'moveInDate': '', 'floor': None, 'petsAllowed': None, 'elevator': None, 'mediation': None, 'sublet': None, 'subletDates': '', 'posting': 'היי לכולם\nעוזבת את החדר שלי בדירה המושלמת בצפון הישן ברחוב בן יהודה  השותפה שנשארת היא Carmel Cohen המהממת .מחפשים שותפה בסביבות גילאי 25 .\nעלות הדירה היא 3000 בדירה יש שירותים ומקלחת משותפים מטבח עם מרפסת קטנה .\nבחדר המתפנה יש מרפסת חלון החדר די גדול.\nהדירה פונה לבנות סורי בנים.\nלפרטים נוספים בפרטי.'}
+2023-07-01 18:56:18,027 - INFO - ----------------------------------------------------------
+
+2023-07-01 18:56:23,854 - INFO -  דירה שלמה בצפון הישן לא מתיווך 
+דירה מקסימה וסופר-שקטה במיקום מנצח. (רח סוקולוב בין זבוטינסקי לנורדאו)
+נעימה מוארת עורפית ופונה לירוק.
+קומה שניה  מעלית ישירה (גישה לנכים / עגלות).
+3 חדרים (70 מ"ר). 3עוד מזגנים 3 כיווני אוויר.
+חימום מים מרכזי חסכוני בבנייןללא תשלוםמים חמים כל השנה 24/7  מצמצם משמעותית הוצאות חשמל.
+מתוחזקת ברמה הגבוהה ביותר ולאחרונה עברה שיפוץ מהיסוד בחדרי האמבטיה והשירותים.
+גם הבנייןהגינה שופצו בשנים האחרונות.
+מיקום מרכזי בסוקולוב הירוק והפסטורלי (שניה מדיזנגוף מתחם בזל מהים וכו).
+מס פריטים נשארים בדירה  בראשם הויטרינה היפה ביותר שראיתי מימיי (ויטרינת עץ בסלון מגולפת עבודת יד שיובאה מאירופה נדירה מהפיפטיז)
+חלוקת חלל: סלון ענק חדר שינה אחד גדול ואחד קטן.
+המון שטח אחסון נוח.
+אידאלית ליחיד / זוג / זוג עם ילד.ה
+שכ"ד 8585ש"ח:) שכנים טובים ונעימים. כניסה 1.8.23.
+מחפשת דיירים סימפטיים ואחראיים
+יתרון משמעותי למעדיפים להשאיר מס רהיטי וינטג ייחודיים (ללא צורך ברכישתם)יודעים להתייחס אליהם בכבוד:)
+מתחילה להראות בשבוע הבא. לפרטים נוספים ולתיאום: 052-3634083.
+(נא לא להגיב כאן/בפרטי אלא רק מול המס הזה תודה:) )
+2023-07-01 18:56:26,251 - INFO - -------------------generated_text-------------------
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n   \"address\": \"Sokolov Street - Zabotinsky Street\",\n   \"price\": 8585,\n   \"rooms\": 3,\n   \"bathrooms\": null,\n   \"size\": 70,\n   \"elevator\": true,\n   \"furnished\": null,\n   \"petsAllowed\": null,\n   \"moveInDate\": \"1/8\",\n   \"floor\": 2,\n   \"mediation\": false,\n   \"sublet\": false,\n   \"subleaseDate\": null\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688226984,
+  "id": "chatcmpl-7XXFQWTEWOw698hV3IgA6bPuqDRXo",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 1176,
+    "total_tokens": 1286
+  }
+}
+2023-07-01 18:56:26,252 - INFO - ----------------------------------------------------------
+
+2023-07-01 18:56:26,767 - INFO - Geocoding failed!
+2023-07-01 18:56:26,767 - INFO - -------------------json object-------------------
+{'address': 'Sokolov Street - Zabotinsky Street', 'price': 8585, 'rooms': 3, 'bathrooms': None, 'size': 70, 'elevator': True, 'furnished': None, 'petsAllowed': None, 'moveInDate': '1/8', 'floor': 2, 'mediation': False, 'sublet': False, 'subleaseDate': None, 'posting': ' דירה שלמה בצפון הישן לא מתיווך \nדירה מקסימה וסופר-שקטה במיקום מנצח. (רח סוקולוב בין זבוטינסקי לנורדאו)\nנעימה מוארת עורפית ופונה לירוק.\nקומה שניה  מעלית ישירה (גישה לנכים / עגלות).\n3 חדרים (70 מ"ר). 3עוד מזגנים 3 כיווני אוויר.\nחימום מים מרכזי חסכוני בבנייןללא תשלוםמים חמים כל השנה 24/7  מצמצם משמעותית הוצאות חשמל.\nמתוחזקת ברמה הגבוהה ביותר ולאחרונה עברה שיפוץ מהיסוד בחדרי האמבטיה והשירותים.\nגם הבנייןהגינה שופצו בשנים האחרונות.\nמיקום מרכזי בסוקולוב הירוק והפסטורלי (שניה מדיזנגוף מתחם בזל מהים וכו).\nמס פריטים נשארים בדירה  בראשם הויטרינה היפה ביותר שראיתי מימיי (ויטרינת עץ בסלון מגולפת עבודת יד שיובאה מאירופה נדירה מהפיפטיז)\nחלוקת חלל: סלון ענק חדר שינה אחד גדול ואחד קטן.\nהמון שטח אחסון נוח.\nאידאלית ליחיד / זוג / זוג עם ילד.ה\nשכ"ד 8585ש"ח:) שכנים טובים ונעימים. כניסה 1.8.23.\nמחפשת דיירים סימפטיים ואחראיים\nיתרון משמעותי למעדיפים להשאיר מס רהיטי וינטג ייחודיים (ללא צורך ברכישתם)יודעים להתייחס אליהם בכבוד:)\nמתחילה להראות בשבוע הבא. לפרטים נוספים ולתיאום: 052-3634083.\n(נא לא להגיב כאן/בפרטי אלא רק מול המס הזה תודה:) )'}
+2023-07-01 18:56:26,767 - INFO - ----------------------------------------------------------
+
+2023-07-01 18:56:31,743 - INFO - מציאה 2.5 חדרים ענקית ל-2 שותפים או זוג  מרפסת סגורה גדולה   חצי חדר גדול שיכול לשמש כסלון  בקרבת רחוב בילו והבימה  ב6500
+דירה ענקית מרוהטת 
+על אבן גבירול
+מרחק הליכה מכיכר הבימה ורוטשילדעוד 
+מושלמת ל-2 שותפים
+או זוג
+שני חדרי שינה ענקיים
+ חצי חדר שיכול לשמש סלון 
+ מרפסת סגורה גדולה 
+גם המרפסת וגם ההול בכניסה לדירה יכולים לשמש כסלון 
+עוד יציאה למרפסת שירות 
+יש חיבור למכונת כביסה וגז
+75 מטר
+אפשר חיות מחמד
+הדירה עוברת סיוד ותיקונים היום ומחר
+קומה שלישית ללא מעלית 
+חוזה קליל
+כניסה ב10.7 
+כל הריהוט שיש בדירה יכול להישאר  חלק בתשלום ממש סימלי וחלק פשוט נשאר  כמובן רק אם רוצים .
+לפרטים מתיווך: נא לשלוח הודעה בפרטי או בווטספ למספר ולציין איזו דירה - 054-2131929 עידן
+2023-07-01 18:56:31,825 - INFO - found in DB: 
+{'_id': ObjectId('649d9337c9da26e09112009c'), 'address': 'Bilu Street and HaBima Square', 'price': 6500, 'rooms': 2.5, 'moveInDate': '10/7', 'floor': 3, 'petsAllowed': True, 'elevator': False, 'mediation': True, 'sublet': False, 'subletDates': '', 'posting': 'מציאה 2.5 חדרים ענקית ל-2 שותפים או זוג  מרפסת סגורה גדולה   חצי חדר גדול שיכול לשמש כסלון  בקרבת רחוב בילו והבימה  ב6500\nדירה ענקית מרוהטת \nעל אבן גבירול\nמרחק הליכה מכיכר הבימה ורוטשילדעוד \nמושלמת ל-2 שותפים\nאו זוג\nשני חדרי שינה ענקיים\n חצי חדר שיכול לשמש סלון \n מרפסת סגורה גדולה \nגם המרפסת וגם ההול בכניסה לדירה יכולים לשמש כסלון \nעוד יציאה למרפסת שירות \nיש חיבור למכונת כביסה וגז\n75 מטר\nאפשר חיות מחמד\nהדירה עוברת סיוד ותיקונים היום ומחר\nקומה שלישית ללא מעלית \nחוזה קליל\nכניסה ב10.7 \nכל הריהוט שיש בדירה יכול להישאר  חלק בתשלום ממש סימלי וחלק פשוט נשאר  כמובן רק אם רוצים .\nלפרטים מתיווך: נא לשלוח הודעה בפרטי או בווטספ למספר ולציין איזו דירה - 054-2131929 עידן'}
+2023-07-01 18:56:36,046 - INFO - דירות ריקות// מודעה מתיווך
+דירה להשכרה בתל אביב
+בצפון השקטברח השלה המבוקש דירת 3 חד
+מרווחת ומוארת
+
+במתחם באזל ברח השלה
+דירת 3 חד כ90 מ"ר שמורה מרווחת עם חללים גדולים
+
+קומה 1 מעלית
+
+לטווח ארוך 
+
+כניסה : 15.7
+
+מחיר: 9500  
+
+לפרטים 0545559921
+
+דירות מציאה מפה לאוזן המאגר המלא
+https://www.facebook.com/groups/2065942027026008/
+2023-07-01 18:56:38,422 - INFO - -------------------generated_text-------------------
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Bazel Street-HaShela Street\",\n  \"price\": 9500,\n  \"rooms\": 3,\n  \"moveInDate\": \"15/7\",\n  \"floor\": 1,\n  \"petsAllowed\": false,\n  \"elevator\": true,\n  \"mediation\": true,\n  \"sublet\": false,\n  \"subletDates\": \"\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688226996,
+  "id": "chatcmpl-7XXFcUt5KUei7MYFDm9jmq4ZLqxEA",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 84,
+    "prompt_tokens": 450,
+    "total_tokens": 534
+  }
+}
+2023-07-01 18:56:38,422 - INFO - ----------------------------------------------------------
+
+2023-07-01 18:56:38,891 - INFO - Geocoding failed!
+2023-07-01 18:56:38,891 - INFO - -------------------json object-------------------
+{'address': 'Bazel Street-HaShela Street', 'price': 9500, 'rooms': 3, 'moveInDate': '15/7', 'floor': 1, 'petsAllowed': False, 'elevator': True, 'mediation': True, 'sublet': False, 'subletDates': '', 'posting': 'דירות ריקות// מודעה מתיווך\nדירה להשכרה בתל אביב\nבצפון השקטברח השלה המבוקש דירת 3 חד\nמרווחת ומוארת\n\nבמתחם באזל ברח השלה\nדירת 3 חד כ90 מ"ר שמורה מרווחת עם חללים גדולים\n\nקומה 1 מעלית\n\nלטווח ארוך \n\nכניסה : 15.7\n\nמחיר: 9500  \n\nלפרטים 0545559921\n\nדירות מציאה מפה לאוזן המאגר המלא\nhttps://www.facebook.com/groups/2065942027026008/'}
+2023-07-01 18:56:38,891 - INFO - ----------------------------------------------------------
+
+2023-07-01 18:56:44,763 - INFO - להשכרה מראים הערב
+במיקום הכי מבוקש בעיר בין חוף פרישמן לגורדון
+2 חדרים עורפית ושקטה עם מרפסת שמש 
+5500 ש"ח. לתיאום  צרו קשר 054-9402299 ליאור
+ דירה מוארת מאוד קומה שלישית בבניין מסודר עם אינטרקום.
+ לא עוד מחולקת 
+ סלון מרווח עם מקום לפינת אוכל.
+ ארון קיר ענק.
+ מקלחת מרווחת עם מקום למכונת כביסה.
+ חדר שינה עם יציאה למרפסת שמש מדהימה.
+ מטבח גדול ומטופח משותף לדירה נוספת.
+(דירת שותפים שהחלק השיתופי היחיד בו הוא המטבח)
+ כניסה 4.7.23  עורפית ברחוב דיזינגוף חוזה קליל מאוד  בעלים מדהימים
+ עדיפות ליחידה (מתאימה לזוגות)
+לתיאום  צרו קשר 054-9402299 ליאור
+ תיווך LiKe Tel Aviv 
+2023-07-01 18:56:46,894 - INFO - -------------------generated_text-------------------
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Dizengoff Street-Gordon Street\",\n  \"price\": 5500,\n  \"rooms\": 2,\n  \"moveInDate\": \"4/7\",\n  \"floor\": 3,\n  \"petsAllowed\": false,\n  \"elevator\": true,\n  \"mediation\": true,\n  \"sublet\": false,\n  \"subletDates\": null\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688227005,
+  "id": "chatcmpl-7XXFl0wqqAPEDKFxio2VoyHBmG6PI",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 85,
+    "prompt_tokens": 710,
+    "total_tokens": 795
+  }
+}
+2023-07-01 18:56:46,894 - INFO - ----------------------------------------------------------
+
+2023-07-01 18:56:47,720 - INFO - -------------------json object-------------------
+{'address': 'Dizengoff Street-Gordon Street', 'price': 5500, 'rooms': 2, 'moveInDate': '4/7', 'floor': 3, 'petsAllowed': False, 'elevator': True, 'mediation': True, 'sublet': False, 'subletDates': None, 'posting': 'להשכרה מראים הערב\nבמיקום הכי מבוקש בעיר בין חוף פרישמן לגורדון\n2 חדרים עורפית ושקטה עם מרפסת שמש \n5500 ש"ח. לתיאום  צרו קשר 054-9402299 ליאור\n דירה מוארת מאוד קומה שלישית בבניין מסודר עם אינטרקום.\n לא עוד מחולקת \n סלון מרווח עם מקום לפינת אוכל.\n ארון קיר ענק.\n מקלחת מרווחת עם מקום למכונת כביסה.\n חדר שינה עם יציאה למרפסת שמש מדהימה.\n מטבח גדול ומטופח משותף לדירה נוספת.\n(דירת שותפים שהחלק השיתופי היחיד בו הוא המטבח)\n כניסה 4.7.23  עורפית ברחוב דיזינגוף חוזה קליל מאוד  בעלים מדהימים\n עדיפות ליחידה (מתאימה לזוגות)\nלתיאום  צרו קשר 054-9402299 ליאור\n תיווך LiKe Tel Aviv ', 'lat': 51.525706, 'lon': -0.133209}
+2023-07-01 18:56:47,720 - INFO - ----------------------------------------------------------
+
+2023-07-01 18:56:53,042 - INFO - דירת גג להשכרה ברחוב יגאל אלון שכונת נחלת יצחק בתל אביב.
+
+מיקום מרכזי- 5 דקות הליכה למידטאון ולעזריאלי 8 דקות לרכבת השלום ולסבידור. סמוך לקאנטרי מגדלי תא
+
+4 חדרים (3 חדרי שינה  סלון גדול)
+
+90 מר  65 מר גגעוד פרטי של הדירה
+
+חניה בטאבו
+
+קומה 5 (יש מעלית)
+
+הדירה מרוהטת עם מוצרי חשמל (תנור מקרר מכונת כביסה( ורהיטים (סלון בסיסי מיטה  מזרנים ארונות)
+
+מתאימה למשפחה או ל-3 שותפים.
+
+כניסה 1.8.2023
+
+מחיר 9200
+2023-07-01 18:56:55,272 - INFO - -------------------generated_text-------------------
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Yigal Alon Street, Nechalat Yitzhak Neighborhood, Tel Aviv\",\n  \"price\": 9200,\n  \"rooms\": 4,\n  \"moveInDate\": \"1/8\",\n  \"floor\": 5,\n  \"petsAllowed\": true,\n  \"elevator\": true,\n  \"mediation\": false,\n  \"sublet\": false,\n  \"subletDates\": \"\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688227013,
+  "id": "chatcmpl-7XXFtpEyXndVa3uOVrQg009vfwWZF",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 94,
+    "prompt_tokens": 566,
+    "total_tokens": 660
+  }
+}
+2023-07-01 18:56:55,272 - INFO - ----------------------------------------------------------
+
+2023-07-01 18:56:57,891 - INFO - -------------------json object-------------------
+{'address': 'Yigal Alon Street, Nechalat Yitzhak Neighborhood, Tel Aviv', 'price': 9200, 'rooms': 4, 'moveInDate': '1/8', 'floor': 5, 'petsAllowed': True, 'elevator': True, 'mediation': False, 'sublet': False, 'subletDates': '', 'posting': 'דירת גג להשכרה ברחוב יגאל אלון שכונת נחלת יצחק בתל אביב.\n\nמיקום מרכזי- 5 דקות הליכה למידטאון ולעזריאלי 8 דקות לרכבת השלום ולסבידור. סמוך לקאנטרי מגדלי תא\n\n4 חדרים (3 חדרי שינה  סלון גדול)\n\n90 מר  65 מר גגעוד פרטי של הדירה\n\nחניה בטאבו\n\nקומה 5 (יש מעלית)\n\nהדירה מרוהטת עם מוצרי חשמל (תנור מקרר מכונת כביסה( ורהיטים (סלון בסיסי מיטה  מזרנים ארונות)\n\nמתאימה למשפחה או ל-3 שותפים.\n\nכניסה 1.8.2023\n\nמחיר 9200', 'lat': 32.066455, 'lon': 34.783553}
+2023-07-01 18:56:57,891 - INFO - ----------------------------------------------------------
+
+2023-07-01 18:57:01,836 - INFO - להשכרה דירת 3 חדרים במרכז קרובה לים ונמל תל אביב.
+קומה 3 עם מעלית
+יפה מאוד .
+מיידי 7700 שח לחודש
+תיווך א.ב.המפתח יזום והשקעות בעמ
+אינה 052-5808067
+2023-07-01 18:57:01,915 - INFO - found in DB: 
+{'_id': ObjectId('649d6e6d6c56dd7096ae20ce'), 'address': 'Near the sea and port of Tel Aviv', 'price': 7700, 'rooms': 3, 'moveInDate': 'immediate', 'floor': 3, 'petsAllowed': False, 'elevator': True, 'mediation': True, 'sublet': False, 'subletDates': '', 'posting': 'להשכרה דירת 3 חדרים במרכז קרובה לים ונמל תל אביב.\nקומה 3 עם מעלית\nיפה מאוד .\nמיידי 7700 שח לחודש\nתיווך א.ב.המפתח יזום והשקעות בעמ\nאינה 052-5808067', 'lat': 32.096907, 'lon': 34.775314}
+2023-07-01 18:57:06,189 - INFO - להשכרה ברחוב בלוך מול כיכר רבין:
+
+תאריך כניסה -ראשון באוגוסט
+דירת 2.5 חדרים מרווחת  הול שתי מרפסות סגורות כ 80 מר מתאימה לזוג או זוג1. חדר אמבטיה משופץ.
+קומה 2 עם מעלית וללא חניה.
+כמו הרבה בנייניםעוד בעיר הבניין בתהליך לתמא במועד בלתי ידוע (מזה מספר שנים). שכר הדירה בתקופת התמא יעבור התאמות.
+
+שכד : 7800 שח
+
+Ohad Sitton
+לפרטים נוספים ותאום: אוהד - 052-8778930
+2023-07-01 18:57:08,906 - INFO - -------------------generated_text-------------------
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"address\": \"Bloch Street - Rabin Square\",\n  \"price\": 7800,\n  \"rooms\": 2.5,\n  \"bathrooms\": 1,\n  \"size\": 80,\n  \"elevator\": true,\n  \"furnished\": false,\n  \"petsAllowed\": true,\n  \"moveInDate\": \"1/8\",\n  \"floor\": 2,\n  \"mediation\": false,\n  \"sublet\": false,\n  \"subletDates\": \"\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688227026,
+  "id": "chatcmpl-7XXG6vhWdPVsitfxUUSynmysy8STN",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 108,
+    "prompt_tokens": 509,
+    "total_tokens": 617
+  }
+}
+2023-07-01 18:57:08,906 - INFO - ----------------------------------------------------------
+
+2023-07-01 18:57:10,338 - INFO - Geocoding failed!
+2023-07-01 18:57:10,338 - INFO - -------------------json object-------------------
+{'address': 'Bloch Street - Rabin Square', 'price': 7800, 'rooms': 2.5, 'bathrooms': 1, 'size': 80, 'elevator': True, 'furnished': False, 'petsAllowed': True, 'moveInDate': '1/8', 'floor': 2, 'mediation': False, 'sublet': False, 'subletDates': '', 'posting': 'להשכרה ברחוב בלוך מול כיכר רבין:\n\nתאריך כניסה -ראשון באוגוסט\nדירת 2.5 חדרים מרווחת  הול שתי מרפסות סגורות כ 80 מר מתאימה לזוג או זוג1. חדר אמבטיה משופץ.\nקומה 2 עם מעלית וללא חניה.\nכמו הרבה בנייניםעוד בעיר הבניין בתהליך לתמא במועד בלתי ידוע (מזה מספר שנים). שכר הדירה בתקופת התמא יעבור התאמות.\n\nשכד : 7800 שח\n\nOhad Sitton\nלפרטים נוספים ותאום: אוהד - 052-8778930'}
+2023-07-01 18:57:10,338 - INFO - ----------------------------------------------------------
+
+2023-07-01 18:57:19,205 - INFO - מודעה מתיווך  שקל נדלן
+דירת 3 חד בצפון החדש  2 דק מכיכר המדינה 
+שכר דירה: 6500  
+- משופצת
+- 70 מ"ר
+- גג בקומה מעל לשימוש הדירה
+- מרפסת שירות לכביסה
+- מוארת מאוד
+- דוד שמש
+- חיבור למכונה כביסהעוד
+- מיזוג
+- קומה 3.5  ללא מעלית
+כניסה מיידית
+לפרטים ותיאום לשלוח וואטסאפ : 0557258554 גל (תיווך)
+ קישור לוואטאספ: https://wa.me/message/ANVC3IMMYP3XH1
+2023-07-01 18:57:21,589 - INFO - -------------------generated_text-------------------
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n   \"address\":\"North Tel Aviv, close to the City Square\",\n   \"price\":6500,\n   \"rooms\":3,\n   \"moveInDate\":\"Immediate\",\n   \"floor\":3.5,\n   \"petsAllowed\":true,\n   \"elevator\":false,\n   \"mediation\":true,\n   \"sublet\":false,\n   \"subletDates\":\"None\"\n}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1688227039,
+  "id": "chatcmpl-7XXGJBmVDd0mPyY5Ibp2Lktfaq4y3",
+  "model": "gpt-3.5-turbo-16k-0613",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 81,
+    "prompt_tokens": 494,
+    "total_tokens": 575
+  }
+}
+2023-07-01 18:57:21,590 - INFO - ----------------------------------------------------------
+
+2023-07-01 18:57:22,241 - INFO - -------------------json object-------------------
+{'address': 'North Tel Aviv, close to the City Square', 'price': 6500, 'rooms': 3, 'moveInDate': 'Immediate', 'floor': 3.5, 'petsAllowed': True, 'elevator': False, 'mediation': True, 'sublet': False, 'subletDates': 'None', 'posting': 'מודעה מתיווך  שקל נדלן\nדירת 3 חד בצפון החדש  2 דק מכיכר המדינה \nשכר דירה: 6500  \n- משופצת\n- 70 מ"ר\n- גג בקומה מעל לשימוש הדירה\n- מרפסת שירות לכביסה\n- מוארת מאוד\n- דוד שמש\n- חיבור למכונה כביסהעוד\n- מיזוג\n- קומה 3.5  ללא מעלית\nכניסה מיידית\nלפרטים ותיאום לשלוח וואטסאפ : 0557258554 גל (תיווך)\n קישור לוואטאספ: https://wa.me/message/ANVC3IMMYP3XH1', 'lat': 34.523141, 'lon': -82.493555}
+2023-07-01 18:57:22,242 - INFO - ----------------------------------------------------------
+

@@ -1,23 +1,26 @@
-from common.constants import POSITIONSTACK_APIKEY, POSITIONSTACK_ENDPOINT
+from common.constants import POSITIONSTACK_APIKEY_NAME, POSITIONSTACK_ENDPOINT_NAME
 import requests
 
-def get_coords(address):
+def get_coords(address, config, logger):
     # Send a GET request to the API
+    apikey = config[POSITIONSTACK_APIKEY_NAME]
     params = {
-        "access_key": POSITIONSTACK_APIKEY,
+        "access_key": apikey,
         "query": address
     }
 
-    response = requests.get(POSITIONSTACK_ENDPOINT, params=params)
+    endpoint = config[POSITIONSTACK_ENDPOINT_NAME]
+    response = requests.get(endpoint, params=params)
     # Parse the JSON response
     data = response.json()
     if "data" in data and len(data["data"]) > 0:
         location = data["data"][0]
-        latitude = location["latitude"]
-        longitude = location["longitude"]
-        print(f"Latitude: {latitude}")
-        print(f"Longitude: {longitude}")
-        return latitude, longitude
+
+        if type(location) is not dict:
+            logger.info(f'Geocoding failed. Address is invalid. \n {location}')
+            return None
+
+        return location
     else:
-        print("Geocoding failed!")
+        logger.info("Geocoding failed!")
         return None
