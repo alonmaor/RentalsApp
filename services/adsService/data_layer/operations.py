@@ -22,10 +22,10 @@ def get_rental_ad_filter(filters):
                 # query pymongo for a range
                 low, high = value.split('-')
                 query["price"] = {"$gte": int(low), "$lte": int(high)}
-            elif key == '_id' and value is not None:
+            if key == '_id' and value is not None:
                 query['_id'] = ObjectId(value)
-            elif key == 'createdDate':
-                query["createdDate"] = value
+            if key == 'createdDate':
+                query["createdDate"] = {"$exists": True, "$eq": value}
                 # if '-' in value:
                 #     low, high = value.split('-')
                 #     query["createdDate"] = {"$gte": low, "$lte": high}
