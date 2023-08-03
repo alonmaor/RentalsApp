@@ -25,11 +25,12 @@ def get_rental_ad_filter(filters):
             elif key == '_id' and value is not None:
                 query['_id'] = ObjectId(value)
             elif key == 'createdDate':
-                if '-' in value:
-                    low, high = value.split('-')
-                    query["createdDate"] = {"$gte": low, "$lte": high}
-                else:
-                    query["createdDate"] = ISODate(value)
+                query["createdDate"] = value
+                # if '-' in value:
+                #     low, high = value.split('-')
+                #     query["createdDate"] = {"$gte": low, "$lte": high}
+                # else:
+                #     query["createdDate"] = value
 
     print(query)
     rentals = list(rentals_collection.find(query))
