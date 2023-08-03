@@ -4,12 +4,12 @@ import requests
 def get_coords(address, config, logger):
     # Send a GET request to the API
     apikey = config[POSITIONSTACK_APIKEY_NAME]
+    endpoint = config[POSITIONSTACK_ENDPOINT_NAME]
     params = {
         "access_key": apikey,
         "query": address
     }
 
-    endpoint = config[POSITIONSTACK_ENDPOINT_NAME]
     response = requests.get(endpoint, params=params)
     # Parse the JSON response
     data = response.json()

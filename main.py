@@ -4,9 +4,10 @@ import re
 import logging
 
 import latlon_api
+import mapquest_api
 from openai_api import generate_text
 from common.constants import POSITIONSTACK_APIKEY_NAME, POSITIONSTACK_ENDPOINT_NAME, OPENAI_APIKEY_NAME, \
-    FB_ACCESS_TOKEN_NAME, FB_GROUP_ID_NAME
+    FB_ACCESS_TOKEN_NAME, FB_GROUP_ID_NAME, MAPQUEST_APIKEY_NAME, MAPQUEST_ENDPOINT_NAME
 import facebook_api
 import data_layer.connection as mongo_connection
 
@@ -46,17 +47,23 @@ def analyze_posts(config):
 
             generated_text = generate_text(cleaned_post, config)
 
-            logger.info(f'-------------------generated_text-------------------\n{generated_text}')
+            logger.info(f'-------------------OPENAI RESPONSE-------------------\n{generated_text}')
             # logger.info(generated_text["choices"][0]["message"]["content"])
             logger.info('----------------------------------------------------------\n')
-            json_object = json.loads(generated_text["choices"][0]["message"]["content"])
+            try:
+                json_object = json.loads(generated_text["choices"][0]["message"]["content"])
+            except json.decoder.JSONDecodeError:
+                logger.info(f'Invalid responese from OpenAI: \n{generated_text}')
+                continue
             json_object["posting"] = cleaned_post
-            address = json_object['address']
-            location = latlon_api.get_coords(address, config, logger)
+            json_object["url"] = post['post_url']
+            address = json_object['streetAddress']
+            #neighborhood = json_object['neighborhood']
+            location = mapquest_api.google_geocode(address)
             if location is not None:
                 lat = location["latitude"]
                 lon = location["longitude"]
-                json_object["lat"], json_object["lon"] = lat, lon
+                json_object["latitude"], json_object["longitude"] = lat, lon
             logger.info(f'-------------------json object-------------------\n{json_object}')
             logger.info('----------------------------------------------------------\n')
             print()
@@ -65,7 +72,6 @@ def analyze_posts(config):
         else:
             logger.info(f'found in DB: \n{results[0]}')
             print(f'found in DB: \n{results[0]}')
-            address = results[0]['address']
 
         print('----------------------------------------\n\n')
 
@@ -81,6 +87,8 @@ def load_config():
     config[OPENAI_APIKEY_NAME] = os.getenv(OPENAI_APIKEY_NAME)
     config[FB_ACCESS_TOKEN_NAME] = os.getenv(FB_ACCESS_TOKEN_NAME)
     config[FB_GROUP_ID_NAME] = os.getenv(FB_GROUP_ID_NAME)
+    config[MAPQUEST_APIKEY_NAME] = os.getenv(MAPQUEST_APIKEY_NAME)
+    config[MAPQUEST_ENDPOINT_NAME] = os.getenv(MAPQUEST_ENDPOINT_NAME)
 
     return config
 

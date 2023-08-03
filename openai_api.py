@@ -11,6 +11,7 @@ def generate_text(post, config):
             {"role": "user", "content": OPENAI_PROMPT.format(post)}
         ]
     )
+    print('------------------OPENAI RESPONSE-------------------')
     print(response)
 
     return response

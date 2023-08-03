@@ -4,7 +4,7 @@ from bson import ObjectId
 from connection import get_mongodb_connection
 
 db = get_mongodb_connection()
-rentals_collection = db["post_data"]
+rentals_collection = db["rental_ads"]
 
 
 def get_rental_ads():

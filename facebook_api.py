@@ -5,7 +5,6 @@ from common.constants import FB_ACCESS_TOKEN_NAME, FB_GROUP_ID_NAME
 from facebook_scraper import get_posts
 # Set your access token and group ID
 #fb_access_token = 'EAANiLsDHsckBAPZA3LeMtw6l52NwqAZByXCE70Vz5GwVldUsU8LhH1OeG4GwkOAIGJaUyYnvGca0hk9YOWiBZABKuarQJjZBjX2AFZBhW83tBSQCrZBclI6ZCrmYMCCAzwwjop3PpJZBtDG01et8fpZCi75ahs8ZAfjuZBdSJAkjVLun56dY0JqIkZBeVXKfTpx4PniyrvTMXj9usQZDZD'
-fb_group_id = '458499457501175'
 #
 # # Make a GET request to fetch posts from the group
 # fb_url = f'https://graph.facebook.com/v16.0/{fb_group_id}/feed'
@@ -16,12 +15,13 @@ fb_group_id = '458499457501175'
 
 
 def scrape_fb_posts(config, logger):
-    fb_group_id = config[FB_GROUP_ID_NAME]
+    fb_group_ids = ['458499457501175', '287564448778602', '189220514572424', '2092819334342645', 'ApartmentsTelAviv', '1485565508385836', 'telavivrentals', '1196843027043598', '174312609376409', 'RentinTLV', '1458853481020151', 'tel.aviv.dirot']
     try:
-        for post in get_posts(fb_group_id, pages=20):
-            print('----------------------------------post----------------------------------\n')
-            print(post)
-            yield post
+        for group_id in fb_group_ids:
+            for post in get_posts(group_id, pages=100):
+                print('----------------------------------post----------------------------------\n')
+                print(post)
+                yield post
     except Exception as e:
         logger.error(f'failed to scrape fb posts. \n {e}')
         return None

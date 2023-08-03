@@ -1,12 +1,21 @@
 from typing import Union
 
-from bson import ObjectId
 from fastapi import FastAPI, Query
-from pydantic import BaseModel, typing
+from fastapi.middleware.cors import CORSMiddleware
 
 from data_layer import operations
 
 app = FastAPI()
+
+origins = ["http://localhost:3000"]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 # API endpoint to get rentals
 # @app.get("/rental_ads/all")
@@ -37,10 +46,3 @@ def get_rental(
     rental_ad = operations.get_rental_ad_filter(filters)
 
     return rental_ad
-
-
-if __name__ == '__main__':
-    print('test')
-    import uvicorn
-
-    uvicorn.run("main:app", host="localhost", port=8000, reload=True)
