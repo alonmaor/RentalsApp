@@ -2,8 +2,8 @@ import json
 import os
 import re
 import logging
+from datetime import datetime
 
-import latlon_api
 import mapquest_api
 from openai_api import generate_text
 from common.constants import POSITIONSTACK_APIKEY_NAME, POSITIONSTACK_ENDPOINT_NAME, OPENAI_APIKEY_NAME, \
@@ -13,6 +13,7 @@ import data_layer.connection as mongo_connection
 
 
 def analyze_posts(config):
+    today_date = datetime.today().strftime('%Y-%m-%d')
     logger = logging.getLogger(__name__)
     logger.setLevel(logging.DEBUG)
 
@@ -57,6 +58,7 @@ def analyze_posts(config):
                 continue
             json_object["posting"] = cleaned_post
             json_object["url"] = post['post_url']
+            json_object["createdDate"] = today_date
             address = json_object['streetAddress']
             #neighborhood = json_object['neighborhood']
             location = mapquest_api.google_geocode(address)

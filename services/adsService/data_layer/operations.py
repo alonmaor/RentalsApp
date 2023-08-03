@@ -1,6 +1,6 @@
 from fastapi import HTTPException
 from bson import ObjectId
-
+import ISODate
 from data_layer.connection import get_mongodb_connection
 
 db = get_mongodb_connection()
@@ -23,8 +23,14 @@ def get_rental_ad_filter(filters):
                 # query pymongo for a range
                 low, high = value.split('-')
                 query["price"] = {"$gte": int(low), "$lte": int(high)}
-            if key == '_id' and value is not None:
+            elif key == '_id' and value is not None:
                 query['_id'] = ObjectId(value)
+            elif key == 'createdDate':
+                if '-' in value:
+                    low, high = value.split('-')
+                    query["createdDate"] = {"$gte": ISODate(low), "$lte": ISODate(high)}
+                else:
+                    query["createdDate"] = ISODate(value)
 
     print(query)
     rentals = list(rentals_collection.find(query))
