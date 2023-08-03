@@ -1,6 +1,5 @@
 from fastapi import HTTPException
 from bson import ObjectId
-import ISODate
 from data_layer.connection import get_mongodb_connection
 
 db = get_mongodb_connection()
@@ -28,7 +27,7 @@ def get_rental_ad_filter(filters):
             elif key == 'createdDate':
                 if '-' in value:
                     low, high = value.split('-')
-                    query["createdDate"] = {"$gte": ISODate(low), "$lte": ISODate(high)}
+                    query["createdDate"] = {"$gte": low, "$lte": high}
                 else:
                     query["createdDate"] = ISODate(value)
 
