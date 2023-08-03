@@ -32,15 +32,21 @@ def get_rental(
         rooms: Union[int, None] = Query(None),
         price: Union[str, None] = Query(None),
         elevator: Union[bool, None] = Query(None),
+        furnished: Union[bool, None] = Query(None),
         petsAllowed: Union[bool, None] = Query(None),
-        mediation: Union[bool, None] = Query(None)):
+        mediation: Union[bool, None] = Query(None),
+        roommates: Union[bool, None] = Query(None),
+        createdDate: Union[str, None] = Query(None),):
     filters = {
         '_id': _id,
         'rooms': rooms,
         'price': price,
         'elevator': elevator,
+        'furnished': furnished,
         'petsAllowed': petsAllowed,
-        'mediation': mediation
+        'mediation': mediation,
+        'roommates': roommates,
+        'createdDate': createdDate
     }
 
     rental_ad = operations.get_rental_ad_filter(filters)
